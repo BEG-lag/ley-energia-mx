@@ -67,6 +67,16 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .brand { display: inline-flex; align-items: center; gap: 9px; color: var(--paper); font-weight: 700; letter-spacing: -0.02em; white-space: nowrap; }
 .brand b { color: var(--lime); }
 .brand:hover { text-decoration: none; }
+/* Logo de PIVOTEK junto al nombre del sitio (naranja sobre tinta; isotipo en pantallas angostas) */
+.pvk { display: flex; align-items: center; flex: none; height: 22px; margin-left: 4px; padding-left: 16px; border-left: 1px solid var(--line); }
+.pvk:hover { text-decoration: none; opacity: 0.85; }
+/* Ajuste óptico: la línea base de "pivotek" y el ojo de la p del isotipo caen en la del nombre (14 px en celular, 15 px desde 720 px) */
+.pvk img { display: block; transform: translateY(1px); }
+.pvk .pvk-iso { transform: translateY(4px); }
+@media (min-width: 720px) { .pvk img { transform: translateY(2px); } }
+.pvk-iso { display: none !important; }
+/* Isotipo abajo de 361 px y de 820 a 859 px, donde el menú sube a la barra y el logotipo ya no cabe */
+@media (max-width: 360px), (min-width: 820px) and (max-width: 859px) { .pvk-logo { display: none !important; } .pvk-iso { display: block !important; } }
 .nav { order: 3; display: flex; flex-wrap: wrap; gap: 4px 16px; width: 100%; padding: 0 0 10px; font-size: 12px; }
 .nav a { color: var(--muted); }
 .nav a:hover { color: var(--paper); }
