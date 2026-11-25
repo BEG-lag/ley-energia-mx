@@ -1,0 +1,389 @@
+# Manifiesto del corpus de ley-energia-mx.
+#
+# Cada documento declara de dónde sale su texto y su estado jurídico. `ley-energia actualizar`
+# descarga y trocea lo que dice este archivo; `ley-energia indexar` arma el índice. Para sumar un
+# documento basta con agregar una entrada y correr los dos comandos.
+#
+# Campos:
+#   id               identificador estable (minúsculas, sin espacios)
+#   titulo           título oficial
+#   abreviatura      sigla usual (opcional); también se reconoce en las consultas
+#   alias            otros nombres con que se busca (opcional)
+#   tipo             ley | reglamento | dacg
+#   emisor           autoridad que lo expide
+#   fecha_pub        publicación en el DOF (AAAA-MM-DD)
+#   vigor_desde      entrada en vigor, si se verificó en los transitorios (si falta, se usa fecha_pub)
+#   abrogada_desde   fecha desde la que deja de estar vigente (sólo abrogados)
+#   sustituido_por   id del documento que lo sustituye (sólo abrogados)
+#   base             fundamento de la abrogación o sustitución (sólo abrogados)
+#   nota_vigencia    matiz sobre la aplicación real (opcional)
+#   fuente           formato (leyes-mx | pdf | dof) y url del texto que se descarga
+#   url_oficial      liga para citar: DOF o Cámara de Diputados
+#
+# Fechas verificadas contra el DOF, el índice de la Cámara de Diputados y los transitorios de cada
+# instrumento. Corte del corpus: ver `corte` abajo.
+
+corte: "2026-11-25"
+
+documentos:
+
+  # ---------------------------------------------------------------- Leyes vigentes (reforma 2025)
+  - id: lse
+    titulo: Ley del Sector Eléctrico
+    abreviatura: LSE
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2025-03-18"
+    vigor_desde: "2025-03-19"
+    fuente: {formato: leyes-mx, url: "lse"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025
+
+  - id: lsh
+    titulo: Ley del Sector Hidrocarburos
+    abreviatura: LSH
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2025-03-18"
+    vigor_desde: "2025-03-19"
+    fuente: {formato: leyes-mx, url: "lsh"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025
+
+  - id: lpte
+    titulo: Ley de Planeación y Transición Energética
+    abreviatura: LPTE
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2025-03-18"
+    vigor_desde: "2025-03-19"
+    fuente: {formato: leyes-mx, url: "lpte"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025
+
+  - id: lcne
+    titulo: Ley de la Comisión Nacional de Energía
+    abreviatura: LCNE
+    alias: [Ley de la CNE, Ley CNE]
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2025-03-18"
+    vigor_desde: "2025-03-19"
+    fuente: {formato: leyes-mx, url: "lcne"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025
+
+  - id: lepecfe
+    titulo: Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad
+    abreviatura: LEPECFE
+    alias: [Ley de la CFE]
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2025-03-18"
+    vigor_desde: "2025-03-19"
+    fuente: {formato: leyes-mx, url: "lepecfe"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025
+
+  - id: lepepm
+    titulo: Ley de la Empresa Pública del Estado, Petróleos Mexicanos
+    abreviatura: LEPEPM
+    alias: [Ley de Pemex]
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2025-03-18"
+    vigor_desde: "2025-03-19"
+    fuente: {formato: leyes-mx, url: "lepepm"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025
+
+  - id: lgeo
+    titulo: Ley de Geotermia
+    abreviatura: LGeo
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2025-03-18"
+    vigor_desde: "2025-03-19"
+    fuente: {formato: leyes-mx, url: "lgeo"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025
+
+  - id: lbio
+    titulo: Ley de Biocombustibles
+    abreviatura: LBio
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2025-03-18"
+    vigor_desde: "2025-03-19"
+    fuente: {formato: leyes-mx, url: "lbio"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5752329&fecha=18/03/2025
+
+  - id: lih
+    titulo: Ley de Ingresos sobre Hidrocarburos
+    abreviatura: LIH
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2014-08-11"
+    fuente: {formato: leyes-mx, url: "lih"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf
+
+  - id: lansi
+    titulo: Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos
+    abreviatura: LANSI
+    alias: [Ley de la ASEA]
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2014-08-11"
+    fuente: {formato: leyes-mx, url: "lansi"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf
+
+  # ---------------------------------------------------------------- Reglamentos vigentes
+  - id: reg-lse
+    titulo: Reglamento de la Ley del Sector Eléctrico
+    abreviatura: RLSE
+    tipo: reglamento
+    emisor: Ejecutivo Federal
+    fecha_pub: "2025-10-03"
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSE.pdf"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5769155&fecha=03/10/2025
+
+  - id: reg-lsh
+    titulo: Reglamento de la Ley del Sector Hidrocarburos
+    abreviatura: RLSH
+    tipo: reglamento
+    emisor: Ejecutivo Federal
+    fecha_pub: "2025-10-03"
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSH.pdf"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5769153&fecha=03/10/2025
+
+  - id: reg-lpte
+    titulo: Reglamento de la Ley de Planeación y Transición Energética
+    abreviatura: RLPTE
+    tipo: reglamento
+    emisor: Ejecutivo Federal
+    fecha_pub: "2025-10-03"
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPTE.pdf"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5769157&fecha=03/10/2025
+
+  - id: reg-lgeo
+    titulo: Reglamento de la Ley de Geotermia
+    alias: [Reglamento de la LGeo]
+    tipo: reglamento
+    emisor: Ejecutivo Federal
+    fecha_pub: "2025-10-03"
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGeo.pdf"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5769154&fecha=03/10/2025
+
+  - id: reg-lbio
+    titulo: Reglamento de la Ley de Biocombustibles
+    alias: [Reglamento de la LBio]
+    tipo: reglamento
+    emisor: Ejecutivo Federal
+    fecha_pub: "2025-10-03"
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBio.pdf"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5769156&fecha=03/10/2025
+
+  - id: reg-lepecfe
+    titulo: Reglamento de la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad
+    alias: [Reglamento de la LEPECFE]
+    tipo: reglamento
+    emisor: Ejecutivo Federal
+    fecha_pub: "2025-12-02"
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPECFE.pdf"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5774837&fecha=02/12/2025
+
+  - id: reg-lepepm
+    titulo: Reglamento de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos
+    alias: [Reglamento de la LEPEPM]
+    tipo: reglamento
+    emisor: Ejecutivo Federal
+    fecha_pub: "2025-12-03"
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPEPM.pdf"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5775017&fecha=03/12/2025
+
+  - id: reg-lih
+    titulo: Reglamento de la Ley de Ingresos sobre Hidrocarburos
+    alias: [Reglamento de la LIH]
+    tipo: reglamento
+    emisor: Ejecutivo Federal
+    fecha_pub: "2014-10-31"
+    nota_vigencia: Reformado por decreto publicado en el DOF el 3 de octubre de 2025 para alinearlo con la reforma de 2025.
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIH.pdf"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5769158&fecha=03/10/2025
+
+  # ---------------------------------------------------------------- DACG de la CNE
+  - id: dacg-cne-permisos-generacion
+    titulo: Disposiciones administrativas de carácter general que establecen los términos legales, técnicos y financieros para solicitar el otorgamiento y la modificación de permisos de generación y almacenamiento de energía eléctrica
+    alias: [DACG de permisos de generación]
+    tipo: dacg
+    emisor: Comisión Nacional de Energía
+    fecha_pub: "2025-10-23"
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5770667&fecha=23/10/2025"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5770667&fecha=23/10/2025
+
+  - id: dacg-cne-tarifas-transmision
+    titulo: Disposiciones administrativas de carácter general que establecen la metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el Servicio Público de Transmisión de Energía Eléctrica
+    alias: [DACG de tarifas de transmisión]
+    tipo: dacg
+    emisor: Comisión Nacional de Energía
+    fecha_pub: "2025-11-26"
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5774027&fecha=26/11/2025"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5774027&fecha=26/11/2025
+
+  - id: dacg-cne-autoconsumo
+    titulo: Disposiciones Administrativas de Carácter General para regular la figura de Autoconsumo de Energía Eléctrica
+    alias: [DACG de autoconsumo]
+    tipo: dacg
+    emisor: Comisión Nacional de Energía
+    fecha_pub: "2025-12-12"
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5776013&fecha=12/12/2025"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5776013&fecha=12/12/2025
+
+  - id: dacg-cne-mecanismos-competitivos
+    titulo: Disposiciones administrativas de carácter general que establecen los criterios que debe observar el Centro Nacional de Control de Energía en la aplicación de mecanismos competitivos para adquirir potencia, energía eléctrica, servicios conexos y otros productos
+    alias: [DACG de mecanismos competitivos]
+    tipo: dacg
+    emisor: Comisión Nacional de Energía
+    fecha_pub: "2026-04-03"
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5784027&fecha=03/04/2026"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5784027&fecha=03/04/2026
+
+  - id: dacg-cne-cogeneracion
+    titulo: Disposiciones Administrativas de Carácter General para la generación de energía eléctrica en la modalidad de Cogeneración
+    alias: [DACG de cogeneración]
+    tipo: dacg
+    emisor: Comisión Nacional de Energía
+    fecha_pub: "2026-04-16"
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5785044&fecha=16/04/2026"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5785044&fecha=16/04/2026
+
+  - id: dacg-cne-almacenamiento
+    titulo: Disposiciones Administrativas de Carácter General para la integración de Sistemas de Almacenamiento de Energía Eléctrica al Sistema Eléctrico Nacional
+    alias: [DACG de almacenamiento, DACG SAEE]
+    tipo: dacg
+    emisor: Comisión Nacional de Energía
+    fecha_pub: "2026-04-16"
+    vigor_desde: "2026-04-17"   # transitorio primero: día hábil siguiente a su publicación
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5785045&fecha=16/04/2026"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5785045&fecha=16/04/2026
+
+  - id: dacg-cne-vigencias-permisos-hidrocarburos
+    titulo: Disposiciones Administrativas de Carácter General por las que se establecen los criterios para la determinación de las vigencias de los títulos de permisos previstos en el artículo 11 del Reglamento de las actividades a que se refiere el Título Tercero de la Ley de Hidrocarburos
+    alias: [DACG de vigencias de permisos]
+    tipo: dacg
+    emisor: Comisión Nacional de Energía
+    fecha_pub: "2026-10-14"
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5801164&fecha=14/10/2026"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5801164&fecha=14/10/2026
+
+  - id: dacg-cne-comercializacion
+    titulo: Disposiciones Administrativas de Carácter General que regulan la actividad de comercialización de gas natural, petrolíferos, gas licuado de petróleo y petroquímicos
+    alias: [DACG de comercialización]
+    tipo: dacg
+    emisor: Comisión Nacional de Energía
+    fecha_pub: "2026-11-05"
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5803022&fecha=05/11/2026"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5803022&fecha=05/11/2026
+
+  # ---------------------------------------------------------------- Abrogados (régimen de 2014)
+  - id: lie
+    titulo: Ley de la Industria Eléctrica
+    abreviatura: LIE
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2014-08-11"
+    abrogada_desde: "2025-03-19"
+    sustituido_por: lse
+    base: LSE, transitorio segundo
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/abro/lielec/LIElec_abro.pdf"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/abro/lielec/LIElec_abro.pdf
+
+  - id: lh
+    titulo: Ley de Hidrocarburos
+    abreviatura: LH
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2014-08-11"
+    abrogada_desde: "2025-03-19"
+    sustituido_por: lsh
+    base: LSH, transitorio segundo
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/abro/lhidro/LHidro_abro.pdf"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/abro/lhidro/LHidro_abro.pdf
+
+  - id: lte
+    titulo: Ley de Transición Energética
+    abreviatura: LTE
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2015-12-24"
+    abrogada_desde: "2025-03-19"
+    sustituido_por: lpte
+    base: LPTE, transitorio segundo
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/abro/lte/LT_abro.pdf"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/abro/lte/LT_abro.pdf
+
+  - id: lorcme
+    titulo: Ley de los Órganos Reguladores Coordinados en Materia Energética
+    abreviatura: LORCME
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2014-08-11"
+    abrogada_desde: "2025-03-19"
+    sustituido_por: lcne
+    base: LCNE, transitorio segundo
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/abro/lorcme/LORCME_abro.pdf"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/abro/lorcme/LORCME_abro.pdf
+
+  - id: lcfe
+    titulo: Ley de la Comisión Federal de Electricidad
+    abreviatura: LCFE
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2014-08-11"
+    abrogada_desde: "2025-03-19"
+    sustituido_por: lepecfe
+    base: LEPECFE, transitorio segundo
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/abro/lcfe/LCFE_abro.pdf"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/abro/lcfe/LCFE_abro.pdf
+
+  - id: lpm
+    titulo: Ley de Petróleos Mexicanos
+    abreviatura: LPM
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2014-08-11"
+    abrogada_desde: "2025-03-19"
+    sustituido_por: lepepm
+    base: LEPEPM, transitorio segundo
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/abro/lpm_2014/LPM_2014_abro.pdf"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/abro/lpm_2014/LPM_2014_abro.pdf
+
+  - id: leg
+    titulo: Ley de Energía Geotérmica
+    abreviatura: LEG
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2014-08-11"
+    abrogada_desde: "2025-03-19"
+    sustituido_por: lgeo
+    base: LGeo, transitorio segundo
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/abro/leg/LEG_abro.pdf"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/abro/leg/LEG_abro.pdf
+
+  - id: lpdb
+    titulo: Ley de Promoción y Desarrollo de los Bioenergéticos
+    abreviatura: LPDB
+    tipo: ley
+    emisor: Congreso de la Unión
+    fecha_pub: "2008-02-01"
+    abrogada_desde: "2025-03-19"
+    sustituido_por: lbio
+    base: LBio, transitorio segundo
+    fuente: {formato: pdf, url: "https://www.diputados.gob.mx/LeyesBiblio/abro/lpdb/LPDB_abro.pdf"}
+    url_oficial: https://www.diputados.gob.mx/LeyesBiblio/abro/lpdb/LPDB_abro.pdf
+
+  - id: dacg-cre-almacenamiento
+    titulo: Disposiciones Administrativas de Carácter General para la Integración de Sistemas de Almacenamiento de Energía Eléctrica al Sistema Eléctrico Nacional (Acuerdo A/113/2024)
+    abreviatura: A/113/2024
+    tipo: dacg
+    emisor: Comisión Reguladora de Energía
+    fecha_pub: "2025-03-07"
+    vigor_desde: "2025-03-10"   # resolutivo tercero: día hábil siguiente a su publicación
+    abrogada_desde: "2026-04-17"
+    sustituido_por: dacg-cne-almacenamiento
+    base: DACG de almacenamiento de la CNE (DOF 16-04-2026), transitorios
+    fuente: {formato: dof, url: "https://dof.gob.mx/nota_detalle.php?codigo=5751230&fecha=07/03/2025"}
+    url_oficial: https://dof.gob.mx/nota_detalle.php?codigo=5751230&fecha=07/03/2025

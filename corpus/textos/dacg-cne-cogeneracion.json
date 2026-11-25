@@ -1,0 +1,317 @@
+{
+ "id": "dacg-cne-cogeneracion",
+ "origen": "https://dof.gob.mx/nota_detalle.php?codigo=5785044&fecha=16/04/2026",
+ "sha256": "86d95ef2336f7ac1f1e5fabc0b0e025330571216c9d686bfa70e136b83c9dc1f",
+ "extraido": "2026-11-25",
+ "fragmentos": [
+  {
+   "orden": 0,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 1 de 3)",
+   "ruta": [],
+   "texto": "JUAN CARLOS SOLÍS ÁVILA, Director General de la Comisión Nacional de Energía, con fundamento en los artículos 25, párrafo quinto, 27, párrafo sexto, 28, párrafo noveno y 90, párrafo primero de la Constitución Política de los Estados Unidos Mexicanos; 2, fracción I, 17, 26, fracción IX y 33, último párrafo de la Ley Orgánica de la Administración Pública Federal; 1, párrafo primero, 2, 3, 4 y 13 de la Ley Federal de Procedimiento Administrativo; 1, 2, párrafo primero, 3, 7, fracciones I, II, III, y XXII, 8, fracciones IV y IX, 12, 14, 16, fracciones VI, X, XIX, XXIII y XXV de la Ley de la Comisión Nacional de Energía; 6, 7, 11, fracciones XLIV y XLIX, 18, párrafo segundo, 41, 42 y 43 de la Ley del Sector Eléctrico; 3, fracción II de la Ley de Planeación y Transición Energética; 3, párrafo segundo, 19, párrafo segundo, fracción I, 89, 90, 91 y 92 del Reglamento de la Ley del Sector Eléctrico; 2, apartado F, fracción III, 71, 77 y 78 del Reglamento Interior de la Secretaría de Energía; 2, 7, 9 y 12, fracciones IX y XI del Reglamento Interior de la Comisión Nacional de Energía; 7, fracción II del Acuerdo número CT/1.SE/2-2025, por el que se aprobaron las Reglas de Operación del Comité Técnico de la Comisión Nacional de Energía; así como el Acuerdo número CT/4.SE/2-2026 expedido por el Comité Técnico de la Comisión Nacional de Energía y,\nCONSIDERANDO\nQue el artículo 25, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos (Constitución) establece que, tratándose del servicio público de transmisión y distribución de energía eléctrica, la Nación debe llevar a cabo dichas actividades en términos de lo dispuesto por el párrafo sexto del artículo 27 Constitucional.\nQue el artículo 27, párrafo sexto de la Constitución establece que corresponde exclusivamente a la Nación la planeación y el control del Sistema Eléctrico Nacional en los términos del artículo 28 Constitucional, así como el servicio público de transmisión y distribución de energía eléctrica; que en estas actividades no se otorgan concesiones, así como que las Leyes deben determinar la forma en que los particulares pueden participar en las demás actividades de la industria eléctrica, que en ningún caso pueden tener prevalencia sobre las Empresas Públicas del Estado.\nQue el artículo 28, párrafo noveno de la Constitución señala que el Poder Ejecutivo Federal, por conducto de la dependencia encargada de conducir y supervisar la política energética del país, cuenta con las atribuciones para llevar a cabo la regulación técnica y económica, así como con la facultad sancionadora en materia energética.\nQue de conformidad con los artículos 1, 2, fracción I, 17, 26, fracción IX y 33, último párrafo de la Ley Orgánica de la Administración Pública Federal; 2, párrafo primero de la Ley de la Comisión Nacional de Energía (LCNE); 2, apartado F, fracción III y 71 del Reglamento Interior de la Secretaría de Energía y 2 del Reglamento Interior de la Comisión Nacional de Energía, la Comisión Nacional de Energía (Comisión) es un órgano administrativo desconcentrado, de carácter técnico, sectorizado a la Secretaría de Energía (Secretaría) que cuenta con independencia técnica, operativa, de gestión y de decisión, y tiene por objeto regular, supervisar e imponer sanciones en las actividades en materia energética, con el fin de promover el desarrollo ordenado, continuo y seguro de las actividades del sector energético de conformidad con la planeación vinculante en el ámbito de su competencia.\nQue de conformidad con el artículo 3 de la LCNE, la Comisión, en el ejercicio de sus funciones, se rige por los principios de eficacia, eficiencia, honestidad, imparcialidad, integridad, objetividad, productividad, profesionalización, transparencia, participación social, austeridad y rendición de cuentas, con el fin de contribuir a garantizar la soberanía, seguridad, autosuficiencia y justicia energéticas de la Nación acorde con la política energética que establezca la Secretaría."
+  },
+  {
+   "orden": 1,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 2 de 3)",
+   "ruta": [],
+   "texto": "Que el artículo 7, fracción II de la LCNE, establece que la Comisión es competente para expedir la regulación y disposiciones administrativas de carácter general sobre las actividades en materia energética, así como supervisar y vigilar su cumplimiento, aunado a que, en términos del artículo 8, fracción VII, de la LCNE, corresponde a la Comisión promover el desarrollo ordenado, continuo y seguro de las actividades de generación de electricidad.\nQue el artículo 3, fracción II de la Ley de Planeación y Transición Energética define a la Cogeneración como la generación de energía eléctrica producida de manera conjunta con vapor u otro tipo de energía térmica secundaria útil o ambos; producción directa o indirecta de energía eléctrica mediante la energía térmica no aprovechada en los procesos, o generación directa o indirecta de energía eléctrica cuando se utilicen combustibles producidos en los procesos industriales.\nQue los artículos 18 de la Ley del Sector Eléctrico (LSE), y 19 y 90 del Reglamento de la Ley del Sector Eléctrico (Reglamento), señalan que los permisos de generación de energía eléctrica bajo las figuras de Autoconsumo o Generación para el Mercado Eléctrico Mayorista otorgados por la Comisión pueden comprender la modalidad de Cogeneración.\nQue el artículo 41 de la LSE establece que el permiso de generación de electricidad puede comprender la modalidad de Cogeneración cuando la producción de energía eléctrica es realizada conjuntamente con vapor u otro tipo de energía térmica, secundaria o ambas; cuando la energía térmica no aprovechada en los procesos industriales de la persona permisionaria se utilice para la producción directa o indirecta de energía eléctrica, o, cuando se utilicen combustibles producidos en los propios procesos industriales de la persona permisionaria para la generación directa o indirecta de energía eléctrica.\nQue el artículo 42 de la LSE señala que la capacidad del permiso de generación autorizado debe ser únicamente para la potencia que pueda obtenerse utilizando la energía térmica no aprovechada en los procesos industriales asociados a la Cogeneración.\nQue el artículo 43 de la LSE establece que se otorga el despacho obligado a la energía eléctrica producida mediante el proceso de Cogeneración, el cual se limita a:\nI. La producción de energía eléctrica derivada de la satisfacción de las necesidades directas o indirectas de energía térmica de los procesos industriales;\nII. La capacidad de la Central Eléctrica de Cogeneración, la cual no debe ser mayor a las necesidades de energía térmica del proceso industrial, y\nIII. Cualquier otra que establezca el reglamento o las disposiciones administrativas que emita la Secretaría.\nQue el artículo 89 del Reglamento establece que, para efectos del artículo 41 de la LSE, la Cogeneración es una forma de producir energía eléctrica y calor de manera secuencial, a partir de una sola fuente de energía con el objetivo de aumentar sustancialmente la eficiencia del primer proceso, además de reducir el consumo combinado de combustibles y de sus emisiones asociadas, así como los costos de producción y precios de venta de la electricidad.\nQue el artículo 91 del Reglamento establece que la capacidad del permiso de generación a la que se refiere el artículo 42 de la Ley, corresponde a la capacidad aprobada en la modalidad de Cogeneración, la cual se debe definir conforme a las disposiciones administrativas de carácter general en materia de Cogeneración que para tal efecto emita la Comisión, en coordinación con la Secretaría."
+  },
+  {
+   "orden": 2,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 3 de 3)",
+   "ruta": [],
+   "texto": "Que el artículo 92 del Reglamento señala que las Reglas de Mercado deben determinar y establecer las reglas de despacho obligado para las Centrales Eléctricas con permiso de generación de energía eléctrica para el Mercado Eléctrico Mayorista en modalidad de Cogeneración. Asimismo, establece que los términos de despacho obligado y volúmenes de inyección de excedentes para los permisos de generación de energía eléctrica bajo la figura de Autoconsumo se deben sujetar a los criterios de Confiabilidad determinados por el Centro Nacional de Control de Energía en términos del artículo 61 del propio Reglamento.\nQue en la Cuarta Sesión Extraordinaria celebrada el 08 de abril de 2026, el Comité Técnico de la Comisión tuvo a bien aprobar el Acuerdo número CT/4.SE/2-2026, por el que se autoriza la expedición del presente Acuerdo.\nQue en virtud de lo anterior, resulta necesario establecer las actividades que pueden llevar a cabo las Centrales Eléctricas que operen con el permiso de generación de energía eléctrica en la modalidad de Cogeneración, así como los criterios que permitan definir la capacidad de generación permisionada en función de la demanda térmica del proceso industrial asociado a la Cogeneración, a fin de impulsar el desarrollo de estos sistemas y aprovechar sus beneficios en el Sistema Eléctrico Nacional, por lo que tengo a bien expedir el siguiente:\nACUERDO DE LA COMISIÓN NACIONAL DE ENERGÍA POR EL QUE SE EMITEN LAS DISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA EN LA MODALIDAD DE COGENERACIÓN\nArtículo Único. La Comisión Nacional de Energía emite las Disposiciones Administrativas de Carácter General para la generación de energía eléctrica en la modalidad de Cogeneración, para quedar como sigue:\nDISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA EN LA MODALIDAD DE COGENERACIÓN"
+  },
+  {
+   "orden": 3,
+   "clave": "1.1",
+   "etiqueta": "Disposición 1.1",
+   "ruta": [
+    "Capítulo I · Disposiciones Generales"
+   ],
+   "texto": "1.1. Las presentes disposiciones tienen por objeto establecer las condiciones generales, requisitos, procedimientos y demás aspectos generales aplicables a las Centrales Eléctricas que operen con permiso de generación de energía eléctrica en la modalidad de Cogeneración, de conformidad con lo establecido en la Ley del Sector Eléctrico, la Ley de Planeación y Transición Energética y sus reglamentos respectivos."
+  },
+  {
+   "orden": 4,
+   "clave": "1.2",
+   "etiqueta": "Disposición 1.2",
+   "ruta": [
+    "Capítulo I · Disposiciones Generales"
+   ],
+   "texto": "1.2. Las presentes disposiciones determinan los criterios aplicables a los sistemas de Cogeneración bajo las figuras de Autoconsumo y Generación para el Mercado Eléctrico Mayorista, así como aquellos para determinar la Capacidad Instalada del permiso de generación de energía eléctrica en la modalidad de Cogeneración."
+  },
+  {
+   "orden": 5,
+   "clave": "1.3",
+   "etiqueta": "Disposición 1.3",
+   "ruta": [
+    "Capítulo I · Disposiciones Generales"
+   ],
+   "texto": "1.3. Las Disposiciones son de orden público, interés general y observancia en todo el territorio nacional, aplicables a la figura de Generación para el Mercado Eléctrico Mayorista y, en lo que corresponda, a la figura de Autoconsumo, ambas en modalidad de Cogeneración."
+  },
+  {
+   "orden": 6,
+   "clave": "1.4",
+   "etiqueta": "Disposición 1.4 (parte 1 de 2)",
+   "ruta": [
+    "Capítulo I · Disposiciones Generales"
+   ],
+   "texto": "1.4. Para efectos de las Disposiciones, además de las contenidas en la Ley del Sector Eléctrico, la Ley de Planeación y Transición Energética, sus reglamentos respectivos, las Disposiciones de Autoconsumo y las Reglas del Mercado, se deben utilizar las siguientes definiciones y acrónimos, en singular o plural:\nI. Acuerdo para Permiso Simplificado de Autoconsumo: Acuerdo de la Comisión Nacional de Energía por el que se establecen los requisitos para obtener el permiso de generación para autoconsumo interconectado en centrales eléctricas cuya capacidad sea entre 0.7 y 20 megawatts, publicado el 06 de agosto de 2025 en el Diario Oficial de la Federación o aquel que lo modifique o sustituya;\nII. Capacidad Neta: Capacidad que resulta de restar a la Capacidad Instalada de una Central Eléctrica la capacidad dedicada a los Usos Auxiliares de Cogeneración;\nIII. Carga Local del Sistema de Cogeneración: Es la potencia eléctrica, medida en megawatt, MW, de las instalaciones y equipos del proceso productivo asociado al sistema de Cogeneración;\nIV. Carga Eléctrica Asociada al Sistema de Cogeneración: Es la potencia eléctrica, medida en megawatt, MW, de las instalaciones y equipos del proceso productivo asociado al sistema de Cogeneración, la cual incluye los Usos Auxiliares de Cogeneración;\nV. Ciclo Inferior: Cuando la energía primaria se utiliza directamente para satisfacer los requerimientos térmicos del proceso en una primera etapa de aprovechamiento para posteriormente utilizar la energía térmica residual para la generación de energía eléctrica;\nVI. Ciclo Superior: Cuando la fuente de energía primaria se utiliza directamente para la generación de energía eléctrica y el calor residual, en forma de vapor o gases calientes, es suministrado a un proceso industrial posterior;\nVII. Comisión: Comisión Nacional de Energía;\nVIII. Consumo Eléctrico: Es la energía eléctrica requerida en un periodo determinado en los Centros de Consumo o la Carga Local del Sistema de Cogeneración en la Red Particular, medida en megawatt hora, MWhe;\nIX. Criterios Técnicos de Cogeneración: Documento que establece los criterios y metodologías aplicables a los sistemas de Cogeneración que pretendan acreditarse como Cogeneración Eficiente, así como aquellos aplicables a los combustibles residuales de los procesos industriales de dichos sistemas;\nX. Demanda Eléctrica: Es la potencia a la cual se debe abastecer la energía eléctrica requerida en un instante dado en los Centros de Consumo o en la Carga Eléctrica Asociada al sistema de Cogeneración en la Red Particular, medida en megawatt, MWe;\nXI. Demanda Térmica: Es la tasa de transferencia de Energía Térmica requerida por el proceso industrial de un sistema de Cogeneración, la cual puede suministrarse mediante vapor u otro fluido térmico, medida en megawatt, MWt;\nXII. Disposiciones: Las presentes Disposiciones Administrativas de Carácter General para la generación de energía eléctrica en la modalidad de Cogeneración;\nXIII. Disposiciones de Autoconsumo: Disposiciones Administrativas de Carácter General para regular la figura de Autoconsumo de Energía Eléctrica, publicadas en el Diario Oficial de la Federación el 12 de diciembre de 2025 o aquellas que las modifiquen o sustituyan;\nXIV. Disposiciones de Permisos: Disposiciones Administrativas de Carácter General que establecen los términos legales, técnicos y financieros para solicitar el otorgamiento y la modificación de permisos de generación y almacenamiento de energía eléctrica, así como su vigencia, publicadas en el Diario Oficial de la Federación el 23 de octubre de 2025 o aquellas que las modifiquen o sustituyan;\nXV. Energía Térmica: Energía en forma de calor empleada en procesos industriales para el calentamiento o enfriamiento de componentes o productos, expresada en joules, J;"
+  },
+  {
+   "orden": 7,
+   "clave": "1.4",
+   "etiqueta": "Disposición 1.4 (parte 2 de 2)",
+   "ruta": [
+    "Capítulo I · Disposiciones Generales"
+   ],
+   "texto": "XVI. Energía Eléctrica Obligada: Energía eléctrica generada por la Central Eléctrica con permiso de generación de energía eléctrica para el MEM en modalidad de Cogeneración, derivada del aprovechamiento térmico del proceso industrial, la cual corresponde a la generación de energía eléctrica asociada a la Demanda Térmica requerida por el sistema de Cogeneración, menos el Consumo Eléctrico y los Usos Auxiliares de Cogeneración. Este bloque de energía eléctrica está sujeto a despacho obligado en términos de las Reglas del Mercado;\nXVII. Energía Despachable: Corresponde a la energía eléctrica que puede producir la Central Eléctrica con permiso de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración, operando en su capacidad disponible; menos la Energía Eléctrica Obligada, el Consumo Eléctrico y los Usos Auxiliares de Cogeneración. Este bloque de energía eléctrica está sujeto al despacho económico en términos de las Reglas del Mercado;\nXVIII. LPTE: Ley de Planeación y Transición Energética;\nXIX. LSE: Ley del Sector Eléctrico;\nXX. MEM: Mercado Eléctrico Mayorista;\nXXI. MIC: Manual para la Interconexión de Centrales Eléctricas y Conexión de Centros de Carga, publicado en el Diario Oficial de la Federación el 09 de febrero de 2018 o aquel que lo modifique o sustituya;\nXXII. RLSE: Reglamento de la Ley del Sector Eléctrico;\nXXIII. RGD: Redes Generales de Distribución;\nXXIV. RNT: Red Nacional de Transmisión;\nXXV. Usos Auxiliares de Cogeneración: Sistemas y equipos esenciales para que una Central Eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista o de Autoconsumo en modalidad Cogeneración, opere de manera estable, segura, eficiente, autónoma y que proporcionan soporte interno a la propia Central Eléctrica, tal y como los sistemas de control, protecciones, comunicaciones o sistemas de enfriamiento, entre otros, que específicamente se utilicen para el funcionamiento de la Central Eléctrica. Estos no incluyen la carga que se suministre en la Red Particular, y\nXXVI. SEN: Sistema Eléctrico Nacional."
+  },
+  {
+   "orden": 8,
+   "clave": "2.1",
+   "etiqueta": "Disposición 2.1",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.1. Para la generación de energía eléctrica bajo las figuras de Autoconsumo y de Generación para el Mercado Eléctrico Mayorista a través de sistemas de Cogeneración, se requiere el permiso de generación de energía eléctrica correspondiente en la modalidad de Cogeneración, conforme a lo establecido en la LSE, RLSE, Disposiciones, Disposiciones de Permisos, Disposiciones de Autoconsumo, Acuerdo para Permiso Simplificado de Autoconsumo y demás normatividad aplicable, según corresponda, conforme a lo siguiente:\nI. Generación de energía eléctrica bajo la figura de Autoconsumo en modalidad de Cogeneración. Cuando la energía eléctrica que se genera mediante un sistema de Cogeneración, en cualquiera de los supuestos establecidos en el artículo 41 de la LSE, es utilizada para satisfacer las necesidades propias en sitio, mediante una Red Particular a Usuarias de Autoconsumo, ya sea de forma aislada o interconectada. En este supuesto se deben observar las Disposiciones de Autoconsumo y los numerales que resulten aplicables de las Disposiciones, y\nII. Generación de energía eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración. Cuando la energía eléctrica se genera mediante un sistema de Cogeneración, en cualquiera de los supuestos establecidos en el artículo 41 de la LSE, para satisfacer las necesidades de energía eléctrica de la Carga Eléctrica Asociada a la Cogeneración mediante una Red Particular y, además, se inyecta energía eléctrica de forma directa a la RNT o a las RGD, conforme a las Disposiciones.\nPara el caso de la generación de energía eléctrica bajo la figura de Generación Distribuida, esta puede realizarse a través de sistemas de Cogeneración, conforme a lo previsto en el artículo 89 del RLSE."
+  },
+  {
+   "orden": 9,
+   "clave": "2.2",
+   "etiqueta": "Disposición 2.2",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.2. Si la Capacidad Instalada de la Central Eléctrica con un sistema de Cogeneración es menor a 0.7 MW, no requiere permiso de generación y debe sujetarse a las disposiciones de generación exenta que, para tal efecto, emita la Comisión."
+  },
+  {
+   "orden": 10,
+   "clave": "2.3",
+   "etiqueta": "Disposición 2.3",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.3. De acuerdo con lo establecido en los artículos 41 de la LSE y 89 del RLSE, así como en la fracción II del artículo 3 de la LPTE, los sistemas de Cogeneración pueden presentarse, conforme a lo siguiente:\nI. Generación de energía eléctrica producida de manera conjunta con vapor u otro tipo de Energía Térmica secundaria o ambas. Aquella donde se suscita un Ciclo Superior, en el cual la generación de energía eléctrica se realiza en la primera etapa, a partir de la energía liberada por el energético primario de entrada, y la energía térmica remanente se recupera como calor útil en una segunda etapa, para ser empleada en los procesos productivos de las instalaciones asociadas al proceso de Cogeneración que lo requieran;\nII. Producción directa o indirecta de energía eléctrica mediante la Energía Térmica no aprovechada en los procesos industriales de la persona permisionaria. Aquella donde se suscita un Ciclo Inferior en el que la generación de energía eléctrica se realiza en la segunda etapa del proceso a partir de la energía térmica no aprovechada en el proceso industrial de que se trate, y\nIII. Generación directa o indirecta de energía eléctrica cuando se utilicen combustibles producidos en los procesos industriales de la persona permisionaria. Aquella en donde se suscita un Ciclo Inferior en el que la generación de energía eléctrica se realiza en la segunda etapa, a partir de un combustible residual, es decir, de un subproducto del propio proceso industrial de la permisionaria. En este caso debe realizarse mediante el uso de Tecnologías Limpias."
+  },
+  {
+   "orden": 11,
+   "clave": "2.4",
+   "etiqueta": "Disposición 2.4",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.4. Para el otorgamiento del permiso de generación de energía eléctrica correspondiente bajo la modalidad de Cogeneración, se debe acreditar ante la Comisión la configuración del sistema de Cogeneración, para lo cual la solicitante, además de cumplir con los requisitos establecidos en las Disposiciones de Permisos o el Acuerdo para Permiso Simplificado de Autoconsumo, según sea el caso, debe presentar con su solicitud, la descripción de alguno de los supuestos de operación conforme al numeral 2.3. anterior, indicando lo siguiente:\nI. Los valores de Demanda Térmica, que incluyan las necesidades directas o indirectas de energía térmica de los procesos industriales;\nII. La Carga o Cargas Eléctricas Asociadas al sistema de Cogeneración;\nIII. Los valores máximos y mínimos de Energía Eléctrica Obligada;\nIV. Los valores máximos y mínimos de Energía Despachable;\nV. El diagrama de tubería e instrumentación, por sus siglas DTI o P&ID;\nVI. El balance de energía que indique la configuración tecnológica del sistema de Cogeneración, y\nVII. En el caso de una solicitud del permiso de generación de energía eléctrica bajo la figura de Autoconsumo, indicar si cuenta con Usuarias de Autoconsumo y entregar la información prevista en las Disposiciones de Autoconsumo."
+  },
+  {
+   "orden": 12,
+   "clave": "2.5",
+   "etiqueta": "Disposición 2.5",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.5. La persona titular del permiso de generación de energía eléctrica correspondiente, bajo la modalidad de Cogeneración, debe tener asociada Demanda Térmica, de acuerdo con los siguientes criterios:\nI. En Autoconsumo, la Demanda Térmica puede estar asociada a la persona permisionaria o a cualquiera de sus Usuarias de Autoconsumo, y\nII. En Generación para el Mercado Eléctrico Mayorista, la Demanda Térmica o la Carga Eléctrica Asociada al sistema de Cogeneración o ambas pueden ser de la persona titular del permiso, o bien, estar asociadas con un tercero mediante contrato. En este último caso, debe entregarse directamente al tercero la Energía Térmica o la energía eléctrica contratada, según corresponda.\nLas instalaciones de consumo responsables de la Demanda Térmica o la Demanda Eléctrica o ambas deben ubicarse en el mismo sitio que la Central Eléctrica, o bien, en instalaciones colindantes mediante el uso de Redes Particulares."
+  },
+  {
+   "orden": 13,
+   "clave": "2.6",
+   "etiqueta": "Disposición 2.6",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.6. De conformidad con lo establecido en los artículos 42 de la LSE y 91 del RLSE, la Capacidad Instalada aprobada en el permiso de generación de energía eléctrica correspondiente bajo la modalidad de Cogeneración, debe definirse en función de la Demanda Térmica y las necesidades directas o indirectas de energía térmica de los procesos industriales asociados.\nLa Capacidad Instalada de la Central Eléctrica debe estar debidamente justificada acorde con los requisitos previstos en el numeral 2.4 anterior. Para tal efecto, la persona permisionaria debe presentar, junto con la solicitud del permiso correspondiente, la justificación para la Capacidad Instalada; en caso contrario, la Comisión debe proceder conforme a lo establecido en las Disposiciones de Permisos o las Disposiciones de Autoconsumo, según corresponda.\nLa Comisión puede requerir a la persona permisionaria la información que le permita corroborar que los valores máximos y mínimos de la Demanda Térmica utilizada son acordes con las Ofertas de Venta de energía eléctrica presentadas en el MEM."
+  },
+  {
+   "orden": 14,
+   "clave": "2.7",
+   "etiqueta": "Disposición 2.7",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.7. Las modificaciones de los permisos de generación de energía eléctrica correspondientes en modalidad Cogeneración están sujetas a lo establecido en las Disposiciones de Permisos."
+  },
+  {
+   "orden": 15,
+   "clave": "2.8",
+   "etiqueta": "Disposición 2.8",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.8. La Participante del Mercado representante de una Central Eléctrica con permiso de generación de energía eléctrica en modalidad de Cogeneración, conforme a lo previsto en las Reglas del Mercado, debe presentar ante el CENACE, para el registro de Activos Físicos, además de la información prevista en el Manual de Registro y Acreditación de Participantes del Mercado, la siguiente información:\nI. Demanda de energía eléctrica asociada a los Usos Auxiliares de Cogeneración;\nII. Consumo de energía eléctrica de las Cargas Eléctricas Asociadas al sistema de Cogeneración;\nIII. Producción total de energía eléctrica, desagregada en los siguientes bloques:\na) Los valores máximos y mínimos de Energía Eléctrica Obligada, y\nb) Los valores máximos y mínimos de Energía Despachable.\nLa determinación de estos bloques debe hacerse en régimen permanente, es decir, bajo una condición estable y controlable de operación, considerando los siguientes supuestos:\na) A máxima Demanda Térmica;\nb) A mínima Demanda Térmica, y\nc) A Demanda Térmica esperada al 80% del tiempo de operación anual."
+  },
+  {
+   "orden": 16,
+   "clave": "2.9",
+   "etiqueta": "Disposición 2.9",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.9. En los permisos de generación de energía eléctrica bajo la figura de Autoconsumo en modalidad de Cogeneración, la generación de energía eléctrica puede ser superior a la máxima Demanda Eléctrica de las Usuarias de Autoconsumo y mantener su operación en dicha condición."
+  },
+  {
+   "orden": 17,
+   "clave": "2.10",
+   "etiqueta": "Disposición 2.10",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.10. Para determinar el cobro de los Estudios de Interconexión y Conexión, así como los plazos de atención, el CENACE debe considerar lo previsto en el MIC, y debe tomar como referencia, para la figura de Autoconsumo, la Capacidad Neta en el Punto de Interconexión y; para la figura de Generación para el Mercado Eléctrico Mayorista, la Capacidad Neta, así como la máxima Demanda Eléctrica de los Centros de Consumo o Centros de Carga, según corresponda."
+  },
+  {
+   "orden": 18,
+   "clave": "2.11",
+   "etiqueta": "Disposición 2.11",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.11. Las Centrales Eléctricas bajo la figura de Autoconsumo y Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración pueden recibir Certificados de Energías Limpias de conformidad con los criterios y metodologías para la Cogeneración Eficiente establecidos en los Criterios Técnicos de Cogeneración y demás disposiciones y normatividad que resulten aplicables."
+  },
+  {
+   "orden": 19,
+   "clave": "2.12",
+   "etiqueta": "Disposición 2.12",
+   "ruta": [
+    "Capítulo II · Condiciones generales para los sistemas de Cogeneración"
+   ],
+   "texto": "2.12. La persona permisionaria debe presentar ante la Comisión su perfil anual de Demanda Térmica del año previo a más tardar el 31 de enero de cada año.\nLo anterior, sin perjuicio de que la Comisión pueda requerir a la persona permisionaria cualquier información necesaria para el cumplimiento de la presente obligación."
+  },
+  {
+   "orden": 20,
+   "clave": "3.1",
+   "etiqueta": "Disposición 3.1",
+   "ruta": [
+    "Capítulo III · Generación de energía eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración"
+   ],
+   "texto": "3.1. La Central Eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración requiere suscribir el contrato de Participante del Mercado en la modalidad de Generadora con el CENACE y cumplir con las obligaciones que, para tal efecto, establecen las Reglas del Mercado o ser representada por algún Participante del Mercado acreditado en dicha modalidad."
+  },
+  {
+   "orden": 21,
+   "clave": "3.2",
+   "etiqueta": "Disposición 3.2",
+   "ruta": [
+    "Capítulo III · Generación de energía eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración"
+   ],
+   "texto": "3.2. En las Reglas del Mercado se establecen las condiciones y criterios de oferta y despacho de la Cogeneración para el Mercado de Energía de Corto Plazo."
+  },
+  {
+   "orden": 22,
+   "clave": "3.3",
+   "etiqueta": "Disposición 3.3",
+   "ruta": [
+    "Capítulo III · Generación de energía eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración"
+   ],
+   "texto": "3.3. Para la interconexión de las Centrales Eléctricas bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración se debe cumplir con lo siguiente:\nI. Las Centrales Eléctricas en cualquiera de los supuestos a que se refiere el artículo 41 de la LSE, que pretendan interconectarse a la RNT o a la RGD, requieren de los Estudios y la celebración del contrato de interconexión correspondiente;\nII. Las solicitudes de los Estudios deben ser presentadas ante el CENACE conforme a lo establecido en el MIC, y\nIII. El Contrato de Interconexión correspondiente debe ser formalizado conforme a lo establecido en el MIC."
+  },
+  {
+   "orden": 23,
+   "clave": "3.4",
+   "etiqueta": "Disposición 3.4",
+   "ruta": [
+    "Capítulo III · Generación de energía eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración"
+   ],
+   "texto": "3.4. El CENACE debe realizar los Estudios a que hace referencia el numeral anterior, conforme a los siguientes escenarios, y considerar:\nI. La operación simultánea del Centro de Carga a su máxima Demanda Eléctrica y de la Central Eléctrica a su máxima Capacidad Neta;\nII. La Central Eléctrica a su máxima Capacidad Neta y el Centro de Carga fuera de servicio, y\nIII. La Central Eléctrica fuera de servicio y el Centro de Carga a su máxima Demanda Eléctrica."
+  },
+  {
+   "orden": 24,
+   "clave": "3.5",
+   "etiqueta": "Disposición 3.5",
+   "ruta": [
+    "Capítulo III · Generación de energía eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración"
+   ],
+   "texto": "3.5. Las Centrales Eléctricas bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración requieren de un Sistema de Medición en el Punto de Interconexión, el cual debe cumplir con lo establecido en la regulación vigente."
+  },
+  {
+   "orden": 25,
+   "clave": "3.6",
+   "etiqueta": "Disposición 3.6",
+   "ruta": [
+    "Capítulo III · Generación de energía eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración"
+   ],
+   "texto": "3.6. La liquidación se debe realizar sobre la energía eléctrica medida a través del Sistema de Medición en el Punto de Interconexión. Dicha energía se sujeta al proceso de doble liquidación y es la base para efectos del cálculo de las liquidaciones del MEM de acuerdo con los criterios de cálculo previstos en las Reglas del Mercado."
+  },
+  {
+   "orden": 26,
+   "clave": "3.7",
+   "etiqueta": "Disposición 3.7",
+   "ruta": [
+    "Capítulo III · Generación de energía eléctrica bajo la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración"
+   ],
+   "texto": "3.7. Para efectos de lo establecido en el artículo 152, fracción IV de la LSE, se considera que desaparece el objeto del permiso de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración cuando la Energía Eléctrica Obligada que se oferte en el Mercado de Energía de Corto Plazo es mayor a la energía eléctrica asociada a la Demanda Térmica del proceso industrial, durante un periodo continuo de seis meses, sin que se haya presentado una justificación técnica y esta haya sido resuelta como procedente, en los siguientes términos:\nI. En caso de que la permisionaria se encuentre en el supuesto al que se refiere el párrafo anterior, debe proporcionar a la Comisión una justificación técnica hasta veinte días hábiles previos a que se cumpla el plazo señalado;\nII. La Comisión dentro de un plazo no mayor a veinte días hábiles contados a partir del día hábil siguiente al de la presentación de la justificación técnica, debe resolver sobre su procedencia;\nIII. En caso de resolverse favorablemente, la Comisión debe otorgar un periodo de hasta seis meses para que la persona permisionaria reestablezca las condiciones autorizadas en el permiso, y\nIV. Si la justificación técnica presentada no es considerada procedente por la Comisión, se entiende que se actualiza la desaparición del objeto del permiso y, en consecuencia, se debe proceder conforme a lo previsto en la LSE y el RLSE."
+  },
+  {
+   "orden": 27,
+   "clave": "transitorio primero",
+   "etiqueta": "Transitorio primero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "PRIMERO. El presente Acuerdo entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 28,
+   "clave": "transitorio segundo",
+   "etiqueta": "Transitorio segundo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "SEGUNDO. En tanto la Comisión Nacional de Energía emite los Criterios Técnicos de Cogeneración, se deben aplicar los instrumentos vigentes en materia de Cogeneración Eficiente."
+  },
+  {
+   "orden": 29,
+   "clave": "transitorio tercero",
+   "etiqueta": "Transitorio tercero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "TERCERO. En tanto se modifican las Reglas del Mercado, las Centrales Eléctricas con permiso de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración que presenten Ofertas de Venta en el Mercado de Energía de Corto Plazo deben realizarlas mediante el formato de Ofertas de Venta para unidades de central térmica establecido en el Manual de Mercado de Energía de Corto Plazo, y considerar para su llenado para cada hora del Día de Operación, lo siguiente:\nI. El Límite de Despacho Económico Mínimo ofertado corresponde al máximo que resulte entre:\na) La generación mínima que la Central Eléctrica puede alcanzar en condiciones de operación normal, y\nb) La Energía Eléctrica Obligada;\nII. El Límite de Despacho Económico Máximo corresponde a la generación de energía eléctrica que puede producir la Central Eléctrica operando en su Capacidad disponible menos el Consumo Eléctrico y Usos Auxiliares de Cogeneración;\nIII. La oferta incremental debe cubrir todo el rango de producción comprendido entre el Límite de Despacho Económico Mínimo y el Límite de Despacho Económico Máximo, y\nIV. Con el propósito de asegurar el despacho obligado de la energía eléctrica asociada a la Energía Eléctrica Obligada de la Cogeneración, la Central Eléctrica debe presentar su oferta con el estatus de asignación de \"operación obligada\", en los términos previstos en el Manual de Mercado de Energía de Corto Plazo. Bajo dicho estatus de asignación, estas Centrales Eléctricas no son candidatas para recibir la Garantía de Suficiencia de Ingresos."
+  },
+  {
+   "orden": 30,
+   "clave": "transitorio cuarto",
+   "etiqueta": "Transitorio cuarto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "CUARTO. En tanto no se encuentren habilitados en los modelos del Mercado de Energía de Corto Plazo las funcionalidades para procesar ofertas conforme a lo señalado en el numeral 3.2 de las presentes disposiciones, las Participantes del Mercado que representen a la persona permisionaria deben presentar al Centro Nacional de Control de Energía ofertas de programa fijo por la energía excedente que estimen inyectar al Sistema Eléctrico Nacional, conforme a lo dispuesto en el Manual de Mercado de Energía de Corto Plazo."
+  },
+  {
+   "orden": 31,
+   "clave": "transitorio quinto",
+   "etiqueta": "Transitorio quinto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "QUINTO. En tanto se modifica el Manual para la Interconexión de Centrales Eléctricas y Conexión de Centros de Carga, aplicable a la elaboración de los Estudios de Conexión e Interconexión, para efectos de la integración, evaluación y tramitación de las solicitudes relativas a dichos Estudios para la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración, debe considerarse lo siguiente:\nI. La persona solicitante debe presentar una única solicitud de Estudios ante el Centro Nacional de Control de Energía;\nII. Para los Centros de Carga o Centrales Eléctricas existentes la atención es mediante un Estudio Rápido, el cual tiene como propósito determinar si el incremento notificado requiere la elaboración de Estudios adicionales.\nSi no se requieren Estudios adicionales, se debe presentar la solicitud de celebración del Contrato de Interconexión-Conexión correspondiente.\nEn caso de que el Centro Nacional de Control de Energía determine la aplicación de Estudios adicionales, con base en la Capacidad Neta de la nueva Central Eléctrica que integre el Centro de Carga existente o, conforme a la Demanda Eléctrica del nuevo Centro de Carga que integre la Central Eléctrica existente, el tiempo de elaboración y su cobro, se debe determinar y realizar conforme a lo establecido en la normatividad aplicable, y\nIII. Cuando la Central Eléctrica y el Centro de Carga sean nuevos, la aplicación, tiempo de elaboración y cobro de los Estudios se debe determinar conforme a lo establecido en la normatividad aplicable tomando como referencia el valor que resulte mayor entre la Capacidad Neta de la Central Eléctrica y la Demanda Eléctrica del Centro de Carga."
+  },
+  {
+   "orden": 32,
+   "clave": "transitorio sexto",
+   "etiqueta": "Transitorio sexto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "SEXTO. En tanto no se modifiquen las Reglas del Mercado para establecer las disposiciones específicas a la figura de Generación para el Mercado Eléctrico Mayorista en modalidad de Cogeneración, y siempre que no se opongan a lo previsto en el presente instrumento, a dicha figura le son aplicables lo establecido en las citadas Reglas y demás disposiciones jurídicas relacionadas."
+  },
+  {
+   "orden": 33,
+   "clave": "transitorio septimo",
+   "etiqueta": "Transitorio séptimo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "SÉPTIMO. Las Centrales Eléctricas que cuenten con sistemas de Cogeneración operando con permisos vigentes otorgados al amparo de la Ley del Servicio Público de Energía Eléctrica o la Ley de la Industria Eléctrica, que migren a la figura de Generación para el Mercado Eléctrico Mayorista en la modalidad de Cogeneración prevista en la Ley del Sector Eléctrico, conservan sus condiciones de despacho hasta el término de la vigencia del permiso derivado de la migración."
+  },
+  {
+   "orden": 34,
+   "clave": "transitorio octavo",
+   "etiqueta": "Transitorio octavo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "OCTAVO. Dentro de los treinta días naturales siguientes a que entre en vigor el presente Acuerdo, la Comisión Nacional de Energía debe publicar en su página electrónica y en el Diario Oficial de la Federación los formatos autorizados para solicitar los permisos de generación de energía eléctrica en la modalidad de Cogeneración.\nCiudad de México, a 08 de abril de 2026.- El Director General, Juan Carlos Solís Ávila.- Rúbrica.\nEn el documento que usted está visualizando puede haber texto, caracteres u objetos que no se muestren correctamente debido a la conversión a formato HTML, por lo que le recomendamos tomar siempre como referencia la imagen digitalizada del DOF o el archivo PDF de la edición. El contenido, forma y alcance de los documentos publicados, son estricta responsabilidad de su emisor."
+  }
+ ]
+}

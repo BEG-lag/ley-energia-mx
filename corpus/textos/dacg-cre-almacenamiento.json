@@ -1,0 +1,820 @@
+{
+ "id": "dacg-cre-almacenamiento",
+ "origen": "https://dof.gob.mx/nota_detalle.php?codigo=5751230&fecha=07/03/2025",
+ "sha256": "c2230dea4a29ad8ba43fa492a9725f5222ca7d4bd02dec814d68981be8747e4f",
+ "extraido": "2026-11-25",
+ "fragmentos": [
+  {
+   "orden": 0,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 1 de 8)",
+   "ruta": [],
+   "texto": "ACUERDO Núm. A/113/2024\nACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA POR EL QUE SE EMITEN LAS DISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL PARA LA INTEGRACIÓN DE SISTEMAS DE ALMACENAMIENTO DE ENERGÍA ELÉCTRICA AL SISTEMA ELÉCTRICO NACIONAL\nEn sesión extraordinaria celebrada el 30 de septiembre de 2024, el Órgano de Gobierno de la Comisión Reguladora de Energía, con fundamento en los artículos 28, párrafo octavo de la Constitución Política de los Estados Unidos Mexicanos; 1, 2, fracción III y 43 Ter de la Ley Orgánica de la Administración Pública Federal; 1, 2, fracción II y 3, párrafo primero, 4, párrafo primero, 5, 22, fracciones I, II, III, IV, VIII, IX, X y XXVII, 27, 41, fracción III, y 42 de la Ley de los Órganos Reguladores Coordinados en Materia Energética; 1, 2, 3, fracción XXXIV, 6, 7, 12, fracciones, XXXVIII, XLII, XLIX, LII y LIII de la Ley de la Industria Eléctrica reformada mediante Decreto publicado en el Diario Oficial de la Federación el 06 de noviembre de 2020; 38, fracción IX de la Ley de Transición Energética; 13 del Reglamento de la Ley de la Industria Eléctrica; 1, 2, 3, 4 y 12 de la Ley Federal de Procedimiento Administrativo; 1, 2, 7, fracción I, 12, 16, 18, fracciones I, V y XLIV del Reglamento Interno de la Comisión Reguladora de Energía publicado en el Diario Oficial de la Federación el 28 de abril de 2017 y su modificación publicada en el mismo medio de difusión oficial el 11 de abril de 2019, y\nCONSIDERANDO\nPRIMERO. Que de conformidad con los artículos 28, párrafo octavo, de la Constitución Política de los Estados Unidos Mexicanos; 1, 2, fracción III, y 43 Ter de la Ley Orgánica de la Administración Pública Federal; 1, 2, fracción II, y 3, párrafo primero de la Ley de los Órganos Reguladores Coordinados en Materia Energética (LORCME), la Comisión Reguladora de Energía (Comisión) es una dependencia de la Administración Pública Federal Centralizada con carácter de Órgano Regulador Coordinado en Materia Energética con personalidad jurídica, autonomía técnica, operativa y de gestión, que tiene a su cargo, entre otras atribuciones, las previstas en la Ley de la Industria Eléctrica y demás disposiciones jurídicas aplicables.\nSEGUNDO. Que de conformidad con los artículos 22, fracciones I, II y III, 41, fracción III y 42 de la LORCME, es atribución de la Comisión: emitir sus actos y resoluciones con autonomía técnica, operativa y de gestión; vigilar y supervisar su cumplimiento y emitir resoluciones, acuerdos, directivas, bases y demás actos administrativos necesarios para el cumplimiento de sus funciones y demás vinculados a las materias reguladas, además de regular, fomentar y promover el desarrollo eficiente de la industria, entre otros: la generación y comercialización de electricidad; promover la competencia en el sector; proteger los intereses de los usuarios; propiciar una adecuada cobertura nacional; y, atender a la confiabilidad, estabilidad y seguridad en el suministro y la prestación de los servicios.\nTERCERO. Que conforme al artículo 2 de la Ley de la Industria Eléctrica, reformada mediante Decreto publicado en el Diario Oficial de la Federación (DOF) el 06 de noviembre de 2020 (LIE) la industria eléctrica comprende las actividades de generación, transmisión, distribución y comercialización de la energía eléctrica, entre otras; en ese sentido, derivado a las características técnicas y operativas que ostentan los Sistemas de Almacenamiento de Energía (SAE), estos pueden incidir en dichas actividades, sin que por tal hecho se deba considerar que a través de los mismos se genera una nueva actividad permisionada al amparo de la LIE, siendo relevante en esa consideración, precisar las condiciones normativas que permitan o faciliten la interacción de estas nuevas tecnologías en las actividades reguladas en la LIE."
+  },
+  {
+   "orden": 1,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 2 de 8)",
+   "ruta": [],
+   "texto": "CUARTO. Que la fracción XXXIV del artículo 3 de la LIE define como Red Eléctrica Inteligente (REI) aquella que integra tecnologías avanzadas de medición, monitoreo, comunicación y operación, entre otros, a fin de mejorar la eficiencia, Confiabilidad, Calidad y seguridad del Sistema Eléctrico Nacional (SEN).\nEn ese contexto, la definición de REI antes referida, da cabida a diversas tecnologías avanzadas para la integración y gestión eficiente de la Energía Eléctrica mediante la aplicación de Tecnologías de Información y Comunicación (TIC), entre los que se puede considerar como elementos que forman parte de la REI, entre otros, a la Infraestructura de Medición Avanzada (AMI, por las siglas en inglés de Advanced Metering Infraestructure); Recursos Distribuidos de Energía (DER, Distributed Energy Resources), Almacenamiento de Energía y Vehículos Eléctricos, entre otros.\nQUINTO. Que conforme la fracción XXXVIII del artículo 12 de la LIE se faculta a la Comisión para expedir las normas, directivas y demás disposiciones de carácter administrativo en materia de Redes Eléctricas Inteligentes.\nSEXTO. Que el artículo 33, párrafo tercero, fracción II de la LIE establece que, para la interconexión de las Centrales Eléctricas y Conexión de Centros de Carga, el Centro Nacional de Control de Energía (CENACE) está obligado a definir las características específicas de la infraestructura requerida para realizar la interconexión o conexión, a solicitud del representante de la Central Eléctrica o del Centro de Carga.\nSÉPTIMO. Que el artículo 13 del Reglamento de la Ley de la Industria Eléctrica (Reglamento) publicado en el DOF el 31 de octubre de 2014, establece que la Comisión podrá expedir disposiciones administrativas de carácter general en materia de Redes Eléctricas Inteligentes, considerando aspectos de gradualidad en su implementación y el impacto en las tarifas a los Usuarios Finales, conforme a la política en materia eléctrica establecida por la Secretaría de Energía.\nOCTAVO. Que la base 3.3.21 de las Bases del Mercado Eléctrico (Bases), publicadas en el DOF el 08 de septiembre de 2015, establece que los equipos de almacenamiento de energía eléctrica deberán registrarse bajo la figura de Centrales Eléctricas y deberán ser representados por un Generador, observando lo siguiente:\na) Estos Generadores podrán realizar ofertas para la venta de todos los productos que los equipos de almacenamiento sean capaces de producir, en los mismos términos que cualquier otra Unidad de Central Eléctrica.\nb) Asimismo, con el fin de operar los equipos de almacenamiento, estos Generadores podrán realizar todas las ofertas de compra que correspondan a los Centros de Carga, asumiendo para tal efecto todas las responsabilidades que corresponden a las Entidades Responsables de Carga.\nc) Cuando un equipo de almacenamiento forma parte de la Red Nacional de Transmisión o las Redes Generales de Distribución, se deberá observar la estricta separación legal entre el Generador que represente el equipo en el Mercado Eléctrico Mayorista y el Transportista o Distribuidor que utilice el equipo para prestar el Servicio Público de Transmisión y Distribución, en los términos que defina la Secretaría de Energía. Asimismo, estos Generadores, Transportistas y Distribuidores se someterán a la regulación tarifaria que establezca la CRE."
+  },
+  {
+   "orden": 2,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 3 de 8)",
+   "ruta": [],
+   "texto": "NOVENO. Que, conforme lo previsto en el considerando anterior de este instrumento, la operación de los SAE, al realizar la inyección y retiro de energía eléctrica, resulta equiparable a la actividad de generación, por lo que, para su despliegue se requiere de un Permiso de Generación de energía eléctrica y ser representados por un Generador en el MEM. En este sentido, cuando exista la posibilidad de inyección de energía eléctrica a la Red Nacional de Transmisión (RNT) o a las Redes Generales de Distribución (RGD), los SAE deberán formar parte de un permiso de generación u obtener un nuevo permiso y, en cualquier caso, ser acreedores a los derechos y obligaciones establecidos en la LIE, los Permisos de Generación, las Bases del Mercado Eléctrico y demás normatividad y regulación aplicable, como cualquier otra Central Eléctrica y/o Centro de Carga, según corresponda.\nDÉCIMO. Que las Disposiciones administrativas de carácter general para la importación de energía eléctrica proveniente de una central eléctrica ubicada en el extranjero, conectada exclusivamente al Sistema Eléctrico Nacional, así como para la importación y exportación de energía eléctrica en modalidad de abasto aislado, emitidas por la Comisión mediante la Resolución número RES/810/2015, publicadas en el DOF el 16 de diciembre de 2015 (DACG de Importación y Exportación), establecen los términos y condiciones generales de las actividades de importación y exportación de energía eléctrica que pueden realizar los titulares de una autorización para la importación o exportación de energía eléctrica.\nUNDÉCIMO. Que la fracción XXXVIII del artículo 3 de la Ley de Transición Energética (LTE), publicada en el DOF el 24 de diciembre de 2015, define las Tecnologías Inteligentes como las tecnologías utilizadas en las Redes Eléctricas Inteligentes que involucran en tiempo real, automatizados o interactivos para optimizar la operación de la Red Nacional de Transmisión (RNT) y de las Redes Generales de Distribución (RGD), así como los aparatos y equipos inteligentes de los usuarios.\nDUODÉCIMO. Que las fracciones V y IX del artículo 38 de la LTE establecen que el Programa de Redes Eléctricas Inteligentes (PREI) deberá identificar, evaluar, diseñar, establecer e instrumentar estrategias, acciones y proyectos en materia de Redes Eléctricas, entre las que se podrá considerar, entre otras, el despliegue de tecnologías inteligentes para la medición y comunicación en las REI, así como el desarrollo e integración de tecnologías avanzadas para el almacenamiento de electricidad y de tecnologías para satisfacer la demanda en horas pico.\nDECIMOTERCERO. Que conforme a lo dispuesto en el artículo 16, fracción III de la LTE, corresponde al CENACE adoptar las tecnologías y procedimientos necesarios para garantizar el uso óptimo de las Energías Limpias, asegurando la estabilidad y seguridad de la Red Nacional de Transmisión en condiciones de viabilidad económica.\nDECIMOCUARTO. Que el Capítulo 4 del Manual de Contratos de Interconexión Legados (Manual de CIL), publicado en el DOF el 13 de mayo de 2016, establece las disposiciones conforme a las cuales se puede llevar a cabo la conversión de Contratos de Interconexión Legados (CIL) a nuevos contratos de Interconexión o Conexión, regulados bajo la LIE; asimismo, el Capítulo 5 del Manual de CIL establece las disposiciones para la terminación anticipada de los CIL.\nDECIMOQUINTO. Que el inciso (a) del numeral 2.9.1 del Manual de Mercado de Energía de Corto Plazo, publicado en el DOF el 17 de junio de 2016, establece que los Generadores podrán hacer Ofertas de Compra en las Centrales Eléctricas, cuando éstas estén debidamente registradas, a fin de suministrar los usos propios de dichas Centrales Eléctricas u operar equipos de almacenamiento."
+  },
+  {
+   "orden": 3,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 4 de 8)",
+   "ruta": [],
+   "texto": "DECIMOSEXTO. Que el numeral 2.2.10 del Manual de Registro y Acreditación de Participantes del Mercado, publicado en el DOF el 15 de julio de 2016, señala que los permisionarios de equipos de almacenamiento de energía eléctrica podrán participar en el Mercado Eléctrico Mayorista (MEM), para lo cual se deberán registrar como Participante del Mercado en modalidad de Generador y los equipos referidos deberán registrarse bajo la figura de Centrales Eléctricas.\nDECIMOSÉPTIMO. Que, el numeral 2.3.6 del Manual de Registro y Acreditación de Participantes del Mercado establece que, los permisionarios de equipos de almacenamiento de energía eléctrica que no representan al Activo Físico en el MEM podrán ser representados en el MEM por un Generador que no cuente con participación en dichos equipos, registrándolos bajo la figura de Centrales Eléctricas. El registro y operación de los activos de almacenamiento considerados parte de la RNT o de las RGD se sujetará a la regulación que emita la Comisión.\nAsimismo, el numeral 4.2.6, inciso (a), fracción (ii), subinciso (C), (XV) y (J) del Manual referido en el párrafo anterior, establece el procedimiento de captura inicial y actualización de información de las Centrales Eléctricas en el Módulo de Registro del MEM, el cual incluye los equipos de almacenamiento como una de las opciones de Tipo de Tecnología de la Central Eléctrica a registrar y señala que el Participante del Mercado que representa dichos equipos de almacenamiento debe, a su vez, registrar la capacidad en MW de consumo y la demanda máxima en kW de estos equipos.\nDECIMOCTAVO. Que el inciso d), del numeral 5.3.5 del Manual del Mercado para el Balance de Potencia publicado en el DOF el 22 de septiembre de 2016, establece que si la Unidad de Central Eléctrica firme tiene una limitante en el número de horas consecutivas que puede operar a su capacidad máxima, como pudiera ser sistemas de almacenamiento con limitaciones de almacenamiento y profundidad de descarga, se considerará que la Unidad de Central Eléctrica firme tiene limitaciones de operación continua y se sujetará a lo establecido en dicho inciso.\nDECIMONOVENO. Que el numeral 3.4 del ANEXO 1, Interconexión a las Redes Generales de Distribución, del Manual de Interconexión de Centrales de Generación con capacidad menor a 0.5 MW, publicado en el DOF el 15 de diciembre de 2016, prevé que los esquemas establecidos en el apartado 3 no excluyen que se puedan instalar Centrales Eléctricas que incluyan equipos de almacenamiento de energía.\nVIGÉSIMO. Que el numeral 2.1., párrafo sexto, de las Disposiciones administrativas de carácter general, los modelos de contrato, la metodología de cálculo de contraprestación y las especificaciones técnicas generales, aplicables a las centrales eléctricas de generación distribuida y generación limpia distribuida, emitidas por la Comisión mediante la Resolución Núm. RES/142/2017, publicadas en el DOF el 07 de marzo de 2017 (DACG de Generación Distribuida), prevé que el tratamiento de los equipos de almacenamiento individuales o en conjunto con una Central Eléctrica de Generación Distribuida que sea representada por un Suministrador de Servicios Básicos, se regirá por lo establecido en dichas Disposiciones o aquellas que las modifiquen o sustituyan."
+  },
+  {
+   "orden": 4,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 5 de 8)",
+   "ruta": [],
+   "texto": "VIGÉSIMO PRIMERO. Que el numeral 1.3.13 del Manual de Costos de Oportunidad, publicado en el DOF el 16 de octubre de 2017, define como Equipo de Almacenamiento de Energía al sistema capaz de almacenar una cantidad específica de energía para liberarla cuando se requiera en forma de energía eléctrica, el cual será registrado bajo la figura de Central Eléctrica. Entre estos sistemas se incluyen, entre otros, las centrales de re-bombeo, las centrales que operan con base en aire comprimido almacenado en cavernas o en algún otro medio, las baterías electroquímicas y las centrales que operan con base en almacenamiento de hidrógeno o gas sintético que se produce a partir de hidrólisis del agua, utilizando la energía excedente de fuentes renovables de energía.\nVIGÉSIMO SEGUNDO. Que el Capítulo 2 del Manual de Costos de Oportunidad establece las disposiciones aplicables a los Recursos de Energía Limitada y, de manera particular, a través del numeral 2.4 se establecen los criterios aplicables a los Equipos de Almacenamiento de Energía que participan en el MEM.\nVIGÉSIMO TERCERO. Que el numeral 2.4.2 del Manual de Costos de Oportunidad señala que el CENACE establecerá en una Guía Operativa la manera en que los Equipos de Almacenamiento de Energía serán representados en los modelos de optimización del Mercado de Energía de Corto Plazo para lo cual determina los aspectos mínimos a considerar. Asimismo, el numeral 2.4.3 del Manual antes citado refiere que el Participante de Mercado que represente Equipos de Almacenamiento de Energía que no sean clasificados como Recurso de Energía Limitada deberá presentar sus ofertas de venta directamente en el Mercado de Energía de Corto Plazo, como cualquier otra Unidad de Central Eléctrica, de conformidad con el Manual de Mercado de Energía de Corto Plazo.\nVIGÉSIMO CUARTO. Que el 06 de diciembre de 2017 se publicaron en el DOF las Disposiciones administrativas de carácter general que establecen los términos para la inscripción en el Registro de Usuarios Calificados y la operación y funcionamiento del mismo, expedidas por la Comisión mediante la Resolución Núm. RES/2506/2017, con el objeto de establecer las reglas para la administración, operación y funcionamiento del Registro de Usuarios Calificados de la Comisión previsto en los artículos 12, fracción XXIX, 59 y 60 de la LIE y 75, 76, 77 y 79 de su Reglamento.\nVIGÉSIMO QUINTO. Que el numeral 9.3.4 del Manual para la Interconexión de Centrales Eléctricas y Conexión de Centros de Carga, publicado en el DOF el 09 de febrero de 2018, establece que el Análisis de Estabilidad Transitoria se realizará considerando, entre otros elementos, la Estabilidad Angular de conformidad con la determinación de requerimientos de fuentes de almacenamiento de energía (bancos de baterías, etc.), así como la respuesta de los sistemas de control de las Unidades de Central Eléctrica: sistemas de excitación, estabilizadores de potencia, sistemas de control de velocidad, controlador de planta, sistemas de control de bancos de baterías, etc.\nVIGÉSIMO SEXTO. Que el 31 de diciembre de 2021 se publicó en el DOF la actualización de las Disposiciones Administrativas de Carácter General que contienen los criterios de eficiencia, calidad, confiabilidad, continuidad, seguridad y sustentabilidad del Sistema Eléctrico Nacional: Código de Red (Código de Red), a través del cual, se establece en el Criterio INTE - 20 que los Sistemas de Almacenamiento de Energía Eléctrica deberán proporcionar al CENACE la fuente primaria de Almacenamiento de Energía, la cual puede ser: química, eléctrica, térmica, electroquímica, mecánica, entre otras."
+  },
+  {
+   "orden": 5,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 6 de 8)",
+   "ruta": [],
+   "texto": "VIGÉSIMO SÉPTIMO. Que el numeral 2.8 del Manual Regulatorio de Planeación del Sistema Eléctrico Nacional establecido en el Código de Red señala que, para la estimación de los costos de inversión típicos de infraestructura de Transmisión, Transformación, compensación de potencia reactiva y Subestaciones Eléctricas se deberá considerar, entre otros elementos, los Sistemas de Almacenamiento de Energía Eléctrica.\nVIGÉSIMO OCTAVO. Que el numeral 5.1 del Manual Regulatorio de Planeación del Sistema Eléctrico Nacional establecido en el Código de Red, sobre la Metodología costo-beneficio de proyectos para las redes que pertenecen al MEM, establece que, para la realización de los Programas de Ampliación y Modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución (PAMRNT y PAMRGD, respectivamente), el CENACE y el Distribuidor deberán considerar, entre otros, la evaluación de proyectos de almacenamiento. Además, el numeral 5.7.1 de dicho Manual señala que en los escenarios de política energética se incluye la capacidad de generación, tomando en consideración a los Sistemas de Almacenamiento de Energía Eléctrica entre los tipos de tecnologías del portafolio de generación definido por la Secretaría de Energía.\nVIGÉSIMO NOVENO. Que el 08 de julio de 2020 se publicó en el DOF el Programa Sectorial de Energía 2020-2024, derivado del Plan Nacional de Desarrollo (PND) 2019-2024, el cual señala en la acción puntual 4.1.7. el establecer en la política de eficiencia energética, el aumento del rendimiento de equipos de iluminación en procesos productivos, espacios públicos y domésticos; y el uso de energías renovables, sistemas de almacenamiento, conversión de corriente y tecnologías de interconexión a la Red Eléctrica, como parte de la Estrategia prioritaria 4.1 orientada a establecer una política en materia de diversificación de fuentes de energía, aprovechando de manera óptima todos los recursos de la Nación, avanzando en el uso de Energías Limpias y Renovables, para garantizar una Transición Energética Soberana y ordenada.\nTRIGÉSIMO. Que el numeral 6 del Programa Sectorial de Energía 2020-2024 establece y define como objetivos prioritarios: Alcanzar y mantener la autosuficiencia energética sostenible para satisfacer la demanda energética de la población con producción nacional; Fortalecer a las empresas productivas del Estado mexicano como garantes de la seguridad y soberanía energética, y palanca del desarrollo nacional para detonar un efecto multiplicador en el sector privado; Organizar las capacidades científicas, tecnológicas e industriales que sean necesarias para la transición energética de México a lo largo del siglo XXI; Elevar el nivel de eficiencia y sustentabilidad en la producción y uso de las energías en el territorio nacional; Asegurar el acceso universal a las energías, para que toda la sociedad mexicana disponga de las mismas para su desarrollo, y Fortalecer al sector energético nacional para que constituya la base que impulse el desarrollo del país como potencia capaz de satisfacer sus necesidades básicas con sus recursos, a través de las empresas productivas del Estado, las sociales y privadas.\nTRIGÉSIMO PRIMERO. Que la Comisión estableció los aspectos generales relacionados con la actividad de Abasto Aislado mediante el Acuerdo número A/049/2017 por el que se emite el criterio de interpretación del concepto \"necesidades propias\", establecido en el artículo 22 de la LIE, y por el que se describen los aspectos generales aplicables a la actividad de Abasto Aislado, publicado en el DOF el 21 de noviembre de 2017 y modificado mediante el Acuerdo número A/037/2021 publicado en el mismo medio de difusión el 31 de diciembre de 2021."
+  },
+  {
+   "orden": 6,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 7 de 8)",
+   "ruta": [],
+   "texto": "TRIGÉSIMO SEGUNDO. Que el 28 de noviembre de 2023 se publicó en el DOF el Plan Nacional para la Innovación, el cual plantea desarrollar la cadena de valor del litio de manera acelerada, así como articular la investigación, el desarrollo tecnológico y la innovación para que sean el sustento de una nueva industria nacional que habilite la incorporación de las energías renovables en el sistema eléctrico nacional (mediante el almacenamiento de energía), tanto a gran escala como a pequeña escala mediante generación distribuida. Asimismo, se propone la puesta en marcha de la Agenda de Estado y mapa de ruta con la CFE con énfasis en la diversificación de la matriz eléctrica nacional y la disminución de las importaciones de energéticos que incluye la realización de Estudios de factibilidad y el escalamiento de tecnologías en materia de almacenamiento de energía, planeación del sistema eléctrico, geotermia, hidroelectricidad, energía del océano, bioenergía, aspectos sociales y ambientales, captura y secuestro de CO2, entre otros.\nTRIGÉSIMO TERCERO. Que las Disposiciones administrativas de carácter general que establecen los términos para solicitar la autorización para la modificación o transferencia de permisos de generación de energía eléctrica o suministro eléctrico, emitidas mediante la Resolución Núm. RES/390/2017, publicadas en el DOF el 17 de abril de 2017, y modificadas mediante el Acuerdo Núm. A/062/2023, publicado en el mismo medio de difusión el 17 de enero de 2024, establecen mediante el capítulo II los requisitos para la modificación de los Permisos de Generación de Energía Eléctrica.\nTRIGÉSIMO CUARTO. Que el 31 de mayo de 2024 la Secretaría de Energía publicó en su sitio de internet el Programa de Desarrollo del Sistema Eléctrico Nacional (PRODESEN 2024-2038), documento de planeación energética que menciona la necesidad de incorporar tecnologías de almacenamiento, Redes Eléctricas Inteligentes e interoperabilidad que permitan la integración de Generación Distribuida Fotovoltaica. Asimismo, considera en este ejercicio del Programa Indicativo para la Instalación y Retiro de Centrales Eléctricas (PIIRCE), la adición de 8,412 MW de sistemas de almacenamiento entre 2024 y 2038, a fin de contribuir al cumplimiento de las Metas de Energía Limpia y reducción de emisiones de GEI y garantizar una operación confiable en cumplimiento de la Política de Confiabilidad vigente.\nTRIGÉSIMO QUINTO. Que, si bien los Sistemas de Almacenamiento de Energía (SAE) no constituyen una nueva actividad permisionada al amparo de la LIE; toda vez que, su esquema de operación, permite realizar tanto la inyección como el retiro de energía eléctrica, resulta equiparable a la actividad de generación, lo cual sustenta que para su despliegue se requiera de un Permiso de Generación de energía eléctrica y ser representados por un Generador en el MEM en concordancia con lo dispuesto en las Reglas del Mercado. En este sentido, cuando exista la posibilidad de inyección de energía eléctrica a la RNT o a las RGD, los SAE deberán formar parte de un permiso de generación en conjunto con una Central Eléctrica u obtener un nuevo permiso y, en cualquier caso, ser acreedores a los derechos y obligaciones establecidos en la LIE, los Permisos de Generación, las Bases del Mercado Eléctrico y demás normatividad y regulación aplicable, como cualquier otra Central Eléctrica y/o Centro de Carga, según corresponda.\nACUERDA\nPRIMERO. Se emiten las Disposiciones Administrativas de Carácter General para la integración de Sistemas de Almacenamiento de Energía Eléctrica al Sistema Eléctrico Nacional, mismas que se anexan al presente como Anexo Único, el cual forma parte integrante del presente Acuerdo.\nSEGUNDO. Publíquese el presente Acuerdo y su Anexo Único en el Diario Oficial de la Federación.\nTERCERO. El presente Acuerdo y su Anexo Único entrarán en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 7,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 8 de 8)",
+   "ruta": [],
+   "texto": "CUARTO. Con independencia de las medidas transitorias previstas en el Capítulo VIII de las Disposiciones Administrativas de Carácter General para la integración de Sistemas de Almacenamiento de Energía Eléctrica al Sistema Eléctrico Nacional, se instruye al Centro Nacional de Control de Energía a llevar a cabo la actualización en el Catálogo Nacional de Regulaciones, Trámites y Servicios (CNRTyS) del trámite de Solicitud de Registro de Participantes del Mercado y cualquier otro que sea indispensable para que los particulares, de forma transitoria y hasta que se concreten las acciones y demás medidas de dicho Capítulo, cuenten con medios para la aplicación las mismas , en términos de lo dispuesto en el acuerdo Tercero del presente Acuerdo.\nQUINTO. El presente acto administrativo podrá impugnarse a través del juicio de amparo indirecto conforme a lo dispuesto por el artículo 27 de la Ley de los Órganos Reguladores Coordinados en Materia Energética ante los órganos jurisdiccionales del Poder Judicial de la Federación, dentro del plazo establecido en la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos. El expediente respectivo se encuentra y puede ser consultado en las oficinas de la Comisión Reguladora de Energía ubicadas en Boulevard Adolfo López Mateos 172, Colonia Merced Gómez, Alcaldía Benito Juárez, Ciudad de México, C. P. 03930.\nSEXTO. Inscríbase el presente Acuerdo con el número A/113/2024, en el registro a que se refieren los artículos 22, fracción XXVI, incisos a) y e), y 25, fracción X, de la Ley de los Órganos Reguladores Coordinados en Materia Energética; 4, 16, último párrafo, y 27, fracciones XI y XII del Reglamento Interno de la Comisión Reguladora de Energía publicado en el Diario Oficial de la Federación el 28 de abril de 2017 y su modificación publicada por el mismo medio de difusión el 11 de abril de 2019.\nCiudad de México, a 30 de septiembre de 2024.- Comisionado Presidente, Leopoldo Vicente Melchi García.- Rúbrica.- Comisionados: Walter Julián Ángel Jiménez, Hermilo Ceja Lucas, Guadalupe Escalante Benítez, Luis Linares Zapata.- Rúbricas.\nANEXO ÚNICO DEL ACUERDO Núm. A/113/2024\nACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA POR EL QUE SE EMITEN LAS DISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL PARA LA INTEGRACIÓN DE SISTEMAS DE ALMACENAMIENTO DE ENERGÍA ELÉCTRICA AL SISTEMA ELÉCTRICO NACIONAL\nContenido"
+  },
+  {
+   "orden": 8,
+   "clave": "1.1",
+   "etiqueta": "Disposición 1.1",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.1. Objetivo general. Las presentes Disposiciones tienen por objeto establecer las modalidades y condiciones generales bajo las cuales se realizará la integración de Sistemas de Almacenamiento de Energía Eléctrica (SAE) al Sistema Eléctrico Nacional (SEN), a fin de que ésta se realice de manera ordenada y económicamente viable, permitiendo contrarrestar la variabilidad de las Centrales Eléctricas intermitentes y aprovechar los productos y servicios que pueden ofrecer los SAE para mejorar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del SEN."
+  },
+  {
+   "orden": 9,
+   "clave": "1.2",
+   "etiqueta": "Disposición 1.2",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.2. Objetivos específicos:\n1.2.1. Establecer las condiciones generales aplicables a los SAE;\n1.2.2. Definir las modalidades para la integración de SAE al SEN;\n1.2.3. Establecer los requisitos generales que deben cumplir los interesados para la integración de SAE y participar en cualquiera de sus modalidades;\n1.2.4. Establecer el procedimiento de interconexión/conexión que deberán observar los interesados en integrar SAE."
+  },
+  {
+   "orden": 10,
+   "clave": "1.3",
+   "etiqueta": "Disposición 1.3",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.3. Alcance. Las presentes Disposiciones son de orden público, interés general y observancia en todo el territorio nacional. El CENACE, los Generadores, los Generadores Exentos, los Suministradores, el Transportista, el Distribuidor, las Entidades Responsables de Carga y los Usuarios Finales se sujetarán a las mismas en lo que les resulte aplicable y de manera no discriminatoria, conforme se desarrolla en las presentes Disposiciones."
+  },
+  {
+   "orden": 11,
+   "clave": "1.4",
+   "etiqueta": "Disposición 1.4",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.4. Modificaciones. La(s) modificación(es) de las presentes Disposiciones y las complementarias, que en su caso se emitan, son atribución exclusiva de la Comisión, quien podrá modificar los términos cuando ello sea necesario, derivado del desarrollo y evolución de los SAE en la industria eléctrica nacional, con el fin de garantizar las condiciones de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del SEN en consistencia con el marco regulatorio vigente."
+  },
+  {
+   "orden": 12,
+   "clave": "1.5",
+   "etiqueta": "Disposición 1.5",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.5. Disposiciones complementarias. Derivado de la integración ordenada de los SAE, el impacto en las Redes Eléctricas, así como las necesidades de los Integrantes de la Industria Eléctrica, la Comisión podrá desarrollar nuevos instrumentos regulatorios complementarios acordes al contexto de los SAE en la industria eléctrica nacional."
+  },
+  {
+   "orden": 13,
+   "clave": "1.6",
+   "etiqueta": "Disposición 1.6 (parte 1 de 3)",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.6. Definiciones, siglas y acrónimos. Para efectos de las presentes Disposiciones, además de las contenidas en la LIE y su Reglamento, la LORCME, las Reglas del Mercado y demás disposiciones aplicables, se utilizarán las siguientes definiciones y acrónimos, en singular o plural:\nI. Análisis de Variabilidad: Análisis realizado en los Estudios de Interconexión cuyo fin es dimensionar los requerimientos mínimos del SAE para mitigar la variabilidad de las Centrales Eléctricas intermitentes que indicará, al menos, el respaldo requerido en Potencia SAE (MW), Capacidad SAE (MWh) y velocidades de rampa (MW/min);\nII. Autorización: Resolución emitida por la Comisión mediante el cual se permite llevar a cabo la importación y exportación de energía eléctrica en modalidad de Abasto Aislado, de conformidad con lo establecido en las Disposiciones administrativas de carácter general para la importación de energía eléctrica proveniente de una central eléctrica ubicada en el extranjero, conectada exclusivamente al Sistema Eléctrico Nacional, así como para la importación y exportación de energía eléctrica en modalidad de abasto aislado, vigentes o aquellas que las modifiquen o sustituyan en materia de importación y exportación;\nIII. Capacidad SAE: Capacidad nominal para almacenar Energía Eléctrica por la cual se identifica el SAE (kWh, MWh), indicado en corriente alterna a 60 Hz;\nIV. CENACE: Centro Nacional de Control de Energía, conforme se define en la fracción III del artículo 3 de la LIE;\nV. Central Eléctrica intermitente: Central Eléctrica con fuente de energía primaria variable;\nVI. CEL: Certificado(s) de Energías Limpias, conforme se define en la fracción VIII del artículo 3 de la LIE;\nVII. Ciclo de trabajo: Combinación de fases controladas (fase de carga, pausa, fase de descarga, entre otros) que comienza desde un estado inicial de carga y termina hasta un estado final de carga, se utiliza en la caracterización, en la especificación y en la prueba del SAE para un cierto modo operativo;\nVIII. Comisión: Comisión Reguladora de Energía;\nIX. Confiabilidad: Conforme se define en la fracción X del artículo 3 de la LIE;\nX. DEF: Disponibilidad de Entrega Física, conforme se define en el numeral 2.1.42 de las Bases del Mercado Eléctrico;\nXI. Degradación del SAE: La afectación o disminución en el rendimiento del SAE, mediante la cual pierde capacidad, causada por los ciclos de trabajo y el transcurso del tiempo;\nXII. DFT: Derechos Financieros de Transmisión, conforme se define en la fracción XIX del artículo 3 de la LIE;\nXIII. DOD: Profundidad de Descarga (por las siglas en inglés de Depth Of Discharge), se refiere a la cantidad de energía que se ha extraído de la batería, expresada en porcentaje con respecto a la capacidad total;\nXIV. Disposiciones: Las presentes Disposiciones Administrativas de Carácter General para la integración de Sistemas de Almacenamiento de Energía Eléctrica al Sistema Eléctrico Nacional;\nXV. Energía Disponible del SAE: Energía eléctrica máxima (kWh, MWh) que puede extraerse del SAE operando a la potencia activa asignada durante la descarga, la cual puede diferir según diversos factores (temperatura ambiente, auto descarga, entre otros) y está indicada en corriente alterna a 60 Hz;\nXVI. Equipo de Almacenamiento de Energía: conforme se define en el numeral 1.3.13 del Manual de Costos de Oportunidad;\nXVII. Intermitente: Recursos energéticos cuya disponibilidad no es constante como la energía eólica o solar;\nXVIII. LIE: Ley de la Industria Eléctrica;\nXIX. LSPEE: Ley del Servicio Público de Energía Eléctrica;\nXX. MEM: Mercado Eléctrico Mayorista;\nXXI. MIC: Manual para la Interconexión de Centrales Eléctricas y Conexión de Centros de Carga, publicado en el Diario Oficial de la Federación el 09 de febrero de 2018 o aquel que lo modifique o sustituya;"
+  },
+  {
+   "orden": 14,
+   "clave": "1.6",
+   "etiqueta": "Disposición 1.6 (parte 2 de 3)",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "XXII. Modificación: Relativo al permiso de generación de energía eléctrica, conforme se define en el numeral 7 del Capítulo I Bis de las Disposiciones administrativas de carácter general que establecen los términos para solicitar la autorización para la modificación o transferencia de permisos de generación de energía eléctrica o suministro eléctrico, aprobadas mediante la Resolución Núm. RES/390/2017 publicada en el Diario Oficial de la Federación el 17 de abril de 2017 y modificadas mediante el Acuerdo Núm. A/062/2023 publicado en el mismo medio de difusión el 17 de enero de 2024 o aquel que lo modifique o sustituya; para los efectos de las presentes Disposiciones, entre los supuestos que se refiere en la misma, de manera enunciativa más no limitativa, se deberá considerar la instalación de un SAE como una Modificación para efectos del Permiso de Generación de energía eléctrica;\nXXIII. Modificación Técnica: Para los efectos de las presentes Disposiciones, además de los cambios señalados en el numeral 1.5.62 del Manual para la Interconexión de Centrales Eléctricas y Conexión de Centros de Carga publicado en el Diario Oficial de la Federación el 09 de febrero de 2018 o aquel que lo modifique o sustituya, se considerará como parte de las modificaciones de la tecnología la instalación, ampliación, actualización, modernización o sustitución de un SAE y por tanto como una Modificación Técnica, para efectos de los Estudios de Conexión e Interconexión correspondientes;\nXXIV. Perfil de potencia: Cantidad de energía que un sistema de almacenamiento puede entregar o recibir en un período de tiempo específico (MW);\nXXV. Permiso: Título expedido por la Comisión mediante Resolución, el cual permite generar, almacenar o inyectar energía eléctrica, conforme a lo establecido en la LIE, su reglamento y demás disposiciones aplicables;\nXXVI. POC: Procedimiento de Operación para la Declaración de Entrada en Operación Comercial de Centrales Eléctricas y Centros de Carga, publicado por el CENACE en el SIM el 08 de abril de 2019 mediante la Resolución número 02/2019, el cual entró en vigor el 09 de abril de 2019;\nXXVII. Potencia SAE: Potencia activa por la cual se designa y se identifica el SAE (W, kW, MW), indicado en corriente alterna a 60 Hz;\nXXVIII. RGD: Redes Generales de Distribución, conforme se define en la fracción XXXVI del artículo 3 de la LIE;\nXXIX. RNT: Red Nacional de Transmisión, conforme se define en la fracción XXXV del artículo 3 de la LIE;\nXXX. SAE: Sistema de Almacenamiento de Energía Eléctrica. Conjunto de componentes o equipos (Equipo de Almacenamiento de Energía, equipos de control y supervisión, comunicaciones, protecciones, equipos de conversión de energía, equipos auxiliares, entre otros) que permiten extraer energía eléctrica de una Red Eléctrica u otra fuente de energía y almacenarla internamente para su posterior uso o inyección, los cuales podrán ofrecer Energía, potencia y Productos Asociados con la finalidad de aumentar la flexibilidad operativa y contribuir a mejorar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del SEN;\nXXXI. SAE-AA: Sistema de Almacenamiento de Energía Eléctrica asociado a un esquema de Abasto Aislado. Modalidad en la que el SAE se incorpora a una Central Eléctrica cuya generación se destina al Abasto Aislado para la satisfacción de necesidades propias, o para la importación o exportación de energía eléctrica en modalidad de Abasto Aislado y que requiere de un Permiso de Generación o autorización otorgado por la Comisión, según corresponda;"
+  },
+  {
+   "orden": 15,
+   "clave": "1.6",
+   "etiqueta": "Disposición 1.6 (parte 3 de 3)",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "XXXII. SAE-CE: Sistema de Almacenamiento de Energía Eléctrica asociado a una Central Eléctrica. Modalidad en la cual se integra un SAE a una Central Eléctrica intermitente, existente o nueva, y que comparten el mismo Punto de Interconexión. Sus características y modos de operación deberán circunscribirse a las presentes Disposiciones con base en los criterios de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad y los planes de expansión del SEN;\nXXXIII. SAE-CC: Sistema de Almacenamiento de Energía Eléctrica asociado a un Centro de Carga. Modalidad en la cual el SAE se encuentra integrado a un Centro de Carga, existente o nuevo, sin incluir una Central Eléctrica y que comparten el mismo Punto de Conexión sin inyectar energía eléctrica al SEN. En esta modalidad, el conjunto SAE-CC podrá recibir el suministro de energía para su SAE y Centro de Carga a través de un Suministrador o Participar en el MEM;\nXXXIV. SAE-GE: Sistema de Almacenamiento de Energía Eléctrica asociado a un Generador Exento conforme a lo establecido en las Disposiciones administrativas de carácter general, los modelos de contratos, la metodología de cálculo de contraprestación y las especificaciones técnicas generales, aplicables a las centrales eléctricas de generación distribuida y generación limpia distribuida, emitidas mediante las Resolución Núm. RES/142/2017 publicada en el Diario Oficial de la Federación el 07 de marzo de 2017 o aquella que la modifique o sustituya, o bien, el instrumento en materia de Generación Exenta que al efecto se emita, según resulte aplicable;\nXXXV. SAE no Asociado: SAE a base de baterías que no estará integrado a una Central Eléctrica o Centro de Carga, observándose de manera independiente su inyección y/o consumo a la RNT o a las RGD. Esta modalidad requiere de un Permiso de Generación otorgado por la Comisión;\nXXXVI. SEN: Sistema Eléctrico Nacional, conforme se define en la fracción XLIV del artículo 3 de la LIE;\nXXXVII. SIM: Sistema de Información de Mercado, conforme se define en la base 2.1.126 de las Bases del Mercado Eléctrico;\nXXXVIII. SOC: Estado de Carga (por las siglas en inglés State Of Charge), indica el nivel de carga del SAE en un momento específico, obtenido de la relación entre la Energía Disponible del SAE y la Capacidad SAE, expresada normalmente como porcentaje;\nXXXIX. Tiempo muerto: Duración del intervalo entre el instante del cambio de paso de una variable de entrada y el instante en que la variable de salida se mueve por primera vez desde su valor de estado estable inicial;\nXL. Variabilidad: Condición extraordinaria que se genera por diversos escenarios climatológicos que afecten súbitamente la fuente primaria de energía provocando intermitencia aleatoria en la potencia generada por las Centrales Eléctricas y donde los SAE pueden limitar sus efectos negativos controlando la frecuencia por un plazo suficiente para mitigar la intermitencia en la red;\nXLI. Velocidad de rampa: Tasa promedio de variación por unidad de tiempo de la potencia después del Tiempo muerto y durante el tiempo de carga y descarga (kW/min, MW/min);\nXLII. Vida útil: Tiempo desde la prueba de puesta en servicio del SAE hasta el retiro de la etapa de uso que se prevé considerando la Degradación del SAE, expresada en años o en Ciclos de trabajo, la cual no necesariamente corresponde al desmantelamiento del sistema, ya que al final de la vida útil puede reutilizarse, recuperarse o eliminarse."
+  },
+  {
+   "orden": 16,
+   "clave": "1.7",
+   "etiqueta": "Disposición 1.7",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.7. Referencias normativas. A continuación, se enlistan, de manera enunciativa más no limitativa, las normas mexicanas e internacionales vigentes que resultan aplicables a los sistemas de almacenamiento, por lo que se deberá considerar su aplicación o la de aquellas que las modifiquen o sustituyan:\n· NMX-J-838-1-ANCE-2021 - Sistemas de Almacenamiento de Energía Eléctrica - Parte 1: Vocabulario.\n· IEC 62933-2-1 - Electrical energy storage (EES) systems - Part 2-1: Unit parameters and testing methods - General specification.\n· IEC TS 62933-4-1 - Electrical energy storage (EES) systems - Part 4-1: Guidance on environmental issues - General specification.\n· IEC TS 62933-5-1 - Electrical energy storage (EES) systems - Part 5-1: Safety considerations for grid-integrated EES systems - General specification.\n· IEC 62933-5-2 - Electrical energy storage (EES) systems - Part 5-2; Safety requirements for grid-integrated EES systems - Electrochemical-based systems.\n· IEC TR 62933-2-200 - Electrical energy storage (EES) systems - Part 2-200: Unit parameters and testing methods - Case study of electrical energy storage (EES) systems located in EV charging station with PV.\n· IEC TS 62933-2-2 - Electrical energy storage (EES) systems - Part 2-2: Unit parameters and testing methods - Application and performance testing.\n· IEC TS 62933-3-1 - Electrical energy storage (EES) systems - Part 3-1: Planning and performance assessment of electrical energy storage systems - General specification.\n· IEC TS 62933-3-2 - Electrical energy storage (EES) systems - Part 3-2: Planning and performance assessment of electrical energy storage systems - Additional requirements for power intensive and renewable energy sources integration related applications.\n· IEC TS 62933-3-3 - Electrical energy storage (EES) systems - Part 3-3: Planning and performance assessment of electrical energy storage systems - Additional requirements for energy intensive and backup power applications.\n· IEEE Std 2800-2022 Standard for Interconnection and Interoperability of inverter-Based Resources (IBRs) Interconnecting with Associated Transmission Electric Power Systems.\n· Standard GC0137 \"Minimum Specification Required for Provision of GB Grid Forming (GBGF) Capability\" rather than as a stand alone document."
+  },
+  {
+   "orden": 17,
+   "clave": "1.8",
+   "etiqueta": "Disposición 1.8",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.8. Supervisión y Vigilancia. Para fines de supervisión y vigilancia, la Comisión podrá requerir la presentación de la información a los sujetos regulados conforme a lo establecido en el artículo 12, fracción XLVII de la LIE."
+  },
+  {
+   "orden": 18,
+   "clave": "1.9",
+   "etiqueta": "Disposición 1.9",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.9. Sanciones. Las infracciones a las presentes Disposiciones serán sancionadas de conformidad con lo establecido en la LIE y su Reglamento, de conformidad con el Título Quinto, Capítulo II de la LIE, sin perjuicio de las sanciones que deriven de otros instrumentos regulatorios aplicables y sin perjuicio de la responsabilidad civil o penal que resulte. Del mismo modo, las actuaciones de los servidores públicos en el ejercicio de sus atribuciones y facultades que se lleven a cabo al amparo de las presentes disposiciones se sujetarán a los principios constitucionales de legalidad, honradez, lealtad, imparcialidad y eficacia, conforme al marco regulatorio aplicable y vigente."
+  },
+  {
+   "orden": 19,
+   "clave": "1.10",
+   "etiqueta": "Disposición 1.10",
+   "ruta": [
+    "Capítulo I. Disposiciones Generales"
+   ],
+   "texto": "1.10. Controversias. Ante cualquier controversia que con motivo de las presentes Disposiciones se genere, se deberá observar lo establecido en los Manuales de prácticas de mercado que resulten aplicables, conforme la referencia que de estos se realiza en el presente instrumento, atendiendo al tipo de actividad o situación sobre la que verse dicha controversia."
+  },
+  {
+   "orden": 20,
+   "clave": "2.1",
+   "etiqueta": "Disposición 2.1",
+   "ruta": [
+    "Capítulo II. Integración en el SEN"
+   ],
+   "texto": "2.1. La integración de los SAE al SEN se realizará en alguna de las siguientes modalidades: SAE-CE, SAE-CC, SAE-AA y SAE no Asociado, conforme los requisitos generales que para cada una de ellas se determina en las presentes Disposiciones. En el caso de los Generadores exentos, los SAE-GE se instalarán conforme a lo establecido en las Disposiciones administrativas de carácter general, los modelos de contratos, la metodología de cálculo de contraprestación y las especificaciones técnicas generales, aplicables a las centrales eléctricas de generación distribuida y generación limpia distribuida, emitidas mediante la Resolución RES/142/2017 publicada en el Diario Oficial de la Federación el 07 de marzo de 2017 o aquella que la modifique o sustituya, o bien, el instrumento en materia de Generación Exenta que al efecto se emita, según resulte aplicable."
+  },
+  {
+   "orden": 21,
+   "clave": "2.2",
+   "etiqueta": "Disposición 2.2",
+   "ruta": [
+    "Capítulo II. Integración en el SEN"
+   ],
+   "texto": "2.2. Las Centrales Eléctricas Limpias susceptibles de recibir CEL que asocien un SAE, no podrán recibir CEL adicionales por la energía eléctrica almacenada, para lo cual deberán demostrar ante la Comisión la energía eléctrica producida a partir de Energías Limpias sin considerar la energía almacenada.\nRespecto a los Participantes Obligados que se encuentren asociados a un SAE en alguna de las otras modalidades, las Obligaciones en materia de CEL correspondientes no se incrementarán, por lo que deberán demostrar ante la Comisión que los Requisitos relacionados con las obligaciones en dicha materia no incluyen la carga del SAE."
+  },
+  {
+   "orden": 22,
+   "clave": "2.3",
+   "etiqueta": "Disposición 2.3",
+   "ruta": [
+    "Capítulo II. Integración en el SEN"
+   ],
+   "texto": "2.3. Las modalidades previstas para la integración de los SAE descritas en las presentes Disposiciones deberán cumplir con lo que en su caso les sea aplicable, respecto a los requerimientos establecidos en las Disposiciones Administrativas de Carácter General que contienen los criterios de eficiencia, calidad, confiabilidad, continuidad, seguridad y sustentabilidad del Sistema Eléctrico Nacional: Código de Red; en la NOM-001-SEDE-2012, Instalaciones Eléctricas (utilización); así como las Especificaciones Técnicas y demás normatividad aplicable vigente o aquellas que las modifiquen o sustituyan."
+  },
+  {
+   "orden": 23,
+   "clave": "2.4",
+   "etiqueta": "Disposición 2.4",
+   "ruta": [
+    "Capítulo II. Integración en el SEN"
+   ],
+   "texto": "2.4. El SAE, en cualquiera de sus modalidades, deberá instalarse considerando el mismo Punto de Interconexión o Conexión existente, según corresponda, o bien, el que sea definido en los Estudios, conforme a lo establecido en el MIC vigente o aquel que lo modifique o sustituya."
+  },
+  {
+   "orden": 24,
+   "clave": "2.5",
+   "etiqueta": "Disposición 2.5",
+   "ruta": [
+    "Capítulo II. Integración en el SEN"
+   ],
+   "texto": "2.5. Para las Centrales Eléctricas intermitentes existentes con un permiso vigente, que pretendan llevar a cabo la integración de un SAE, se considerará para todos los efectos como una Modificación Técnica, por lo que tendrá que ingresar la solicitud de Estudios correspondiente ante el CENACE, sujetándose a los términos establecidos en el MIC o aquel que lo modifique o sustituya, así como gestionar ante la Comisión la Modificación del Permiso, de conformidad con lo establecido en el numeral 7.8 de las presentes Disposiciones y la regulación vigente aplicable."
+  },
+  {
+   "orden": 25,
+   "clave": "2.6",
+   "etiqueta": "Disposición 2.6",
+   "ruta": [
+    "Capítulo II. Integración en el SEN"
+   ],
+   "texto": "2.6. La Declaración de Entrada en Operación Comercial de los SAE que participen en el MEM deberá obtenerse de conformidad con lo establecido en el POC vigente, o aquel que lo modifique o sustituya, en lo que le resulte aplicable como Central Eléctrica y/o Centro de Carga, según corresponda."
+  },
+  {
+   "orden": 26,
+   "clave": "2.7",
+   "etiqueta": "Disposición 2.7",
+   "ruta": [
+    "Capítulo II. Integración en el SEN"
+   ],
+   "texto": "2.7. Estudios de Interconexión y Conexión\n2.7.1. La solicitud de Interconexión para las modalidades SAE-CE, SAE-AA y SAE no Asociado, deberá realizarse de acuerdo con lo establecido en el MIC vigente o aquel que lo modifique o sustituya, para las Centrales Eléctricas. En tanto que, para el caso de los SAE-GE, deberá observar lo establecido en las Disposiciones administrativas de carácter general, los modelos de contratos, la metodología de cálculo de contraprestación y las especificaciones técnicas generales, aplicables a las centrales eléctricas de generación distribuida y generación limpia distribuida, emitidas mediante la Resolución RES/142/2017 publicada en el Diario Oficial de la Federación el 07 de marzo de 2017 o aquella que la modifique o sustituya, o bien, el instrumento en materia de Generación Exenta que al efecto se emita, según resulte aplicable, así como lo establecido en el Manual de Interconexión de Centrales de Generación con Capacidad menor a 0.5 MW publicado en el Diario Oficial de la Federación el 15 de diciembre de 2016 o aquel que lo modifique o sustituya.\n2.7.2. Para la solicitud de los Estudios de Interconexión o Conexión, deberá presentarse, de forma adicional a lo considerado en los instrumentos referidos en el numeral 2.7.1. de este instrumento, la documentación con la cual se describa detalladamente lo siguiente: el tipo de tecnología del SAE, incluyendo la Capacidad SAE, Energía Disponible del SAE, Potencia SAE, tiempo de respuesta, velocidad de carga y descarga, DOD, SOC, Vida útil, y Perfil de potencia del Ciclo de trabajo de al menos un año calendario e incluir una estimación de la Degradación del SAE en los años posteriores, la cual deberá referirse exclusivamente en el Punto de Interconexión.\n2.7.3. Los Estudios de Conexión para las Modalidades SAE-CC que participen en el Mercado y SAE no Asociado, así como para los SAE-CE que pretendan cargarse desde la RNT o de las RGD, deberán realizarse en concordancia con lo establecido en el MIC o aquel que lo modifique o sustituya.\n2.7.4. En la Solicitud de Conexión se deberá presentar, adicional a los requisitos del MIC o aquel que lo modifique o sustituya, el Perfil de potencia horario conforme a la operación esperada.\n2.7.5. El CENACE, con base en los Estudios, determinará las Características Específicas de la Infraestructura Requerida."
+  },
+  {
+   "orden": 27,
+   "clave": "2.8",
+   "etiqueta": "Disposición 2.8",
+   "ruta": [
+    "Capítulo II. Integración en el SEN"
+   ],
+   "texto": "2.8. Ofertas de Compra y Venta\n2.8.1. Las ofertas de compra y venta de energía, potencia y Productos Asociados, que en su caso apliquen, que realice el conjunto SAE-CE y SAE no Asociado se sujetarán a lo establecido en las Reglas del Mercado y demás Disposiciones aplicables respecto a la representación de Centrales Eléctricas o Centros de Carga, según corresponda.\n2.8.2. Las ofertas de venta que realice el conjunto SAE-CE y SAE no Asociado, se realizarán con base en la disponibilidad de la Central Eléctrica intermitente o la Energía Disponible del SAE, correlativamente, de acuerdo con el Perfil de potencia horario, Capacidad Instalada Neta y Potencia SAE presentados para el Estudio de Interconexión.\n2.8.3. Para el conjunto en la modalidad SAE-CC, el Suministrador o Usuario Calificado Participante del Mercado que representa al (a los) Centro(s) de Carga será responsable de realizar las ofertas de compra.\n2.8.4. Los SAE, en sus diversas modalidades podrán ofrecer los Servicios Conexos establecidos en la regulación vigente, siempre y cuando cumplan lo requerido por las Reglas del Mercado y conforme a sus capacidades técnicas y operativas lo permitan. Los Servicios Conexos incluidos en el MEM son los siguientes:\n(i) Reservas de Regulación Secundaria.\n(ii) Reservas Rodantes.\n(iii) Reservas Operativas.\n(iv) Reservas Suplementarias, según se define en los Manuales de Prácticas de Mercado.\nLos Servicios Conexos no Incluidos en el MEM (SCnMEM) son los siguientes:\n(i) Servicio de Arranque de Emergencia;\n(ii) Servicio de Operación en Isla; y\n(iii) Servicio de Soporte de Tensión (potencia y reserva reactivas).\n2.8.5. De conformidad con lo previsto en el Manual para el Desarrollo de las Reglas del Mercado vigente o aquel que lo modifique o sustituya, el CENACE deberá proponer ajustes en las Reglas del Mercado que detallen los requerimientos técnicos, la asignación, despacho y la liquidación de los SAE que deseen prestar Servicios Conexos incluidos en el MEM. En tanto esto no suceda, la participación de estos en el Mercado de Energía de Corto Plazo se limitará a la entrega o retiro de energía, y a la entrega de potencia en el Mercado para el Balance de Potencia."
+  },
+  {
+   "orden": 28,
+   "clave": "3.1",
+   "etiqueta": "Disposición 3.1",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.1. En la modalidad SAE-CE, el SAE será parte de la Central Eléctrica y el conjunto será representado por el mismo Participante del Mercado, con el objetivo de contribuir a contrarrestar la variabilidad de las Centrales Eléctricas intermitentes y aprovechar los productos y servicios que pueden ofrecer los SAE para mejorar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del SEN."
+  },
+  {
+   "orden": 29,
+   "clave": "3.2",
+   "etiqueta": "Disposición 3.2",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.2. Se considerará que el conjunto SAE-CE compartirán el mismo Punto de Interconexión correspondiente a la Central Eléctrica a la que se encuentre vinculado y que el SAE se ubicará en las instalaciones de la Central Eléctrica asociada."
+  },
+  {
+   "orden": 30,
+   "clave": "3.3",
+   "etiqueta": "Disposición 3.3",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.3. Las nuevas Centrales Eléctricas intermitentes que pretendan incluir un SAE, deberán solicitar un Permiso de Generación ante la Comisión para el conjunto SAE-CE conforme lo dispuesto en la regulación de la materia aplicable y lo señalado en el capítulo VII de las presentes Disposiciones."
+  },
+  {
+   "orden": 31,
+   "clave": "3.4",
+   "etiqueta": "Disposición 3.4",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.4. Las Centrales Eléctricas intermitentes ya existentes que pretendan asociar un SAE, deberán solicitar la Modificación del Permiso conforme lo dispuesto en la regulación de la materia aplicable y lo señalado en el capítulo VII de las presentes Disposiciones."
+  },
+  {
+   "orden": 32,
+   "clave": "3.5",
+   "etiqueta": "Disposición 3.5",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.5. El conjunto SAE-CE debe dar cumplimiento al proceso de interconexión correspondiente, así como con las condiciones de operación establecidas en las presentes Disposiciones."
+  },
+  {
+   "orden": 33,
+   "clave": "3.6",
+   "etiqueta": "Disposición 3.6",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.6. La solicitud al CENACE para el Estudio de Interconexión del conjunto SAE-CE, deberá incluir el Perfil de potencia horaria con el cual se planea operar dicho conjunto, considerando para la disponibilidad de la Central Eléctrica intermitente, su necesidad de cubrir sus usos propios y de llevar a cabo la carga de su SAE asociado."
+  },
+  {
+   "orden": 34,
+   "clave": "3.7",
+   "etiqueta": "Disposición 3.7",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.7. La carga del SAE-CE deberá realizarse con los recursos de la Unidad de Central Eléctrica intermitente asociada. En caso de que el SAE-CE pretenda cargar su SAE desde la RNT o las RGD, se deberá indicar en la Solicitud de Interconexión, incluyendo el Perfil de potencia horario de inyección, a fin de que el CENACE realice los Estudios de Interconexión y Conexión correspondientes, conforme al MIC vigente."
+  },
+  {
+   "orden": 35,
+   "clave": "3.8",
+   "etiqueta": "Disposición 3.8",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.8. Para los SAE-CE que pretendan cargarse desde la RNT o RGD el CENACE podrá considerar, en los Estudios de Conexión, como demanda, la Potencia SAE necesaria para la atención de la variabilidad o para garantizar la Reserva de Planeación en términos del Margen de Reserva, en caso de que el Solicitante no lo especifique en su Solicitud."
+  },
+  {
+   "orden": 36,
+   "clave": "3.9",
+   "etiqueta": "Disposición 3.9",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.9. La descarga del SAE atenderá la variabilidad de la fuente primaria, por lo que, la energía eléctrica del SAE-CE deberá estar disponible para contribuir a compensar la variabilidad producida cuando la Central Eléctrica intermitente se encuentra en operación."
+  },
+  {
+   "orden": 37,
+   "clave": "3.10",
+   "etiqueta": "Disposición 3.10",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.10. Para cumplir los criterios de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del SEN establecidos en el Código de Red, el CENACE podrá solicitar la carga del SAE a través del Punto de Interconexión/Conexión por medio de la RNT o de las RGD. Dicha solicitud de carga por parte del CENACE deberá sujetarse a las condiciones de carga del fabricante para asegurar que el rango del SOC no propicie la Degradación del SAE de manera acelerada. Adicionalmente, dicha carga deberá de ser liquidada de conformidad con las Reglas del Mercado."
+  },
+  {
+   "orden": 38,
+   "clave": "3.11",
+   "etiqueta": "Disposición 3.11",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.11. El CENACE podrá solicitar a las Centrales Eléctricas intermitentes la descarga del SAE para cumplir los criterios de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del SEN, de acuerdo con los criterios y procedimientos previstos en el Código de Red vigente o aquel que lo modifique o sustituya."
+  },
+  {
+   "orden": 39,
+   "clave": "3.12",
+   "etiqueta": "Disposición 3.12",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.12. La retribución de la carga y descarga del SAE-CE, por instrucciones del CENACE, será determinada de acuerdo con las condiciones del Mercado y de conformidad con lo establecido en los Manuales de Prácticas del Mercado. En una primera etapa, la liquidación de la carga y descarga del SAE-CE se realizará en función del Precio Marginal Local que resulte en el Mercado de Energía de Corto Plazo en el periodo de tiempo en el que suceda el consumo o inyección de energía. En una segunda etapa, las Reglas del Mercado podrán prever contraprestaciones adicionales cuando la carga y descarga del SAE-CE se realice por instrucciones del CENACE."
+  },
+  {
+   "orden": 40,
+   "clave": "3.13",
+   "etiqueta": "Disposición 3.13",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.13. La inyección de energía eléctrica a la Red Eléctrica no podrá superar la potencia máxima establecida en el Contrato de Interconexión, excepto cuando el CENACE solicite el requerimiento por condiciones de seguridad, confiabilidad y continuidad del SEN."
+  },
+  {
+   "orden": 41,
+   "clave": "3.14",
+   "etiqueta": "Disposición 3.14",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.14. Los SAE-CE que solo se carguen a partir de los recursos de la Unidad de Central Eléctrica asociada podrán acreditar potencia como Unidades de Central Eléctrica Firme, para lo cual deberán contar con las condiciones para operar a su capacidad máxima o de acuerdo con el valor de DEF que haya solicitado evaluar en los Estudios de Interconexión por lo menos tres horas continuas, considerando la Potencia SAE y Capacidad SAE."
+  },
+  {
+   "orden": 42,
+   "clave": "3.15",
+   "etiqueta": "Disposición 3.15",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.15. Para aquellas Solicitudes de Estudio de Interconexión de Centrales Eléctricas Intermitentes en cualquier etapa (Indicativo, Impacto o Instalaciones), el CENACE conforme a su facultades y en los términos que establece el MIC podrá realizar un Análisis de Variabilidad y en caso de que el CENACE estime necesaria la inclusión de almacenamiento de energía deberá indicarse, en el resultado de los Estudios, la capacidad mínima del mismo con la finalidad de contribuir a contrarrestar la variabilidad de la inyección a la Red Eléctrica por la intermitencia de la fuente primaria de energía, y garantizar la Reserva de Planeación en términos del Margen de Reserva, así como para garantizar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del SEN."
+  },
+  {
+   "orden": 43,
+   "clave": "3.16",
+   "etiqueta": "Disposición 3.16",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.16. Contratos de Interconexión Legados (CIL). Toda vez que el Almacenamiento de Energía se encuentra previsto en las Reglas del Mercado, bajo el marco regulatorio de la LIE, para poder instalar un SAE en cualquiera de sus modalidades, las Centrales Eléctricas y Centros de Carga incluidos en un CIL deberán llevar a cabo el Cambio total de Régimen, considerando como Modificación Técnica la incorporación del SAE, conforme a lo establecido en los numerales 3.10 y 3.11 del MIC vigente o aquel que lo modifique o sustituya y demás disposiciones aplicables."
+  },
+  {
+   "orden": 44,
+   "clave": "3.17",
+   "etiqueta": "Disposición 3.17",
+   "ruta": [
+    "Capítulo III. Modalidad SAE-CE"
+   ],
+   "texto": "3.17. SAE-GE. Los Generadores Exentos podrán instalar SAE de conformidad con lo establecido en las Disposiciones Administrativas de Carácter General, los modelos de contrato, la metodología de cálculo de contraprestación y las especificaciones técnicas generales, aplicables a las Centrales Eléctricas de Generación Distribuida y Generación Limpia Distribuida, emitidas mediante la Resolución Núm. RES/142/2017 publicada en el Diario Oficial de la Federación el 07 de marzo de 2017 o aquella que la modifique o sustituya, o bien, el instrumento en materia de Generación Exenta que al efecto se emita, según resulte aplicable. Lo anterior para garantizar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del SEN."
+  },
+  {
+   "orden": 45,
+   "clave": "4.1",
+   "etiqueta": "Disposición 4.1",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.1. Bajo esta modalidad el conjunto está formado por un Centro de Carga y un SAE que comparten el mismo Punto de Conexión, sin una Central Eléctrica. En esta modalidad, el conjunto SAE-CC podrá recibir el suministro de energía para su SAE y Centro de Carga a través de un Suministrador o Participar en el MEM."
+  },
+  {
+   "orden": 46,
+   "clave": "4.2",
+   "etiqueta": "Disposición 4.2",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.2. La Potencia SAE en esta modalidad forma parte de la Demanda Contratada o Demanda Máxima del Centro de Carga, según corresponda, es decir, en ningún momento el retiro de la energía eléctrica de la RNT o de las RGD podrá exceder la Demanda Contratada por el Usuario de Suministro Básico, o la Demanda Máxima del Centro de Carga inscrito en una constancia de inscripción del Registro de Usuarios Calificados. En caso de que la demanda máxima exceda la demanda contratada para un periodo de facturación, el CENACE o el Distribuidor, según corresponda, solicitarán al Centro de Carga la realización de Estudios de Conexión."
+  },
+  {
+   "orden": 47,
+   "clave": "4.3",
+   "etiqueta": "Disposición 4.3",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.3. El Centro de Carga conectado en Media o Alta Tensión, que instale un SAE deberá dar aviso de la incorporación del SAE ante la Comisión, para fines estadísticos sobre la evolución de los SAE-CC, dentro de los 90 (noventa) días hábiles posteriores a la instalación, mediante escrito libre ingresado en la Oficialía de Partes o el medio que defina la Comisión que incluya, por lo menos, lo siguiente:\na) Datos del Usuario Final.\nb) Ficha técnica del (de los) equipo(s) de almacenamiento a integrar, que incluya, al menos: la descripción de la tecnología de almacenamiento, la Potencia SAE (kW, MW), Energía Disponible del SAE (kWh, MWh), dimensiones, peso, rangos de temperatura de operación y almacenamiento, eficiencia, sistemas de comunicación, de protección y de detección de fallas.\nc) Ubicación del SAE.\nd) Diagrama unifilar de la instalación.\ne) Punto de Conexión.\nf) Descripción del funcionamiento y la utilización del SAE dentro del Centro de Carga que indique que no existirá inyección de energía eléctrica al Sistema Eléctrico Nacional."
+  },
+  {
+   "orden": 48,
+   "clave": "4.4",
+   "etiqueta": "Disposición 4.4",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.4. La Comisión publicará trimestralmente, en su portal de internet, la información estadística de la evolución de los SAE-CC que se instalen."
+  },
+  {
+   "orden": 49,
+   "clave": "4.5",
+   "etiqueta": "Disposición 4.5",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.5. SAE-CC representado por un Suministrador. En este caso, el conjunto SAE-CC recibe la energía eléctrica de un Suministrador, por lo que no requiere de la obtención de un Permiso de Generación de energía eléctrica ante la Comisión y los actos referidos en este numeral deberán realizarse a través del Suministrador que brinda el servicio."
+  },
+  {
+   "orden": 50,
+   "clave": "4.6",
+   "etiqueta": "Disposición 4.6",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.6. SAE-CC que participa en el MEM. En este caso, el conjunto SAE-CC participa directamente en el MEM como Usuario Calificado Participante del Mercado, por lo que no requiere de la obtención de un Permiso de Generación de energía eléctrica ante la Comisión y los actos referidos en este numeral los realizará directamente el Participante del Mercado.\n4.6.1. Los Centros de Carga que participen en el MEM que deseen incorporar un SAE deberán dar cumplimiento al proceso de conexión correspondiente, así como con las condiciones de operación establecidas en las presentes Disposiciones.\n4.6.2. Derivado del Estudio de Instalaciones, el CENACE podrá solicitar al SAE-CC la instalación de infraestructura que asegure que no existirá inyección de energía eléctrica al Sistema Eléctrico de Potencia.\n4.6.3. La modalidad SAE-CC que participa en el MEM no recibirá contraprestación alguna asociada al uso de la energía eléctrica del SAE, ya que no podrá entregarla a la RNT o a las RGD."
+  },
+  {
+   "orden": 51,
+   "clave": "4.7",
+   "etiqueta": "Disposición 4.7",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.7. La energía almacenada en la modalidad SAE-CC será utilizada para satisfacer la demanda del propio Centro de Carga y equipos asociados dentro de las instalaciones del conjunto SAE-CC."
+  },
+  {
+   "orden": 52,
+   "clave": "4.8",
+   "etiqueta": "Disposición 4.8",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.8. Si la demanda máxima del SAE-CC alcanza el umbral necesario para obtener el Registro de Usuario Calificado se deberán observar las disposiciones emitidas por la Comisión para la operación y funcionamiento del Registro de Usuarios Calificados, expedidas mediante la Resolución Núm. RES/2506/2017, publicadas el 06 de diciembre de 2017 en el Diario Oficial de la Federación o aquella que la modifique o sustituya."
+  },
+  {
+   "orden": 53,
+   "clave": "4.9",
+   "etiqueta": "Disposición 4.9",
+   "ruta": [
+    "Capítulo IV. Modalidad SAE-CC"
+   ],
+   "texto": "4.9. La integración de una Central Eléctrica al conjunto SAE-CC implica un cambio de modalidad, por lo que el conjunto tendrá que cumplir los requerimientos de acuerdo con la modalidad que aplique conforme lo dispuesto en las presentes Disposiciones."
+  },
+  {
+   "orden": 54,
+   "clave": "5.1",
+   "etiqueta": "Disposición 5.1",
+   "ruta": [
+    "Capítulo V. Modalidad SAE-AA"
+   ],
+   "texto": "5.1. Esta modalidad comprenderá al conjunto de Central Eléctrica y Centro de Carga para la satisfacción de la demanda de las cargas de sus instalaciones o para llevar a cabo la importación o exportación de energía eléctrica en modalidad de Abasto Aislado."
+  },
+  {
+   "orden": 55,
+   "clave": "5.2",
+   "etiqueta": "Disposición 5.2",
+   "ruta": [
+    "Capítulo V. Modalidad SAE-AA"
+   ],
+   "texto": "5.2. Las nuevas Centrales Eléctricas destinadas al Abasto Aislado y sujetas a lo previsto en el artículo 17 de la LIE, que pretendan implementar un SAE deberán solicitar un Permiso de carácter único de Generación, en donde deberán especificar la infraestructura del SAE-AA. En caso de que la Central Eléctrica de Abasto Aislado ya cuente con un Permiso y pretenda implementar un SAE, se requerirá presentar ante la Comisión la solicitud de Modificación de este, especificando las características del SAE-AA."
+  },
+  {
+   "orden": 56,
+   "clave": "5.3",
+   "etiqueta": "Disposición 5.3",
+   "ruta": [
+    "Capítulo V. Modalidad SAE-AA"
+   ],
+   "texto": "5.3. Los proyectos de importación y exportación de energía eléctrica en modalidad de abasto aislado que incluyan un SAE, deberán solicitar a la Comisión la autorización y el permiso de generación correspondientes, de conformidad con las Disposiciones Administrativas de Carácter General para la importación de energía eléctrica proveniente de una Central Eléctrica ubicada en el extranjero, conectada exclusivamente al Sistema Eléctrico Nacional, así como para la importación y exportación de Energía Eléctrica en modalidad de abasto aislado, expedidas mediante la Resolución Núm. RES/810/2015, publicada en el Diario Oficial de la Federación el 16 de diciembre de 2015 o aquella que la modifique o sustituya. Siendo acreedor de todos los derechos y obligaciones establecidos en la LIE, en los Permisos de Generación, en las Bases del Mercado Eléctrico y demás normatividad y regulación aplicable, como cualquier otra Central Eléctrica."
+  },
+  {
+   "orden": 57,
+   "clave": "5.4",
+   "etiqueta": "Disposición 5.4",
+   "ruta": [
+    "Capítulo V. Modalidad SAE-AA"
+   ],
+   "texto": "5.4. El SAE-AA destinado a la importación y exportación de energía eléctrica deberá dar cumplimiento a los procesos de conexión e interconexión correspondientes a la modalidad de abasto aislado, conforme la regulación aplicable como cualquier otra Central Eléctrica y Centro de Carga, así como con las condiciones de operación establecidas en las presentes Disposiciones."
+  },
+  {
+   "orden": 58,
+   "clave": "5.5",
+   "etiqueta": "Disposición 5.5",
+   "ruta": [
+    "Capítulo V. Modalidad SAE-AA"
+   ],
+   "texto": "5.5. La energía almacenada en el conjunto SAE-AA deberá sujetarse a lo establecido en el Acuerdo por el que se emite el criterio de interpretación del concepto Necesidades Propias, establecido en el artículo 22 de la Ley de la Industria Eléctrica, y por el que se describen los aspectos generales aplicables a la actividad de Abasto Aislado, emitido mediante el Acuerdo Núm. A/047/2017, publicado en el DOF el 21 de noviembre de 2017 y modificado mediante el Acuerdo Núm. A/037/2021, publicado en el mismo medio de difusión el 31 de diciembre de 2021, o aquel que lo modifique o sustituya."
+  },
+  {
+   "orden": 59,
+   "clave": "5.6",
+   "etiqueta": "Disposición 5.6",
+   "ruta": [
+    "Capítulo V. Modalidad SAE-AA"
+   ],
+   "texto": "5.6. Los SAE-AA destinados a la satisfacción de la demanda de las cargas de sus instalaciones estarán exentos del registro y representación por Participantes del Mercado."
+  },
+  {
+   "orden": 60,
+   "clave": "6.1",
+   "etiqueta": "Disposición 6.1",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.1. En esta modalidad el SAE se interconecta a la RNT o a las RGD en un Punto de Interconexión que se establezca derivado de los Estudios, de forma independiente y sin estar integrado a una Central Eléctrica o Centro de Carga."
+  },
+  {
+   "orden": 61,
+   "clave": "6.2",
+   "etiqueta": "Disposición 6.2",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.2. El SAE no Asociado deberá dar cumplimiento a los procesos de conexión e interconexión correspondientes, conforme la regulación aplicable como cualquier otra Central Eléctrica o Centro de Carga, así como con las condiciones de operación establecidas en las presentes Disposiciones."
+  },
+  {
+   "orden": 62,
+   "clave": "6.3",
+   "etiqueta": "Disposición 6.3",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.3. En la modalidad SAE no asociado la demanda a considerar en los Estudios de Conexión será igual a la Potencia SAE."
+  },
+  {
+   "orden": 63,
+   "clave": "6.4",
+   "etiqueta": "Disposición 6.4",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.4. Los SAE no Asociados deberán instalar en el Punto de Interconexión/Conexión los Sistemas de Medición necesarios para el proceso de liquidación de las transacciones en el MEM, así como la infraestructura de comunicación y control que permitan su supervisión, conforme a lo establecido en el Manual de Medición para Liquidaciones, publicado en el Diario Oficial de la Federación el 10 de enero de 2018 y en el Manual de Requerimientos de Tecnologías de la Información y Comunicaciones para el SEN y el MEM, publicado en el Diario Oficial de la Federación el 04 de diciembre de 2017 o aquellos que los modifiquen o sustituyan."
+  },
+  {
+   "orden": 64,
+   "clave": "6.5",
+   "etiqueta": "Disposición 6.5",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.5. El SAE no Asociado deberá registrarse como Central Eléctrica firme y ser representado en el MEM por un Participante del Mercado en modalidad de Generador."
+  },
+  {
+   "orden": 65,
+   "clave": "6.6",
+   "etiqueta": "Disposición 6.6",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.6. El SAE, en modalidad SAE no Asociado deberá presentar sus ofertas de compra-venta de energía conforme se estipula en el Mercado de Energía de Corto Plazo, sujetándose a lo establecido para cualquier otra Central Eléctrica o Centro de Carga, según corresponda, en las Reglas del Mercado y demás disposiciones aplicables."
+  },
+  {
+   "orden": 66,
+   "clave": "6.7",
+   "etiqueta": "Disposición 6.7",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.7. El CENACE considerará para el Mercado de Balance de Potencia al SAE no Asociado como una Unidad de Central Eléctrica Firme con limitación de operación continua conforme a las Pruebas de Capacidad durante la Operación Comercial."
+  },
+  {
+   "orden": 67,
+   "clave": "6.8",
+   "etiqueta": "Disposición 6.8",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.8. Para efectos de la acreditación de Potencia, los SAE no Asociados serán considerados como Centrales Eléctricas Firmes, siempre y cuando cuenten con las condiciones para entregar la Energía Disponible del SAE de forma uniforme en un período de por lo menos tres horas consecutivas o de acuerdo con el valor de Disponibilidad de Entrega Física (considerando la Energía Disponible del SAE) que haya solicitado evaluar en los Estudios de Interconexión, considerando la Degradación del SAE. A fin de garantizar lo anterior, los SAE no Asociados deberán cumplir con lo siguiente:\na) En las Pruebas de Entrada en Operación Comercial se deberá verificar que el SAE no Asociado es capaz de entregar el valor de DEF considerado en los Estudios de Interconexión.\nb) Para los años posteriores de Entrada en Operación Comercial se considerará la Degradación del SAE para efectos de acreditación de Potencia."
+  },
+  {
+   "orden": 68,
+   "clave": "6.9",
+   "etiqueta": "Disposición 6.9",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.9. Los SAE no Asociados que no cumplan con las condiciones señaladas en el numeral 6.8 anterior de este instrumento, no podrán acreditar Potencia bajo la figura de Unidades de Central Eléctrica firmes, aun cuando se registren con estatus de firme. A fin de que operen bajo la responsabilidad de sus representantes, estas Unidades sólo podrán acreditar Potencia si se registran con estatus de intermitente, en cuyo caso se evaluarán bajo los criterios aplicables a las Unidades de Central Eléctrica intermitentes."
+  },
+  {
+   "orden": 69,
+   "clave": "6.10",
+   "etiqueta": "Disposición 6.10",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.10. Los SAE no Asociados no tendrán derecho a solicitar DFT, salvo en los casos específicos en los que se determinen y construyan Obras de Refuerzo en la RNT, se podrán solicitar DFT específicamente para las Obras de Refuerzo construidas."
+  },
+  {
+   "orden": 70,
+   "clave": "6.11",
+   "etiqueta": "Disposición 6.11",
+   "ruta": [
+    "Capítulo VI. Modalidad SAE no Asociado"
+   ],
+   "texto": "6.11. Los SAE no Asociados no tendrán derechos ni obligaciones en materia de CEL, es decir, estos SAE no recibirán CEL y, de manera análoga, no estarán sujetos a las obligaciones de acreditar CEL para cubrir los requisitos correspondientes a su consumo de energía eléctrica, lo anterior en virtud de que la energía eléctrica almacenada fue generada en otro punto, donde, de ser el caso, ya recibió los CEL atribuibles a su Energía Limpia."
+  },
+  {
+   "orden": 71,
+   "clave": "7.1",
+   "etiqueta": "Disposición 7.1",
+   "ruta": [
+    "Capítulo VII. Del permiso"
+   ],
+   "texto": "7.1. Las modalidades de SAE-CE, SAE- AA, y SAE no Asociado tendrán el tratamiento regulatorio de una Central Eléctrica; en consecuencia, para su operación e implementación requiere de la emisión o modificación de un Permiso de Generación por parte de la Comisión según corresponda, para lo cual se deberá cumplir con lo establecido en: las Disposiciones Administrativas de Carácter General que establecen los términos para presentar la información relativa al objeto social, capacidad legal, técnica y financiera, así como la descripción del proyecto, y el formato de la solicitud de permisos de generación de energía eléctrica, emitidas por la Comisión mediante el Acuerdo Núm. A/006/2022 (DACG de Otorgamiento de Permisos) o las que las modifiquen o sustituyan; las Disposiciones administrativas de carácter general para la importación de energía eléctrica proveniente de una central eléctrica ubicada en el extranjero, conectada exclusivamente al Sistema Eléctrico Nacional, así como para la importación y exportación de energía eléctrica en modalidad de abasto aislado, emitidas por la Comisión mediante la Resolución Núm. RES/810/2015 (DACG de Importación y Exportación) o aquellas que las modifiquen o sustituyan."
+  },
+  {
+   "orden": 72,
+   "clave": "7.2",
+   "etiqueta": "Disposición 7.2",
+   "ruta": [
+    "Capítulo VII. Del permiso"
+   ],
+   "texto": "7.2. El título de permiso de generación para las modalidades SAE-CE y SAE-AA, de acuerdo con lo establecido en las DACG de Otorgamiento de Permisos, deberá señalar la capacidad instalada y la generación estimada de la Central Eléctrica por la cual se otorga el permiso de generación; y, por otra parte, indicar de manera independiente: tecnología del SAE, Potencia SAE (kW, MW), Capacidad SAE (MWh) y Energía Disponible del SAE (MWh). Lo anterior con la finalidad de distinguir entre la capacidad neta de la Central Eléctrica y la Potencia SAE."
+  },
+  {
+   "orden": 73,
+   "clave": "7.3",
+   "etiqueta": "Disposición 7.3",
+   "ruta": [
+    "Capítulo VII. Del permiso"
+   ],
+   "texto": "7.3. El título de Permiso para la modalidad SAE no Asociado, deberá señalar la Potencia SAE (kW, MW), Capacidad SAE (MWh), Energía Disponible del SAE (MWh), rangos de operación de la Velocidad de rampa y de los Ciclos de Trabajo del SAE, así como su tecnología de almacenamiento."
+  },
+  {
+   "orden": 74,
+   "clave": "7.4",
+   "etiqueta": "Disposición 7.4",
+   "ruta": [
+    "Capítulo VII. Del permiso"
+   ],
+   "texto": "7.4. El permisionario, para las modalidades SAE-CE, SAE-AA y SAE no Asociado, será acreedor de todos los derechos y obligaciones establecidos en los Permisos de Generación y autorizaciones de importación y exportación, como cualquier otra Central Eléctrica."
+  },
+  {
+   "orden": 75,
+   "clave": "7.5",
+   "etiqueta": "Disposición 7.5",
+   "ruta": [
+    "Capítulo VII. Del permiso"
+   ],
+   "texto": "7.5. Para las modalidades SAE-CE y SAE-AA la Potencia SAE solicitada para el Permiso de Generación, o en su caso, la modificación correspondiente, deberá ser, al menos, igual a la mínima necesaria indicada por el CENACE como resultado de los Estudios realizados."
+  },
+  {
+   "orden": 76,
+   "clave": "7.6",
+   "etiqueta": "Disposición 7.6",
+   "ruta": [
+    "Capítulo VII. Del permiso"
+   ],
+   "texto": "7.6. La Potencia SAE del Permiso de Generación deberá ser consistente con el resultado de los Estudios realizados por el CENACE, con excepción de los proyectos destinados a realizar la actividad de exportación de energía eléctrica en modalidad de abasto aislado."
+  },
+  {
+   "orden": 77,
+   "clave": "7.7",
+   "etiqueta": "Disposición 7.7",
+   "ruta": [
+    "Capítulo VII. Del permiso"
+   ],
+   "texto": "7.7. Solicitud de nuevo permiso con SAE.\n7.7.1. Para dar inicio al trámite para la obtención de un permiso de generación de energía eléctrica para nuevos SAE en las modalidades que lo requieran conforme las presentes Disposiciones o la Autorización de exportación e importación de los SAE-AA que lo soliciten, se deberá atender lo establecido en las DACG de Otorgamiento de Permisos, así como las DACG de Importación y Exportación según resulte aplicable, incluyendo las características técnicas del conjunto y, adicionalmente, conforme a la modalidad que aplique, la siguiente información:\ni. Para SAE asociados a una Central Eléctrica, documentos en los que se acredite que la instalación del SAE formará parte de la Central Eléctrica existente, como una misma Unidad de Central Eléctrica y compartiendo el mismo Punto de Interconexión.\nii. En caso de que alguna de las modalidades de integración de SAE cuente con Interconexión al SEN, deberá presentar el Estudio de Impacto elaborado por el CENACE en el que se indique, como mínimo, la tecnología de almacenamiento, Potencia SAE (W, kW, MW) y Capacidad SAE (kWh, MWh), con excepción de los proyectos destinados a realizar la actividad de exportación de energía eléctrica en modalidad de abasto aislado.\niii. Descripción en términos generales del proyecto en formato libre:\na) Para el caso de los SAE asociados a una Central Eléctrica, presentar el diagrama unifilar de la(s) Unidad(es) de Central Eléctrica, que incluya sus Puntos de Interconexión con el SEN, así como la ubicación de los SAE dentro del proyecto.\nb) Capacidad de la Central Eléctrica y/o la Potencia SAE, indicando la correspondiente a corriente alterna y corriente directa, cuando sea necesario.\nc) Para el caso de los SAE-CE y SAE-AA, presentar la generación anual estimada de la Central Eléctrica asociada.\nd) Ficha técnica del SAE a integrar, que incluya, al menos: la descripción de la tecnología de almacenamiento, la Potencia SAE (kW, MW), Energía Disponible del SAE (kWh, MWh), dimensiones, peso, rangos de temperatura de operación y almacenamiento, eficiencia, sistemas de comunicación, de protección y de detección de fallas.\ne) Tipo de respuesta y Perfil de potencia del SAE (conjunto SAE-CE, SAE-AA o SAE no Asociado).\nf) Duración estimada con fechas de inicio y terminación de las obras necesarias para la instalación del SAE."
+  },
+  {
+   "orden": 78,
+   "clave": "7.8",
+   "etiqueta": "Disposición 7.8",
+   "ruta": [
+    "Capítulo VII. Del permiso"
+   ],
+   "texto": "7.8. Modificación de un Permiso vigente para asociar un SAE.\n7.8.1. En caso de que un permisionario cuente con un permiso vigente de generación o autorización de exportación e importación y desee asociar un SAE, procederá el trámite ante la Comisión para la modificación del permiso, de conformidad con lo establecido en las Disposiciones administrativas de carácter general que establecen los términos para solicitar la autorización para la modificación o transferencia de permisos de generación de energía eléctrica o suministro eléctrico emitidas por la Comisión mediante la Resolución Núm. RES/390/2017, publicada en el DOF el 17 de abril de 2017 y su modificación mediante el Acuerdo Núm. A/062/2023, publicado en el mismo medio de difusión oficial el 17 de enero de 2024 respectivamente (DACG de Modificación de Permisos), o las que las modifiquen o sustituyan, siempre y cuando cuente con Estudios emitidos por el CENACE donde se establezca la viabilidad de la Potencia SAE propuesta por el solicitante.\n7.8.2. Adicionalmente a lo previsto en dichos instrumentos regulatorios se deberá incluir la documentación señalada en el numeral 7.7.1 anterior.\n7.8.3. La solicitud de modificación del permiso o autorización de importación o exportación se efectuará presentando un escrito libre firmado por el representante legal a través de la Oficialía de Partes Electrónica de la Comisión, de conformidad con lo establecido en las DACG de Modificación de Permisos y las DACG de Importación y Exportación, debiendo acreditarse, cuando corresponda, el pago de derechos o aprovechamientos correspondiente.\n7.8.4. La integración del SAE al permiso de generación será considerada como un elemento de la Central Eléctrica que no debe implicar un aumento de la capacidad de generación autorizada; integrándose en la modificación al permiso de generación, las características del SAE establecidas en el numeral 7.2.\n7.8.5. La Comisión notificará al permisionario y al CENACE la formalización de la modificación del Permiso relativa a la integración de un SAE a una Central Eléctrica existente.\n7.8.6. Con la incorporación del SAE al Permiso de Generación o autorización de importación o exportación, el permisionario conservará todos los derechos y obligaciones establecidos en los Permisos de Generación o autorización correspondiente, como cualquier otro permisionario."
+  },
+  {
+   "orden": 79,
+   "clave": "8.1",
+   "etiqueta": "Disposición 8.1",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.1. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente instrumento, la Comisión actualizará los modelos de contrato siguientes, a fin de contemplar lo relativo a los Sistemas de Almacenamiento de Energía que resulte aplicable:\n8.1.1. El Modelo de Contrato de Interconexión de acceso abierto y no indebidamente discriminatorio para Centrales Eléctricas interconectadas a la RNT o a las RGD.\n8.1.2. El Modelo de Contrato de Conexión de Acceso Abierto y no indebidamente discriminatorio para Centros de Carga conectados a tensiones mayores a 1 kV a la RNT o a las RGD."
+  },
+  {
+   "orden": 80,
+   "clave": "8.2",
+   "etiqueta": "Disposición 8.2",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.2. En un plazo máximo de 270 días naturales, contados a partir de la entrada en vigor del presente instrumento, la Comisión emitirá la tarifa regulada correspondiente para los Servicios Conexos No Incluidos en el MEM, a fin de que estos puedan ser reconocidos y liquidados."
+  },
+  {
+   "orden": 81,
+   "clave": "8.3",
+   "etiqueta": "Disposición 8.3",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.3. En un plazo máximo de 270 días naturales, contados a partir de la entrada en vigor del presente instrumento, el CENACE emitirá una Guía Operativa en la que se establezca la manera en que los SAE, en sus diversas modalidades, serán representados en los modelos de optimización del Mercado de Energía de Corto Plazo. Esta Guía incluirá, al menos, los aspectos señalados en el numeral 2.4.2 del Manual de Costos de oportunidad, así como la información que deben presentar los solicitantes, los tiempos de atención, los elementos que incluirá el estudio que se entregará, los cobros por los estudios, las modificaciones en SIASIC, los criterios de asignación de SAE para entrega de energía y demás información necesaria."
+  },
+  {
+   "orden": 82,
+   "clave": "8.4",
+   "etiqueta": "Disposición 8.4",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.4. En un plazo máximo de 270 días naturales, contados a partir de la entrada en vigor del presente instrumento, el CENACE presentará para autorización de la Comisión las Especificaciones Técnicas con:\n8.4.1. La metodología para el Cálculo del dimensionamiento de los SAE para Centrales Eléctricas intermitentes, la cual se aplicará en los Estudios que realiza el CENACE. Mientras tanto, el CENACE calculará el porcentaje de almacenamiento con las herramientas e información a su disposición.\n8.4.2. La metodología para determinar los Estudios requeridos."
+  },
+  {
+   "orden": 83,
+   "clave": "8.5",
+   "etiqueta": "Disposición 8.5",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.5. En un plazo máximo de 270 días naturales, contados a partir de la entrada en vigor del presente instrumento, el CENACE realizará la modificación al Procedimiento de Operación para la Declaración de Entrada en Operación Comercial de Centrales Eléctricas y Centros de Carga para determinar las pruebas necesarias para los SAE."
+  },
+  {
+   "orden": 84,
+   "clave": "8.6",
+   "etiqueta": "Disposición 8.6",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.6. En un plazo máximo de 270 días naturales, contados a partir de la entrada en vigor del presente instrumento, el CENACE determinará los mecanismos para la operación y uso de los SAE cuando se requieran cargar y descargar de la RNT o RGD para garantizar la Reserva de Planeación en términos del Margen de Reserva y no sean de uso exclusivo para contribuir a compensar la variabilidad producida por Centrales Eléctricas intermitentes."
+  },
+  {
+   "orden": 85,
+   "clave": "8.7",
+   "etiqueta": "Disposición 8.7",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.7. En un plazo máximo de 270 días naturales, contados a partir de la entrada en vigor del presente instrumento, el CENACE realizará las modificaciones al Manual del Mercado para el Balance de Potencia para el manejo y consideración de las diversas modalidades de SAE, considerando la posibilidad de que los SAE-CE y los SAE no Asociados puedan acreditar Potencia como Unidades de Central Eléctrica firmes."
+  },
+  {
+   "orden": 86,
+   "clave": "8.8",
+   "etiqueta": "Disposición 8.8",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.8. En un plazo máximo de un año, contado a partir de la entrada en vigor del presente instrumento, el CENACE realizará las adecuaciones en el Sistema de Atención de Solicitudes de Interconexión y Conexión (SIASIC) para la aceptación y entrega de los estudios de SAE en sus diferentes modalidades y determinará la forma de entrega de los resultados de los estudios correspondientes."
+  },
+  {
+   "orden": 87,
+   "clave": "8.9",
+   "etiqueta": "Disposición 8.9",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.9. En un plazo máximo de un año, contado a partir de la entrada en vigor del presente instrumento, el CENACE realizará las modificaciones en el SIASIC para los SAE-CE que pretendan cargar su SAE desde la RNT o las RGD, para lo cual se deberá indicar en su Solicitud de Interconexión la opción de carga desde la RNT o las RGD en el sentido que el CENACE deberá realizar Estudios de Interconexión y Conexión, conforme al MIC vigente o aquel que lo modifique o sustituya."
+  },
+  {
+   "orden": 88,
+   "clave": "8.10",
+   "etiqueta": "Disposición 8.10",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.10. En un plazo máximo de un año, contado a partir de la entrada en vigor del presente instrumento, el CENACE realizará las adecuaciones en los mecanismos y sistemas del MEM para incorporar las ofertas de los SAE conforme a lo establecido en las Bases del Mercado Eléctrico y establecerá el mecanismo de aplicación de los Servicios Conexos."
+  },
+  {
+   "orden": 89,
+   "clave": "8.11",
+   "etiqueta": "Disposición 8.11",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.11. El CENACE dará seguimiento a lo establecido en la Ley de Transición Energética para incorporar en el Programa de Redes Eléctricas Inteligentes siguiente a la entrada en vigor del presente instrumento lo relativo a SAE."
+  },
+  {
+   "orden": 90,
+   "clave": "8.12",
+   "etiqueta": "Disposición 8.12",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.12. Los SAE asociados que, a la fecha de entrada en vigor de las presentes Disposiciones, ya se encuentren instalados o en operación comercial a la entrada en vigor de las presentes disposiciones, tendrán la opción de modificar su permiso de generación conforme a lo establecido en el presente instrumento, o bien, notificar a la Comisión mediante un escrito libre la existencia del SAE."
+  },
+  {
+   "orden": 91,
+   "clave": "8.13",
+   "etiqueta": "Disposición 8.13",
+   "ruta": [
+    "Capítulo VIII. Transitorios"
+   ],
+   "texto": "8.13. En tanto se realizan las adecuaciones, modificaciones y se emitan los instrumentos regulatorios señalados en los transitorios anteriores, los SAE podrán ofertar sus productos y servicios y ser liquidados bajo las condiciones actuales del CENACE para las Centrales Eléctricas y Centros de Carga, según corresponda.\n____________________________\nEn el documento que usted está visualizando puede haber texto, caracteres u objetos que no se muestren correctamente debido a la conversión a formato HTML, por lo que le recomendamos tomar siempre como referencia la imagen digitalizada del DOF o el archivo PDF de la edición. El contenido, forma y alcance de los documentos publicados, son estricta responsabilidad de su emisor."
+  }
+ ]
+}

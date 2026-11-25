@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>ley·energía · Regulación energética de México, por artículo</title>
+<meta name="description" content="Leyes de la reforma energética de 2025, sus reglamentos, DACG de la CNE y las leyes de 2014 que sustituyeron, consultables por artículo con su vigencia y liga oficial. Funciona con Claude por MCP, sin llaves.">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0a0c10">
+<link rel="canonical" href="https://beg-lag.github.io/ley-energia-mx/">
+<link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:title" content="ley·energía">
+<meta property="og:description" content="La regulación energética de México, artículo por artículo, con vigencia, linaje y liga oficial. Lista para Claude por MCP.">
+<meta property="og:url" content="https://beg-lag.github.io/ley-energia-mx/">
+<meta property="og:image" content="https://beg-lag.github.io/ley-energia-mx/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="fuentes/jetbrains-mono-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/estilos.css">
+<script defer src="js/motor.js"></script>
+<script defer src="js/app.js"></script>
+</head>
+<body>
+<a class="skip" href="#buscar">Saltar al buscador</a>
+
+<header class="top">
+  <div class="wrap top-row">
+    <a class="brand" href="./" aria-label="ley·energía, inicio">
+      <svg viewBox="0 0 32 32" width="22" height="22" aria-hidden="true"><path d="M11 6h10M11 26h10M16 6v20" stroke="#2a3040" stroke-width="1.6" fill="none"/><path d="M18.5 7 11.5 17h5l-2 8 7-10h-5z" fill="#cfff45"/></svg>
+      <span>ley<b>·</b>energía</span>
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="#buscar">Buscar</a>
+      <a href="#catalogo">Catálogo</a>
+      <a href="#linaje">Linaje</a>
+      <a href="#claude">Con Claude</a>
+      <a href="#como">Cómo funciona</a>
+    </nav>
+    <a class="gh" href="https://github.com/BEG-lag/ley-energia-mx">GitHub</a>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero wrap" aria-labelledby="titulo">
+    <p class="kicker"><span class="dot" aria-hidden="true"></span> Regulación energética de México <span id="corte"></span></p>
+    <h1 id="titulo">La regulación energética, <em>artículo por artículo.</em></h1>
+    <p class="hero-sub">Las leyes de la reforma de 2025, sus reglamentos, las DACG de la Comisión Nacional de Energía y las leyes de 2014 que sustituyeron. Cada resultado trae su cita, su vigencia y la liga a la publicación oficial. Para preguntas en lenguaje natural, se conecta a Claude por MCP, sin llaves.</p>
+
+    <form class="buscador" id="buscar" role="search" aria-label="Buscar en la regulación">
+      <div class="campo">
+        <label class="sr" for="q">Consulta</label>
+        <input id="q" name="q" type="search" autocomplete="off" spellcheck="false" maxlength="500"
+          placeholder="artículo 30 LSE, autoconsumo, permisos de generación…">
+        <button class="btn btn-lima" type="submit">Buscar</button>
+      </div>
+      <div class="filtros">
+        <label>Tipo
+          <select id="tipo" name="tipo">
+            <option value="">todos</option>
+            <option value="ley">leyes</option>
+            <option value="reglamento">reglamentos</option>
+            <option value="dacg">DACG</option>
+          </select>
+        </label>
+        <label><input type="checkbox" id="abrogados" name="abrogados"> incluir abrogados</label>
+        <label>Vigente al <input type="date" id="fecha" name="fecha" min="2008-01-01"></label>
+      </div>
+      <div class="ejemplos" aria-label="Ejemplos">
+        <span class="muted">Prueba:</span>
+        <button type="button" data-ejemplo="artículo 30 de la LSE">artículo 30 de la LSE</button>
+        <button type="button" data-ejemplo="permisos de generación de energía eléctrica">permisos de generación</button>
+        <button type="button" data-ejemplo="venta directa a usuario final">venta directa (término de 2014)</button>
+        <button type="button" data-ejemplo="almacenamiento de energía eléctrica" data-fecha="2025-06-01">almacenamiento al 1-jun-2025</button>
+      </div>
+    </form>
+
+    <dl class="stats" id="stats">
+      <div><dt>Documentos</dt><dd data-stat="documentos">·</dd></div>
+      <div><dt>Artículos y disposiciones</dt><dd data-stat="articulos">·</dd></div>
+      <div><dt>DACG de la CNE</dt><dd data-stat="dacg">·</dd></div>
+      <div><dt>Sustituciones con linaje</dt><dd data-stat="linaje">·</dd></div>
+    </dl>
+  </section>
+
+  <section class="block wrap" id="resultados" aria-labelledby="res-titulo" hidden>
+    <div class="block-head"><span class="num">01</span><h2 id="res-titulo">Resultados</h2></div>
+    <div class="res-barra">
+      <span class="modo" id="modo">búsqueda en el navegador</span>
+      <span class="muted small" id="res-resumen" aria-live="polite"></span>
+      <button class="btn btn-borde" type="button" id="copiar">Copiar para Claude</button>
+      <a class="small" href="#claude">¿Cómo usarlo con Claude?</a>
+    </div>
+    <ol class="res-lista" id="res-lista"></ol>
+  </section>
+
+  <section class="block wrap" id="catalogo" aria-labelledby="cat-titulo">
+    <div class="block-head"><span class="num">02</span><h2 id="cat-titulo">Catálogo</h2></div>
+    <p class="lead">Qué contiene el corpus. Lo vigente en lima; lo abrogado en coral, con la norma que lo sustituyó.</p>
+    <div class="pestanas" id="pestanas" role="group" aria-label="Filtrar catálogo">
+      <button type="button" data-filtro="todos" aria-pressed="true">Todos</button>
+      <button type="button" data-filtro="ley" aria-pressed="false">Leyes</button>
+      <button type="button" data-filtro="reglamento" aria-pressed="false">Reglamentos</button>
+      <button type="button" data-filtro="dacg" aria-pressed="false">DACG</button>
+      <button type="button" data-filtro="abrogados" aria-pressed="false">Abrogados</button>
+    </div>
+    <div class="grid" id="grid"><p class="cargando">Cargando catálogo…</p></div>
+  </section>
+
+  <section class="block wrap" id="linaje" aria-labelledby="lin-titulo">
+    <div class="block-head"><span class="num">03</span><h2 id="lin-titulo">Linaje: <em>qué sustituyó a qué</em></h2></div>
+    <p class="lead">La reforma de 2025 abrogó las leyes de 2014 y la CNE ha ido sustituyendo la regulación de la CRE. Buscar con fecha devuelve el régimen que estaba en vigor ese día.</p>
+    <ul class="linaje" id="lista-linaje"></ul>
+  </section>
+
+  <section class="block wrap" id="claude" aria-labelledby="cl-titulo">
+    <div class="block-head"><span class="num">04</span><h2 id="cl-titulo">Con Claude, <em>sin llaves</em></h2></div>
+    <p class="lead">El repositorio trae un servidor MCP de sólo lectura. Claude busca, lee el artículo completo y cita con documento, artículo y liga oficial, usando tu suscripción. El proyecto no usa ni pide llaves de ningún servicio.</p>
+    <div class="pasos">
+      <div class="paso">
+        <h3>1. Clona e indexa</h3>
+        <pre><code>git clone https://github.com/BEG-lag/ley-energia-mx
+cd ley-energia-mx
+uv sync
+uv run ley-energia indexar</code></pre>
+        <p class="muted small">El índice se arma en tu máquina con un modelo local de embeddings.</p>
+      </div>
+      <div class="paso">
+        <h3>2. Conéctalo</h3>
+        <p class="small muted">Claude Code (dentro de la carpeta ya lo detecta por <code>.mcp.json</code>):</p>
+        <pre><code>claude mcp add ley-energia -- \
+  uv --directory "$PWD" run ley-energia mcp</code></pre>
+        <p class="small muted">Claude Desktop, en <code>claude_desktop_config.json</code>:</p>
+        <pre><code>"ley-energia": {
+  "command": "uv",
+  "args": ["--directory", "/ruta/a/ley-energia-mx",
+           "run", "ley-energia", "mcp"]
+}</code></pre>
+      </div>
+      <div class="paso">
+        <h3>3. Pregunta</h3>
+        <ul class="prompts">
+          <li>¿Qué permisos necesita una planta solar de 30 MW con almacenamiento y quién los otorga?</li>
+          <li>¿Qué decía la ley sobre el abasto aislado en 2020 y qué lo sustituyó?</li>
+          <li>Compara el autoconsumo de la LSE con su DACG de 2025.</li>
+        </ul>
+        <p class="small muted">Trae tres prompts listos: due diligence, régimen temporal y regulación aplicable. Sin instalar nada, usa "Copiar para Claude" en los resultados.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="block wrap" id="como" aria-labelledby="como-titulo">
+    <div class="block-head"><span class="num">05</span><h2 id="como-titulo">Cómo funciona</h2></div>
+    <p class="lead">Un manifiesto declara cada documento y su fuente oficial. El texto se trocea por unidad jurídica y se indexa en un solo archivo SQLite con dos señales que se fusionan por rangos (RRF): léxica sobre raíces en español y vectorial con un modelo local. Dos señales más reconocen el artículo exacto y la ley nombrada.</p>
+    <svg class="diagrama" viewBox="0 0 960 250" role="img" aria-labelledby="dia-t dia-d">
+      <title id="dia-t">Arquitectura de ley-energia-mx</title>
+      <desc id="dia-d">Fuentes oficiales (leyes-mx, PDF de la Cámara de Diputados y notas del DOF) pasan por el manifiesto y el troceo por artículo; se indexan en SQLite con FTS5 y vectores locales; la búsqueda híbrida alimenta la web, la CLI y el servidor MCP que usa Claude.</desc>
+      <g font-family="JetBrains Mono, monospace" font-size="13" fill="#eceee6">
+        <rect x="20" y="30" width="190" height="190" rx="14" fill="#0a0c10" stroke="#262b3a"/>
+        <text x="36" y="58" fill="#969dab" font-size="11">FUENTES OFICIALES</text>
+        <text x="36" y="92">leyes-mx</text><text x="36" y="110" fill="#969dab" font-size="11">10 leyes en Markdown</text>
+        <text x="36" y="142">Diputados</text><text x="36" y="160" fill="#969dab" font-size="11">reglamentos y abrogadas</text>
+        <text x="36" y="192">DOF</text><text x="36" y="210" fill="#969dab" font-size="11">DACG de CNE y CRE</text>
+        <path d="M214 125h40" stroke="#cfff45" stroke-width="2"/><path d="M254 125l-8-5v10z" fill="#cfff45"/>
+        <rect x="262" y="70" width="180" height="110" rx="14" fill="#0a0c10" stroke="#262b3a"/>
+        <text x="278" y="100" fill="#969dab" font-size="11">MANIFIESTO + TROCEO</text>
+        <text x="278" y="130">fuentes.yaml</text><text x="278" y="152" fill="#969dab" font-size="11">artículo, disposición,</text><text x="278" y="168" fill="#969dab" font-size="11">transitorio</text>
+        <path d="M446 125h40" stroke="#cfff45" stroke-width="2"/><path d="M486 125l-8-5v10z" fill="#cfff45"/>
+        <rect x="494" y="50" width="190" height="150" rx="14" fill="#11141b" stroke="#cfff45"/>
+        <text x="510" y="80" fill="#cfff45" font-size="11">ÍNDICE SQLITE</text>
+        <text x="510" y="110">FTS5 · raíces</text><text x="510" y="134">vectores locales</text><text x="510" y="158">artículo exacto</text><text x="510" y="182">ley nombrada</text>
+        <path d="M688 125h40" stroke="#cfff45" stroke-width="2"/><path d="M728 125l-8-5v10z" fill="#cfff45"/>
+        <rect x="736" y="30" width="204" height="56" rx="12" fill="#0a0c10" stroke="#262b3a"/><text x="752" y="63">MCP → Claude</text>
+        <rect x="736" y="97" width="204" height="56" rx="12" fill="#0a0c10" stroke="#262b3a"/><text x="752" y="130">web y API local</text>
+        <rect x="736" y="164" width="204" height="56" rx="12" fill="#0a0c10" stroke="#262b3a"/><text x="752" y="197">CLI</text>
+      </g>
+    </svg>
+    <dl class="cifras" id="cifras">
+      <div><dt>Casos de evaluación</dt><dd data-eval="casos">·</dd></div>
+      <div><dt>Recall@5</dt><dd data-eval="recall_at_k">·</dd></div>
+      <div><dt>MRR</dt><dd data-eval="mrr">·</dd></div>
+      <div><dt>Llaves necesarias</dt><dd>0</dd></div>
+    </dl>
+    <p class="small muted">Evaluación con búsqueda híbrida sobre el set de <a href="https://github.com/BEG-lag/ley-energia-mx/blob/main/evaluacion/golden.yaml">evaluacion/golden.yaml</a>: artículos exactos (sin confundir el 8 con el 80), documentos por nombre, temas, vocabulario de 2014 y régimen temporal. En esta página la búsqueda corre en tu navegador, sin vectores; con el mismo set pasa los 40 casos (MRR 0.92).</p>
+  </section>
+
+  <section class="wrap block">
+    <p class="aviso" id="aviso">Información de fuentes oficiales con fines informativos. No constituye opinión legal ni asesoría fiscal; valida con la publicación oficial del DOF y con la autoridad competente.</p>
+  </section>
+</main>
+
+<div class="lector" id="lector" role="dialog" aria-modal="true" aria-labelledby="lector-titulo" hidden>
+  <div class="lector-cab">
+    <div>
+      <h2 id="lector-titulo">Documento</h2>
+      <div class="meta" id="lector-meta"></div>
+    </div>
+    <button class="cerrar" type="button" id="cerrar">Cerrar</button>
+  </div>
+  <div class="lector-cuerpo">
+    <nav class="lector-indice" id="lector-indice" aria-label="Índice del documento"></nav>
+    <div class="lector-texto" id="lector-texto" tabindex="-1"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" hidden></div>
+
+<footer class="pie">
+  <div class="wrap pie-grid">
+    <div>
+      <p><span class="firma">Hecho por <a href="https://pivotek.mx">PIVOTEK</a></span>, Benjamín Esponda García.</p>
+      <p>Código con licencia MIT. Los textos son legislación y regulación oficial (art. 14, fr. VIII, LFDA); lo que el proyecto agrega a los datos se dedica al dominio público (CC0). Las versiones con validez son las del DOF.</p>
+    </div>
+    <div>
+      <p><a href="https://github.com/BEG-lag/ley-energia-mx">Código y datos</a></p>
+      <p><a href="https://github.com/BEG-lag/leyes-mx">leyes-mx</a> · <a href="https://beg-lag.github.io/radar-energia/">radar·energía</a></p>
+    </div>
+    <div>
+      <p>Para abogados: <a href="https://concriterio.mx">Con Criterio</a>, herramientas de IA para la práctica legal en México.</p>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

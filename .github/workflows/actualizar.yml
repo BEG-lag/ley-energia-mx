@@ -1,0 +1,80 @@
+name: Actualizar corpus
+
+# Cada lunes vuelve a descargar las fuentes oficiales del manifiesto. Si algún texto cambió (una
+# reforma en leyes-mx, una fe de erratas en el DOF), abre un PR para revisarlo; nada se publica
+# sin revisión.
+#
+# Dos jobs: el que descarga y procesa PDF y HTML de fuera corre sólo con lectura y sin
+# credenciales guardadas; el que abre el PR no ejecuta nada de lo descargado.
+#
+# Nota: un PR abierto con GITHUB_TOKEN no dispara la CI; córrela a mano desde el PR
+# (workflow_dispatch) o con un push a la rama. Para que `gh pr create` funcione, el repo debe
+# tener activado "Allow GitHub Actions to create and approve pull requests".
+on:
+  schedule:
+    - cron: "30 13 * * 1"
+  workflow_dispatch:
+
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      cambio: ${{ steps.diff.outputs.cambio }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+      - run: uv sync --frozen
+      - run: uv run --frozen ley-energia actualizar --refrescar
+      - id: diff
+        run: |
+          if git diff --quiet -- corpus/textos; then
+            echo "cambio=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "cambio=si" >> "$GITHUB_OUTPUT"
+            git diff --stat -- corpus/textos
+          fi
+      - if: steps.diff.outputs.cambio == 'si'
+        uses: actions/upload-artifact@v7
+        with:
+          name: corpus-textos
+          path: corpus/textos
+          retention-days: 7
+
+  abrir-pr:
+    needs: descargar
+    if: needs.descargar.outputs.cambio == 'si'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/download-artifact@v8
+        with:
+          name: corpus-textos
+          path: corpus/textos
+      - name: Abrir o actualizar el PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          rama="corpus/actualizacion"
+          git config user.name "ley-energia-mx"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -C "$rama"
+          git add corpus/textos
+          git commit -m "corpus: textos actualizados desde las fuentes oficiales"
+          git push --force origin "$rama"
+          if ! gh pr view "$rama" --json state -q .state 2>/dev/null | grep -q OPEN; then
+            gh pr create --base main --head "$rama" \
+              --title "Corpus: cambios en las fuentes oficiales" \
+              --body "La revisión semanal encontró cambios en el texto de una o más fuentes. Revisa el diff contra la publicación oficial antes de fusionar y corre la CI desde esta rama."
+          fi

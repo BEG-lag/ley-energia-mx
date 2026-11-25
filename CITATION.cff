@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usas este corpus o este código, puedes citarlo así."
+title: "ley-energia-mx: regulación energética de México, consultable por artículo"
+abstract: >-
+  Corpus de las leyes de la reforma energética de 2025, sus reglamentos, DACG de la Comisión
+  Nacional de Energía y las leyes de 2014 que sustituyeron, troceado por artículo, con vigencia y
+  linaje; índice híbrido local y servidor MCP para Claude.
+authors:
+  - family-names: "Esponda García"
+    given-names: "Benjamín"
+    affiliation: "PIVOTEK"
+type: software
+version: 1.0.0
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/BEG-lag/ley-energia-mx"
+url: "https://beg-lag.github.io/ley-energia-mx/"
+keywords: [mexico, energy, regulation, legal-tech, rag, mcp, claude]

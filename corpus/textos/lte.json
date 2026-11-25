@@ -1,0 +1,1627 @@
+{
+ "id": "lte",
+ "origen": "https://www.diputados.gob.mx/LeyesBiblio/abro/lte/LT_abro.pdf",
+ "sha256": "5c93eb42365e15cd92ce64e5a0d23408b34461715fd39b78875ab25e94bfc89b",
+ "extraido": "2026-11-25",
+ "fragmentos": [
+  {
+   "orden": 0,
+   "clave": null,
+   "etiqueta": "Preámbulo",
+   "ruta": [],
+   "texto": "Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de 2015\nAl margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.\nENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:\nQue el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente\nDECRETO\n\"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:\nSE EXPIDE LA LEY DE TRANSICIÓN ENERGÉTICA\nArtículo Único. Se expide la Ley de Transición Energética."
+  },
+  {
+   "orden": 1,
+   "clave": "1",
+   "etiqueta": "Artículo 1",
+   "ruta": [
+    "TÍTULO PRIMERO Disposiciones Generales · Capítulo Único Del Objeto de la Ley y Definiciones"
+   ],
+   "texto": "Artículo 1.- La presente Ley tiene por objeto regular el aprovechamiento sustentable de la energía así como las obligaciones en materia de Energías Limpias y de reducción de emisiones contaminantes de la Industria Eléctrica, manteniendo la competitividad de los sectores productivos.\nEs de orden público e interés social, de observancia general en los Estados Unidos Mexicanos y reglamentaria de los párrafos 6 y 8 del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, así como de los transitorios Décimo Séptimo y Décimo Octavo del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013."
+  },
+  {
+   "orden": 2,
+   "clave": "2",
+   "etiqueta": "Artículo 2",
+   "ruta": [
+    "TÍTULO PRIMERO Disposiciones Generales · Capítulo Único Del Objeto de la Ley y Definiciones"
+   ],
+   "texto": "Artículo 2.- Para los efectos del artículo anterior, el objeto de la Ley comprende, entre otros:\nI.\nPrever el incremento gradual de la participación de las Energías Limpias en la Industria Eléctrica con el objetivo de cumplir las metas establecidas en materia de generación de energías limpias y de reducción de emisiones;\nII.\nFacilitar el cumplimiento de las metas de Energías Limpias y Eficiencia Energética establecidos en esta Ley de una manera económicamente viable;\nIII.\nIncorporar las externalidades en la evaluación de los costos asociados a la operación y expansión de la Industria Eléctrica, incluidos aquellos sobre la salud y el medio ambiente;\nIV.\nDeterminar las obligaciones en materia de aprovechamiento sustentable de la energía y Eficiencia Energética;\nV.\nEstablecer mecanismos de promoción de energías limpias y reducción de emisiones contaminantes;\nVI.\nReducir, bajo condiciones de viabilidad económica, la generación de emisiones contaminantes en la generación de energía eléctrica;\nVII.\nApoyar el objetivo de la Ley General de Cambio Climático, relacionado con las metas de reducción de emisiones de Gases y Compuestos de Efecto Invernadero y de generación de electricidad provenientes de fuentes de energía limpia;\nVIII.\nPromover el aprovechamiento sustentable de la energía en el consumo final y los procesos de transformación de la energía;\nIX.\nPromover el aprovechamiento energético de recursos renovables y de los residuos, y\nX.\nLas obligaciones establecidas en el artículo anterior deberán ser homologadas a los productos consumidos en el territorio nacional, independientemente de su origen."
+  },
+  {
+   "orden": 3,
+   "clave": "3",
+   "etiqueta": "Artículo 3 (parte 1 de 2)",
+   "ruta": [
+    "TÍTULO PRIMERO Disposiciones Generales · Capítulo Único Del Objeto de la Ley y Definiciones"
+   ],
+   "texto": "Artículo 3.- Para efectos de esta Ley se considerarán las siguientes definiciones:\nI.\nAprovechamiento sustentable de la energía: El uso óptimo de la energía en todos los procesos y actividades para su explotación, producción, transformación, distribución y consumo, incluyendo la Eficiencia Energética;\nII.\nCadenas de valor: El conjunto de actividades, tales como investigación y desarrollo, diseño, fabricación, ensamble, producción de partes, mercadeo, instalación, puesta en marcha, servicio y reciclaje, que un sector industrial realiza para entregar un bien;\nIII.\nCentral Eléctrica: Instalaciones y equipos conforme a lo dispuesto en la Ley de la Industria Eléctrica;\nIV.\nCENACE: Centro Nacional de Control de Energía;\nV.\nCertificado de Energías Limpias: Título otorgado por la CRE conforme a lo dispuesto en la Ley de la Industria Eléctrica;\nVI.\nCogeneración: Generación de energía eléctrica producida conjuntamente con vapor u otro tipo de energía térmica secundaria o ambos; producción directa o indirecta de energía eléctrica mediante la energía térmica no aprovechada en los procesos, o generación directa o indirecta de energía eléctrica cuando se utilicen combustibles producidos en los procesos;\nVII.\nConsejo: Consejo Consultivo para la Transición Energética;\nVIII.\nContaminantes: Los referidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley General de Cambio Climático;\nIX.\nCONUEE: Comisión Nacional para el Uso Eficiente de la Energía;\nX.\nCRE: Comisión Reguladora de Energía;\nXI.\nDecreto: Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013;\nXII.\nEficiencia Energética: Todas las acciones que conlleven a una reducción, económicamente viable, de la cantidad de energía que se requiere para satisfacer las necesidades energéticas de los servicios y bienes que demanda la sociedad, asegurando un nivel de calidad igual o superior;\nXIII.\nEmisiones: Liberación de Gases de Efecto Invernadero o sus precursores y aerosoles a la atmósfera, incluyendo en su caso compuestos de efecto invernadero, en una zona y un periodo de tiempo específicos;\nXIV.\nEmpresa Generadora: Persona física o persona moral que representa una Central Eléctrica en el Mercado Eléctrico Mayorista o es titular de un permiso para operar una Central Eléctrica sin participar en dicho mercado, conforme a lo dispuesto en la Ley de la Industria Eléctrica;\nXV.\nEnergías Limpias: Son aquellas fuentes de energía y procesos de generación de electricidad definidos como tales en la Ley de la Industria Eléctrica;\nXVI.\nEnergías Renovables: Aquellas cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por el ser humano, que se regeneran naturalmente, por lo que se encuentran disponibles de forma continua o periódica, y que al ser generadas no liberan emisiones contaminantes. Se consideran fuentes de Energías Renovables las que se enumeran a continuación:\na) El viento;\nb) La radiación solar, en todas sus formas;\nc) El movimiento del agua en cauces naturales o en aquellos artificiales con embalses ya existentes, con sistemas de generación de capacidad menor o igual a 30 MW o una densidad de potencia, definida como la relación entre capacidad de generación y superficie del embalse, superior a 10 watts/m2;\nd) La energía oceánica en sus distintas formas, a saber: de las mareas, del gradiente térmico marino, de las corrientes marinas y del gradiente de concentración de sal;\ne) El calor de los yacimientos geotérmicos, y\nf) Los bioenergéticos que determine la Ley de Promoción y Desarrollo de los Bioenergéticos.\nXVII.\nEnergías fósiles: Aquellas que provienen de la combustión de materiales y sustancias en estado sólido, líquido o gaseoso que contienen carbono y cuya formación ocurrió a través de procesos geológicos;\nXVIII."
+  },
+  {
+   "orden": 4,
+   "clave": "3",
+   "etiqueta": "Artículo 3 (parte 2 de 2)",
+   "ruta": [
+    "TÍTULO PRIMERO Disposiciones Generales · Capítulo Único Del Objeto de la Ley y Definiciones"
+   ],
+   "texto": "Estrategia: Estrategia de Transición para Promover el Uso de Tecnologías y Combustibles más Limpios;\nXIX.\nExternalidades: Los impactos positivos o negativos que genera la provisión de un bien o servicio y que afectan o que pudieran afectar a una tercera persona. Las externalidades ocurren cuando el costo pagado por un bien o servicio es diferente del costo total de los daños y beneficios en términos económicos, sociales, ambientales y a la salud, que involucran su producción y consumo;\nXX.\nGeneración limpia distribuida: Generación de energía eléctrica que, en los términos de la Ley de la Industria Eléctrica, cumple con las siguientes características:\na) Se realiza por un Generador Exento;\nb) Se realiza en una Central Eléctrica que se encuentra interconectada a un circuito de distribución que contenga una alta concentración de Centros de Carga, en los términos de las Reglas del Mercado, y\nc) Se realiza a partir de Energías Limpias.\nXXI.\nHoja de Ruta: Guía que establece la secuencia de pasos para alcanzar un objetivo, en la que se especifican participantes, tiempo y recursos necesarios;\nXXII.\nHuella de Carbono: La medida de la cantidad total de emisiones de gases y compuestos de efecto invernadero de una población definida, sistema o actividad, considerando todas las fuentes, sumideros y almacenamientos relevantes dentro de los límites espaciales y temporales de una población, sistema o actividad de interés. Se calcula utilizando como referente el potencial de calentamiento global del dióxido de carbono;\nXXIII.\nInstituto: Instituto Nacional de Electricidad y Energías Limpias;\nXXIV.\nIndustria Eléctrica:\nLas actividades de generación, transmisión, distribución y comercialización de la energía eléctrica, la planeación y el control del Sistema Eléctrico Nacional, así como la operación del Mercado Eléctrico Mayorista;\nXXV.\nInstrumentos de planeación: La Estrategia, el Programa y el PRONASE;\nXXVI.\nInventario: Inventario Nacional de las Energías Limpias;\nXXVII.\nLey: Ley de Transición Energética;\nXXVIII.\nMecanismo Flexible de Compensación: Acciones de mitigación en otros sectores que cumplan con los protocolos reconocidos internacionalmente para el cálculo y monitoreo de la reducción de emisiones alcanzada;\nXXIX.\nMetas: Los objetivos, expresados en términos numéricos absolutos o relativos, que la Nación adopta en su conjunto, bajo la tutela del Estado, con el fin de llegar, en un tiempo específico, a tener una generación y consumo de energía eléctrica mediante energías limpias o de Eficiencia Energética;\nXXX.\nPrograma: Programa Especial de la Transición Energética;\nXXXI.\nPRONASE: Programa Nacional para el Aprovechamiento Sustentable de la Energía;\nXXXII.\nRed Nacional de Transmisión y Redes Generales de Distribución: Las referidas en la Ley de la Industria Eléctrica;\nXXXIII.\nSecretaría: Secretaría de Energía;\nXXXIV. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;\nXXXV.\nSistema Eléctrico Nacional: El definido por la Ley de la Industria Eléctrica;\nXXXVI. Sistema: Sistema de Información de Transición Energética;\nXXXVII. Suministrador: Permisionario que tiene las características previstas en la Ley de la Industria Eléctrica;\nXXXVIII. Tecnologías Inteligentes: Las tecnologías utilizadas en las Redes Eléctricas Inteligentes que involucran procesos en tiempo real, automatizados o interactivos para optimizar la operación de la Red Nacional de Transmisión y de las Redes Generales de Distribución, así como los aparatos y equipos inteligentes de los usuarios;\nXXXIX. Usuario Calificado: Usuario final que tiene las características previstas en la Ley de la Industria Eléctrica, y\nXL.\nUsuario de Patrón de Alto Consumo: Persona física o moral que cumpla con los criterios que establezca la CONUEE."
+  },
+  {
+   "orden": 5,
+   "clave": "4",
+   "etiqueta": "Artículo 4",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo I Disposiciones Generales"
+   ],
+   "texto": "Artículo 4.- La Estrategia deberá establecer Metas a fin de que el consumo de energía eléctrica se satisfaga mediante un portafolio de alternativas que incluyan a la Eficiencia Energética y una proporción creciente de generación con Energías Limpias, en condiciones de viabilidad económica. A través de las Metas de Energías Limpias y las Metas de Eficiencia Energética, la Secretaría promoverá que la generación eléctrica proveniente de fuentes de energía limpias alcance los niveles establecidos en la Ley General de Cambio Climático para la Industria Eléctrica.\nPara ello, la Secretaría deberá considerar el mayor impulso a la Eficiencia Energética y a la generación con Energías Limpias que pueda ser soportado de manera sustentable bajo las condiciones económicas y del mercado eléctrico en el país."
+  },
+  {
+   "orden": 6,
+   "clave": "5",
+   "etiqueta": "Artículo 5",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo I Disposiciones Generales"
+   ],
+   "texto": "Artículo 5.- La Estrategia establecerá políticas y medidas para impulsar el aprovechamiento energético de recursos renovables y para la sustitución de combustibles fósiles en el consumo final."
+  },
+  {
+   "orden": 7,
+   "clave": "6",
+   "etiqueta": "Artículo 6",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo II De las Metas de Energías Limpias"
+   ],
+   "texto": "Artículo 6.- Los integrantes de la Industria Eléctrica en general, así como los Usuarios Calificados participantes del Mercado Eléctrico Mayorista, sean de carácter público o particular, y los titulares de los Contratos de Interconexión Legados estarán obligados a contribuir al cumplimiento de las Metas de Energías Limpias en los términos establecidos en la legislación aplicable."
+  },
+  {
+   "orden": 8,
+   "clave": "7",
+   "etiqueta": "Artículo 7",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo II De las Metas de Energías Limpias"
+   ],
+   "texto": "Artículo 7.- Las modalidades específicas con las que deben contribuir los integrantes de la Industria Eléctrica y los Usuarios Calificados al cumplimiento de las Metas país serán detalladas en forma transparente y coordinada por la Secretaría y la CRE tomando en cuenta los siguientes elementos:\nI.\nLa Secretaría será responsable de establecer, en condiciones de viabilidad técnica y económica, así como acceso al financiamiento, de manera transparente y no discriminatoria, las obligaciones para la adquisición de Certificados de Energías Limpias que los Suministradores, los Usuarios Calificados participantes del Mercado Eléctrico Mayorista y los titulares de los Contratos de Interconexión Legados deberán cumplir anualmente de manera individual y que sumadas propicien el cumplimiento de las Metas establecidas en la Estrategia;\nII.\nLa CRE verificará el cumplimiento de las Metas de Energías Limpias y establecerá la regulación correspondiente, y\nIII.\nLos generadores que producen electricidad con energías fósiles estarán obligados a sustituir gradualmente y en forma programada sus instalaciones de generación que excedan los límites establecidos por las normas emitidas por SEMARNAT, por instalaciones de generación que cumplan con la normatividad de emisiones contaminantes."
+  },
+  {
+   "orden": 9,
+   "clave": "8",
+   "etiqueta": "Artículo 8",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo II De las Metas de Energías Limpias"
+   ],
+   "texto": "Artículo 8.- Las Metas de Energías Limpias establecidas en la Estrategia constituyen porcentajes mínimos en relación con el total de generación de electricidad en México. La matriz energética que resulte de las Metas planteadas, deberá ser la base de cumplimiento para los bienes consumidos en territorio nacional."
+  },
+  {
+   "orden": 10,
+   "clave": "9",
+   "etiqueta": "Artículo 9",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo II De las Metas de Energías Limpias"
+   ],
+   "texto": "Artículo 9.- El Estado Mexicano promoverá que existan las condiciones legales, regulatorias y fiscales para facilitar el cumplimiento de las Metas y sus disposiciones reglamentarias para todos los integrantes de la Industria Eléctrica."
+  },
+  {
+   "orden": 11,
+   "clave": "10",
+   "etiqueta": "Artículo 10",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo II De las Metas de Energías Limpias"
+   ],
+   "texto": "Artículo 10.- La Secretaría, la CRE, el CENACE y la CONUEE, con la opinión del Consejo, y de acuerdo con sus respectivas competencias, deberán detallar en las disposiciones reglamentarias correspondientes las acciones, instrumentos y mecanismos necesarios para el desarrollo eficiente y en términos de viabilidad económica de la Generación limpia distribuida, entre los que se encontrarán:\nI.\nEstablecer y ajustar la normatividad necesaria relacionada con las características, prestaciones y desempeño mínimo de los componentes físicos de las instalaciones y los métodos de instalación de sistemas de generación limpia distribuida según lo definan los reglamentos o normas que se emitan;\nII.\nElaborar las bases normativas para la certificación de empresas y su personal, dedicadas a la instalación de sistemas de Generación limpia distribuida;\nIII.\nFomentar la capacitación y certificación de empresas y su personal, así como profesionales y técnicos independientes para la instalación de sistemas de Generación limpia distribuida;\nIV.\nExpeditar el proceso de instalación de medidores bidireccionales u otras tecnologías y métodos de medición de generación y consumo a todas las personas físicas y morales que soliciten conectar su sistema de Generación limpia distribuida a la red de distribución, y\nV.\nProponer a la Secretaría de Hacienda y Crédito Público, a través de la Secretaría, mecanismos de apoyo, estímulos fiscales, o financieros, que permitan promover inversiones en medidas técnica y económicamente viables en materia de eficiencia energética e integración de sistemas de generación distribuida de electricidad cuando estos impliquen:\na) Economías para el Estado;\nb) Ahorros en el pago por electricidad de usuarios que se constituyan en generadores exentos, o\nc) Reducciones de la huella de carbono en el sector de energía.\nLos estímulos y mecanismos de apoyo referidos en este artículo serán adicionales a los que la normatividad contemple para la promoción de la generación a partir de Energías Limpias."
+  },
+  {
+   "orden": 12,
+   "clave": "11",
+   "etiqueta": "Artículo 11",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo III De las Metas de Eficiencia Energética"
+   ],
+   "texto": "Artículo 11.- El PRONASE establecerá, con carácter indicativo, la Meta de Eficiencia Energética."
+  },
+  {
+   "orden": 13,
+   "clave": "12",
+   "etiqueta": "Artículo 12",
+   "ruta": [
+    "TÍTULO SEGUNDO De las Metas y Obligaciones",
+    "Capítulo III De las Metas de Eficiencia Energética"
+   ],
+   "texto": "Artículo 12.- La Secretaría y la CONUEE, en el ámbito de sus competencias, deberán establecer una Hoja de Ruta para el cumplimiento de la meta indicativa señalada en el artículo anterior."
+  },
+  {
+   "orden": 14,
+   "clave": "13",
+   "etiqueta": "Artículo 13",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Artículo 13.- El Ejecutivo Federal, por conducto de la Secretaría, la SEMARNAT, la CRE y la CONUEE, en el ámbito de sus atribuciones, ejercerá las facultades conferidas por esta Ley.\nPara la regulación de las Energías Limpias, la Secretaría y la CRE tendrán las facultades que se les otorguen en la Ley de la Industria Eléctrica y demás legislación aplicable."
+  },
+  {
+   "orden": 15,
+   "clave": "14",
+   "etiqueta": "Artículo 14 (parte 1 de 3)",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Artículo 14.- Para efectos de esta Ley, corresponde a la Secretaría:\nI.\nElaborar el Programa, así como aprobar y publicar la Estrategia y el PRONASE para dar cumplimiento a las disposiciones establecidas en esta Ley, y coordinar la ejecución de dichos instrumentos;\nII.\nConsiderar las opiniones y recomendaciones emitidas por el Consejo para la elaboración, aprobación y publicación de la Estrategia y los programas referidos en el inciso anterior;\nIII.\nCoordinar la organización de las sesiones y los trabajos del Consejo;\nIV.\nPromover el cumplimiento de los compromisos internacionales en materia de generación y Aprovechamiento de Energías Limpias y el Aprovechamiento sustentable de la energía, que México haya adquirido y cuyo cumplimiento esté relacionado directamente con esta Ley, en condiciones de viabilidad económica y sin menoscabo de la competitividad;\nV.\nPromover el cumplimiento de todas las Metas país mediante la formulación y aplicación de los instrumentos de política pública correspondientes, la coordinación con las instancias relevantes, la evaluación anual del cumplimiento de las Metas país y la adopción de medidas correctivas en el caso de que el logro de las Metas país se encuentre por debajo de los\nniveles establecidos, considerando en todo momento que dichas medidas deben establecerse tomando en cuenta los costos asociados;\nVI.\nRealizar la consulta anual con el Consejo y los integrantes del sector eléctrico, usuarios del suministro eléctrico, el sector académico y la sociedad civil sobre los obstáculos para el cumplimiento de las Metas;\nVII.\nIncorporar la instalación de Centrales Eléctricas con Energías Limpias en la planeación indicativa del crecimiento de la infraestructura eléctrica;\nVIII.\nElaborar y publicar anualmente por medios electrónicos el reporte de avance en el cumplimiento de las Metas de generación de electricidad a partir de Energías Limpias establecidas en los instrumentos de planeación;\nIX.\nElaborar un reporte anual del potencial de mitigación de Gases de Efecto Invernadero del sector, acorde con las necesidades de crecimiento del país y de los avances en su proceso de reducción de emisiones;\nX.\nCoordinar la elaboración y actualización del Inventario, que contendrá la capacidad de Energías Limpias instalada por tecnología, por empresa y por región geográfica para proyectos que cuenten con un permiso para generar energía eléctrica en territorio nacional emitido por la CRE;\nXI.\nElaborar y publicar anualmente el Atlas Nacional de Zonas con Alto Potencial de Energías Limpias que deberá contar con el siguiente contenido actualizado y verificable:\na) Las zonas del país que tengan un alto potencial de Energías Limpias;\nb) Las variables climatológicas relevantes para el desarrollo de Energías Limpias. Para el desarrollo de esta información se deberá contar con la colaboración del Instituto, del Servicio Meteorológico Nacional y del Instituto Nacional de Estadística y Geografía, y\nc) La información detallada, gráfica y tabular de las Zonas de Alto Potencial de Energías Limpias, considerando los criterios de infraestructura necesaria para el desarrollo de proyectos de generación eléctrica con base en Energías Limpias y su interconexión. Esta información deberá ser utilizada para la planeación de la expansión de la Red Nacional de Transmisión y las Redes Generales de Distribución;\nXII.\nSuscribir convenios y acuerdos de coordinación con los gobiernos de las entidades federativas y, en su caso, de los municipios, con el objeto de, en el ámbito de sus respectivas competencias:\na) Establecer bases de participación para instrumentar las disposiciones que emita el Ejecutivo Federal de conformidad con la legislación aplicable;\nb) Promover acciones de apoyo al desarrollo de Cadenas de Valor en la Industria Eléctrica de las Energías Limpias, en condiciones de sustentabilidad económica;"
+  },
+  {
+   "orden": 16,
+   "clave": "14",
+   "etiqueta": "Artículo 14 (parte 2 de 3)",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "c) Promover condiciones, en el ámbito de su competencia, para facilitar el acceso a aquellas zonas con alto potencial de fuentes de energías limpias para su aprovechamiento y la compatibilidad de los usos de suelo para tales fines;\nd) Identificar y promover las mejores prácticas en políticas y programas para Eficiencia Energética;\ne) Identificar y promover, con apoyo de la CONUEE y empresas distribuidoras de energía, áreas de oportunidad y programas de eficiencia energética por sectores de uso final, y\nf) Simplificar los procedimientos administrativos para la obtención de permisos y licencias para los proyectos de aprovechamiento de Energías Limpias. El grado de simplificación de dichos procedimientos y el impulso al desarrollo de Energías Limpias será monitoreado y calificado por la Secretaría, quien publicará anualmente un índice elaborado para tal fin de acuerdo con las mejores prácticas internacionales en la materia;\nXIII.\nElaborar, en coordinación con la Secretaría de Hacienda y Crédito Público, la Secretaría de Salud, la SEMARNAT y la CRE, una metodología para valorar las Externalidades definidas en la fracción XIX del artículo 3 de esta Ley.\nLas características de las Externalidades y la dimensión de sus efectos se deberán determinar a partir de modelos conocidos y respetados por instituciones internacionales, incluyendo el análisis de ciclo de vida, para que a través de la provisión de información base por proyecto, la autoridad ambiental pueda determinar y tomar en consideración en sus procesos de autorización, previo a su construcción, las estimaciones de las Externalidades que en su caso se generen;\nXIV.\nPromover la participación social a través del Consejo durante la planeación, implementación y evaluación del Programa;\nXV.\nDeterminar, de conformidad con los criterios emitidos por el Consejo, la identificación de las zonas con potencial renovable para generar energía eléctrica mediante Energías Limpias;\nXVI.\nPromover, en condiciones de sustentabilidad económica, la construcción de las obras de infraestructura eléctrica que redunden en un beneficio sistémico y faciliten la interconexión de Energías Limpias al Sistema Eléctrico Nacional;\nXVII.\nAsegurar la congruencia entre la Estrategia, el Programa, el PRONASE y los demás instrumentos de planeación del sector energía;\nXVIII.\nAprobar e incluir en el PRONASE, en su caso, las Metas de Eficiencia Energética que le proponga la CONUEE y coordinar las acciones necesarias para promover su cumplimiento;\nXIX.\nContribuir a la actualización y disponibilidad del Sistema;\nXX.\nCoordinar los fondos y fideicomisos constituidos por el Gobierno Federal   para apoyar el Aprovechamiento sustentable de la energía;\nXXI.\nParticipar en actividades de coordinación, en las materias de su competencia, sobre la simplificación administrativa con dependencias federales;\nXXII.\nEn coordinación con SEMARNAT, formular y emitir las metodologías para la cuantificación de las emisiones de gases y compuestos de efecto invernadero por la explotación, producción, transformación, distribución y productos intensivos en consumo de energía eléctrica, así como las emisiones evitadas debido a la incorporación de acciones para el Aprovechamiento sustentable de la energía;\nXXIII.\nIdentificar las mejores prácticas internacionales en cuanto a programas y proyectos de transición energética y promover, cuando así se considere, su implementación en el territorio nacional, y\nXXIV. Brindar asesoría y apoyo técnico a las entidades federativas y municipios que lo soliciten para el diseño e implementación de proyectos, programas o reglamentaciones técnicas locales relacionadas con la eficiencia energética y las Energías Limpias, conforme a los requisitos y especificaciones que al respecto se señalen en los reglamentos de la presente Ley, así como para:\na) Realizar diagnósticos e implementar proyectos que busquen optimizar su consumo energético;\nb) Diseñar mejoras en el transporte;"
+  },
+  {
+   "orden": 17,
+   "clave": "14",
+   "etiqueta": "Artículo 14 (parte 3 de 3)",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "c) Diseñar sistemas eficientes de manejo de residuos sólidos;\nd) Identificar recursos potenciales para su aprovechamiento en la generación de energía eléctrica y planear su desarrollo, e\ne) Identificar fuentes de financiamiento y colaborar en la identificación de tecnologías y costos para su desarrollo.\nEsta facultad la podrá ejercer a través de la CRE, la CONUEE y las demás instancias competentes vinculadas a los objetivos y fines de la Estrategia, el Programa, el PRONASE o cualquier otro instrumento programático que se expida."
+  },
+  {
+   "orden": 18,
+   "clave": "15",
+   "etiqueta": "Artículo 15",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Artículo 15.- Para efectos de esta Ley, corresponde a la CRE:\nI.\nCoadyuvar a la identificación de las zonas con alto potencial de Energías Limpias y las necesidades de infraestructura por parte del servicio público de transmisión y distribución de energía eléctrica para su desahogo en condiciones de mercado;\nII.\nExpedir los modelos de contrato de interconexión, incluyendo aquellos para las Empresas Generadoras que produzcan electricidad con Energías Limpias;\nIII.\nElaborar y publicar anualmente, en coordinación con la SEMARNAT, el factor de emisión del Sistema Eléctrico Nacional;\nIV.\nColaborar con la Secretaría en la elaboración y actualización del Inventario;\nV.\nExpedir las Normas Oficiales Mexicanas en materia de Energías Limpias y de Cogeneración Eficiente, y\nVI.\nCrear y mantener el Registro Público de Certificados de Energías Limpias."
+  },
+  {
+   "orden": 19,
+   "clave": "16",
+   "etiqueta": "Artículo 16",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Artículo 16.- Corresponde al CENACE:\nI.\nGarantizar el acceso abierto y no indebidamente discriminatorio a la Red Nacional de Transmisión y las Redes Generales de Distribución de las Centrales Eléctricas, incluyendo las Energías Limpias;\nII.\nIncluir en los programas de ampliación y modernización para la Red Nacional de Transmisión que proponga a la Secretaría, la expansión y equipamiento del sistema de transmisión de la energía eléctrica en las zonas con alto potencial de Energías Limpias para desahogar eficientemente y en condiciones de mercado la energía que se produzca y asegurar la estabilidad de la red, promoviendo el cumplimiento de las metas de Energías Limpias en condiciones de viabilidad económica;\nIII.\nAdoptar las tecnologías y procedimientos necesarios para garantizar el uso óptimo de las Energías Limpias, asegurando la estabilidad y seguridad de la red de transmisión en condiciones de viabilidad económica;\nIV.\nDeterminar las necesidades de expansión de transmisión del Sistema Eléctrico Nacional en las zonas con alto potencial de Energías Limpias para desahogar eficientemente y bajo condiciones de mercado la energía que se produzca atendiendo el cumplimiento de las metas de Energías Limpias, y\nV.\nTransmitir la información que corresponda a la Secretaría para que se programen y ejecuten las obras necesarias para incorporar las Energías Limpias al Sistema Eléctrico Nacional."
+  },
+  {
+   "orden": 20,
+   "clave": "17",
+   "etiqueta": "Artículo 17",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Artículo 17.- La CONUEE es un órgano administrativo desconcentrado de la Secretaría que cuenta con autonomía técnica y operativa. Tiene por objeto promover la Eficiencia Energética y constituirse como órgano de carácter técnico en materia de Aprovechamiento sustentable de la energía.\nLa CONUEE tendrá un Director General, designado por el Titular del Ejecutivo Federal a propuesta del Secretario de Energía, quien la dirigirá y representará legalmente; adscribirá las unidades administrativas de la misma; expedirá sus manuales; tramitará el presupuesto; delegará facultades en el ámbito de su competencia; podrá nombrar y remover al personal, y tendrá las demás facultades que le confieran esta Ley y las demás disposiciones aplicables."
+  },
+  {
+   "orden": 21,
+   "clave": "18",
+   "etiqueta": "Artículo 18 (parte 1 de 2)",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Artículo 18.- Corresponde a la CONUEE:\nI.\nPromover el uso óptimo de la energía, desde su explotación hasta su consumo y proponer a la Secretaría las Metas de Eficiencia Energética y los mecanismos para su cumplimiento;\nII.\nElaborar y proponer, a la Secretaría, la Estrategia y el PRONASE;\nIII.\nFormular y emitir las metodologías y procedimientos para cuantificar los energéticos por tipo y uso final, y determinar las dimensiones y el valor económico del consumo y el de la infraestructura de explotación, producción, transformación y distribución evitadas que se deriven de las acciones de aprovechamiento sustentable de la energía;\nIV.\nExpedir y verificar disposiciones administrativas de carácter general en materia de Eficiencia Energética y de las actividades que incluyen el aprovechamiento sustentable de la energía, de conformidad con las disposiciones aplicables;\nV.\nExpedir las Normas Oficiales Mexicanas en materia de Eficiencia Energética;\nVI.\nProponer a las dependencias la elaboración o revisión de las Normas Oficiales Mexicanas a fin de propiciar la Eficiencia Energética;\nVII.\nImplementar, administrar y asegurar la disponibilidad y actualización del Sistema;\nVIII.\nImplementar, actualizar y publicar en los términos que señalen el Reglamento de esta Ley, el registro de individuos, instalaciones o empresas que hayan sido certificados como energéticamente responsables bajo los mecanismos e instituciones que establece la Ley Federal sobre Metrología y Normalización;\nIX.\nPromover la investigación científica y tecnológica en materia de Aprovechamiento sustentable de la energía en coordinación con el Instituto y el Instituto Nacional de Ecología y Cambio Climático, en el ámbito de sus respectivas competencias;\nX.\nBrindar asesoría técnica en materia de Aprovechamiento sustentable de la energía a las dependencias y entidades de la Administración Pública Federal, así como a los gobiernos de los estados y municipios que lo soliciten y celebrar convenios para tal efecto;\nXI.\nEmitir opiniones vinculatorias para las dependencias y entidades de la Administración Pública Federal y para estados y municipios en programas, proyectos y actividades de Aprovechamiento sustentable de la energía que utilicen fondos públicos federales;\nXII.\nPreparar y publicar libros, catálogos, manuales, artículos e informes técnicos sobre los trabajos que realice en las materias de su competencia;\nXIII.\nParticipar en la difusión de la información, materia de esta Ley, entre los sectores productivos, gubernamentales y sociales;\nXIV.\nOrdenar visitas de verificación y requerir la presentación de información a las personas que realicen actividades relativas al Aprovechamiento sustentable de energía, a fin de supervisar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones jurídicas aplicables;\nXV.\nImponer las sanciones, bajo el ámbito de su competencia, referidas en el Capítulo II del Título Décimo de esta Ley;\nXVI.\nLlevar a cabo los estudios que requiera para conocer elementos tecnológicos y prácticas que determinan patrones e intensidad de consumo de energía por uso final, tipo de usuario, actividad económica y región del país;\nXVII.\nPromover y concertar, con los usuarios de patrón de alto consumo de energía, la instrumentación voluntaria de sistemas de gestión energética bajo procedimientos, protocolos o normas reconocidas internacionalmente;\nXVIII.\nPromover la creación y fortalecimiento de capacidades de las instituciones públicas y privadas de carácter local, estatal y regional para que estas apoyen programas y proyectos de Eficiencia Energética en los servicios municipales y pequeñas y medianas empresas;\nXIX.\nEjecutar las acciones establecidas en el PRONASE;\nXX.\nProponer a la Secretaría los criterios para determinar que un usuario cuenta con un patrón de alto consumo de energía, e\nXXI."
+  },
+  {
+   "orden": 22,
+   "clave": "18",
+   "etiqueta": "Artículo 18 (parte 2 de 2)",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Identificar las mejores prácticas internacionales en cuanto a programas y proyectos de eficiencia energética y promover, cuando así se considere, su implementación en el territorio nacional."
+  },
+  {
+   "orden": 23,
+   "clave": "19",
+   "etiqueta": "Artículo 19 (parte 1 de 2)",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Artículo 19.- Corresponde a la SEMARNAT:\nI.\nDiseñar y aplicar, en el ámbito de su competencia, los instrumentos de fomento y de normatividad para prevenir, controlar y remediar la contaminación proveniente de la generación y transmisión de energía eléctrica en lo referente a emisiones de contaminantes a la atmósfera, incluidos los gases y compuestos de efecto invernadero, en los términos definidos en este ordenamiento;\nII.\nElaborar Normas Oficiales Mexicanas que establezcan límites de emisiones de carácter progresivo de acuerdo con el tipo de tecnología de generación eléctrica considerando las mejores prácticas internacionales;\nIII.\nDichas Normas Oficiales Mexicanas regularán a la Industria Eléctrica que libere gases y compuestos de efecto invernadero, y en su elaboración se deberá considerar el costo que puedan tener con objeto de asegurar que sean económicamente viables;\nIV.\nEstablecer los Mecanismos Flexibles de Compensación para cumplir con las normas de emisión de gases y compuestos de efecto invernadero;\nV.\nRealizar y coordinar estudios o investigaciones, con la participación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, de las dependencias de la Administración Pública Federal competentes, de los gobiernos estatales, municipales o del Distrito Federal, así como de los sectores social y privado para:\na) Determinar las causas y efectos de los problemas ambientales generados por los sectores de energía y actividades extractivas asociadas, respecto del aprovechamiento racional y sustentable de los recursos naturales no renovables, y\nb) Determinar las mejores prácticas para la prevención y control de la contaminación que pudieran generar dichos sectores de energía;\nVI.\nAplicar la metodología para la determinación de las externalidades negativas originadas por las energías fósiles ordenada por esta Ley y que será detallada en las disposiciones reglamentarias que de esta deriven;\nVII.\nEmitir, de conformidad con la normatividad vigente, las medidas de prevención y de control de contaminación aplicables, considerando las mejores prácticas nacionales e internacionales para la Industria Eléctrica.\nEstas medidas deberán estar previstas y contenidas en las autorizaciones en materia de impacto ambiental y en otras autorizaciones aplicables y por lo tanto, serán materia de verificación por parte de la Procuraduría Federal de Protección al Ambiente;\nVIII.\nCuando se trate de proyectos para la generación de electricidad a partir de zonas con alto potencial de Energías Limpias determinados de conformidad con lo establecido por esta Ley, la SEMARNAT, apoyada por las instancias públicas y educativas especializadas, deberá:\na) Elaborar estudios de evaluación ambiental estratégica de carácter regional para determinar las características relevantes del o de los ecosistemas potencialmente afectables por los proyectos, valorar regionalmente los impactos ambientales potenciales y dictar las medidas de prevención y control a las que deben sujetarse los desarrolladores de los proyectos, y\nb) Realizar los estudios antes mencionados e instrumentar las medidas que de ellos se deriven, una vez que se determinen la ubicación y extensión de las zonas con alto potencial de Energías Limpias con el fin de hacer más expeditas las autorizaciones ambientales de los proyectos propuestos en dichas zonas;\nIX.\nActualizar la línea base de emisiones de bióxido de carbono equivalente de la Industria Eléctrica en su conjunto y proyectar la disminución esperada en las emisiones de gases y compuestos de efecto invernadero en concordancia con el cumplimiento de las Metas de Energías Limpias y con el cumplimiento de su contribución a las metas establecidas en la Ley General de Cambio Climático, y\nX."
+  },
+  {
+   "orden": 24,
+   "clave": "19",
+   "etiqueta": "Artículo 19 (parte 2 de 2)",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Publicar anualmente un informe de las emisiones de gases y compuestos de efecto invernadero y del resto de los contaminantes atmosféricos regulados que tenga cada instalación de generación de energía eléctrica que utilice combustibles fósiles y que tenga una emisión mayor o igual al umbral que derive de la Ley General de Cambio Climático en materia de Registro Nacional de Emisiones.\nEste informe deberá contener los datos relevantes sobre capacidad y producción de energía de cada instalación, utilizando los instrumentos de medición, registro y verificación contenidos en la Ley General de Cambio Climático."
+  },
+  {
+   "orden": 25,
+   "clave": "20",
+   "etiqueta": "Artículo 20",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo I De las Autoridades y Organismos"
+   ],
+   "texto": "Artículo 20.- Corresponde a la Procuraduría Federal de Protección al Ambiente:\nI.\nProgramar, ordenar y realizar visitas u operativos de inspección para vigilar y evaluar el cumplimiento de las condicionantes establecidas en las autorizaciones de impacto ambiental emitidas por la SEMARNAT en materia de instalaciones de generación y transmisión de energía eléctrica;\nII.\nProgramar, ordenar y realizar visitas u operativos de inspección, para vigilar y evaluar el cumplimiento de las disposiciones jurídicas ambientales aplicables a las instalaciones de generación, transmisión y distribución de la Industria Eléctrica en materia de prevención y control de contaminantes de la atmósfera, suelos contaminados por materiales y residuos peligrosos, actividades altamente riesgosas, residuos peligrosos, emisión y transferencia de contaminantes, y descargas de aguas residuales a cuerpos de aguas nacionales;\nIII.\nRecibir, atender e investigar las denuncias en las materias ambientales de competencia de la Procuraduría y originadas por las instalaciones de generación, transmisión y distribución de la Industria Eléctrica y, en su caso, realizar en términos de la normatividad aplicable, las diligencias necesarias para determinar la existencia de los actos, hechos u omisiones motivo de denuncia, o bien, canalizar dichas denuncias ante las autoridades que resulten competentes;\nIV.\nDeterminar e imponer las medidas técnicas correctivas, de urgente aplicación, de restauración y las acciones para subsanar irregularidades originadas por las instalaciones de generación y transmisión de la Industria Eléctrica, así como las medidas de seguridad y sanciones que sean de su competencia, proveyendo lo necesario para obtener la ejecución de estas últimas, en términos de las disposiciones jurídicas aplicables;\nV.\nDenunciar ante el Ministerio Público Federal los actos, hechos u omisiones que impliquen la probable comisión de delitos contra el ambiente originados por las instalaciones de generación y transmisión de la Industria Eléctrica, así como solicitar al mismo y al órgano jurisdiccional en el procedimiento penal, la coadyuvancia;\nVI.\nImpulsar la aplicación del programa de auditoría ambiental en todas las instalaciones de generación y transmisión de energía eléctrica mediante la promoción específica del programa en cada instalación, y\nVII.\nPublicar la lista de todas las instalaciones de generación y transmisión de energía eléctrica que se encuentren en el programa de auditoría ambiental administrado por la Procuraduría así como del grado de cumplimiento de cada instalación."
+  },
+  {
+   "orden": 26,
+   "clave": "21",
+   "etiqueta": "Artículo 21",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo II De los Instrumentos de Planeación de la Transición Energética"
+   ],
+   "texto": "Artículo 21.- Son instrumentos de planeación de la política nacional de energía en materia de Energías Limpias y Eficiencia Energética los siguientes:\nI.\nLa Estrategia;\nII.\nEl Programa, y\nIII.\nEl PRONASE.\nLa Secretaría elaborará el Programa y aprobará y publicará la Estrategia y el PRONASE en términos de la Ley de Planeación.\nLos instrumentos de planeación listados en este artículo deberán contar con una versión exacta en formato electrónico y deberá ser posible su consulta en línea abierta para todo público."
+  },
+  {
+   "orden": 27,
+   "clave": "22",
+   "etiqueta": "Artículo 22",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo II De los Instrumentos de Planeación de la Transición Energética"
+   ],
+   "texto": "Artículo 22.- Los instrumentos de planeación listados en el artículo 21 de esta Ley deberán constituirse en políticas obligadas para el desarrollo de otros instrumentos de planeación del sector energético y otros sectores que contengan elementos en materia de Energías Limpias que influyan en políticas públicas, considerando las previsiones de la Ley de Planeación."
+  },
+  {
+   "orden": 28,
+   "clave": "23",
+   "etiqueta": "Artículo 23",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo II De los Instrumentos de Planeación de la Transición Energética"
+   ],
+   "texto": "Artículo 23.- Los instrumentos de planeación a que se refiere el artículo 21 deberán ser evaluados obligatoriamente en forma periódica por la Secretaría y el Consejo, en los plazos establecidos por esta Ley, y estarán sujetos a un proceso de mejora continua que incluya la evaluación de sus resultados parciales, la identificación de barreras para el logro de sus objetivos, la identificación de otras oportunidades de mejora y la adopción de medidas correctivas en el caso de que algunos indicadores de cumplimiento no alcancen los resultados comprometidos. Las obligaciones aquí descritas considerarán las previsiones de la Ley de Planeación."
+  },
+  {
+   "orden": 29,
+   "clave": "24",
+   "etiqueta": "Artículo 24",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo II De los Instrumentos de Planeación de la Transición Energética"
+   ],
+   "texto": "Artículo 24.- Sin perjuicio del régimen especial aplicable a las Empresas Productivas del Estado, la Secretaría de Hacienda y Crédito Público consolidará en el proyecto de Presupuesto de Egresos de la Federación, las provisiones de recursos del sector público necesarios para cumplir con los objetivos prioritarios establecidos en la Estrategia y en los otros instrumentos de planeación."
+  },
+  {
+   "orden": 30,
+   "clave": "25",
+   "etiqueta": "Artículo 25",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo II De los Instrumentos de Planeación de la Transición Energética"
+   ],
+   "texto": "Artículo 25.- Los programas sectoriales correspondientes deberán reflejar las políticas, programas, acciones y proyectos determinados en la Estrategia y en los otros instrumentos de planeación previstos en esta Ley."
+  },
+  {
+   "orden": 31,
+   "clave": "26",
+   "etiqueta": "Artículo 26",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo II De los Instrumentos de Planeación de la Transición Energética"
+   ],
+   "texto": "Artículo 26.- La Estrategia, el Programa y el PRONASE deberán ser revisados con una periodicidad anual, con la participación que corresponda a la Secretaría, la CRE, el CENACE y la CONUEE.\nEl resultado de la revisión, y en su caso las adecuaciones, se publicará en el Diario Oficial de la Federación, previa aprobación por parte del Ejecutivo Federal."
+  },
+  {
+   "orden": 32,
+   "clave": "27",
+   "etiqueta": "Artículo 27",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo III De la Estrategia"
+   ],
+   "texto": "Artículo 27.- La Estrategia constituye el instrumento rector de la política nacional en el mediano y largo plazo en materia de obligaciones de Energías Limpias, Aprovechamiento sustentable de la energía y mejora en la productividad energética en su caso, de reducción económicamente viable de emisiones contaminantes de la Industria Eléctrica, cuyos objetivos principales son:\nI.\nEstablecer las metas y la Hoja de Ruta para la implementación de dichas metas;\nII.\nFomentar la reducción de emisiones contaminantes originadas por la Industria Eléctrica, y\nIII.\nReducir, bajo criterios de viabilidad económica, la dependencia del país de los combustibles fósiles como fuente primaria de energía.\nLa Estrategia establecerá las políticas y las acciones que deberán ser ejecutadas mediante el Programa y los programas anuales que de él deriven para cumplir los objetivos de la misma."
+  },
+  {
+   "orden": 33,
+   "clave": "28",
+   "etiqueta": "Artículo 28",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo III De la Estrategia"
+   ],
+   "texto": "Artículo 28.- La Estrategia deberá contener un componente de largo plazo para un periodo de 30 años que defina los escenarios propuestos para cumplir las Metas de Energías Limpias y la Meta de Eficiencia Energética.\nEste componente deberá ser una prospectiva que contenga un conjunto de análisis y estudios sobre las condiciones técnicas, científicas, tecnológicas, económicas, financieras, fiscales, ambientales y sociales futuras de la infraestructura de explotación, producción, transformación, transmisión, distribución y uso final de la energía.\nLa parte prospectiva de la Estrategia deberá actualizarse dentro de los seis primeros meses de ejercicio de cada Administración Federal, en términos de la Ley de Planeación, cumpliendo con los requisitos de calidad establecidos en las mejores prácticas de este tipo de instrumentos."
+  },
+  {
+   "orden": 34,
+   "clave": "29",
+   "etiqueta": "Artículo 29",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo III De la Estrategia"
+   ],
+   "texto": "Artículo 29.- La Estrategia también incluirá un componente de planeación de mediano plazo para un período de 15 años que deberá actualizarse cada tres años, una vez que haya sido realizado lo dispuesto en el artículo anterior respecto al componente de largo plazo cuando así corresponda.\nEl componente de mediano plazo de la Estrategia deberá contener lo siguiente:\nI.\nSeñalar las Metas de Energías Limpias y Eficiencia Energética, así como su grado de cumplimiento;\nII.\nEstablecer un diagnóstico exhaustivo de:\na) El estado en el que se encuentre la Industria Eléctrica en general y la generación de electricidad mediante Energías Limpias en particular;\nb) El estado en el que se encuentre el consumo final de la energía;\nc) Los obstáculos a los que se enfrenta el desarrollo de las Energías Limpias;\nd) El estado de la contaminación ambiental ocasionada por la Industria Eléctrica de acuerdo con la información proporcionada por la SEMARNAT;\ne) La dependencia de las fuentes de energías fósiles para la generación primaria de electricidad y del progreso en la Eficiencia Energética, y\nf) La evolución tecnológica en materia de generación eléctrica y reducción de costos, así como otros elementos de tecnología que puedan aportar un valor añadido al Sistema Eléctrico Nacional.\nPara cumplir con lo anterior, la Secretaría deberá recurrir a reconocidos expertos en la materia, quienes estudiarán y aportarán la información necesaria para el diagnóstico, así como también a los involucrados en la Industria Eléctrica, ya sea de carácter público o particular, quienes deberán ser convocados a través del Consejo y consultados mediante foros donde se apliquen las metodologías de consulta más adecuadas;\nIII.\nEstablecer propuestas para:\na) Resolver los problemas identificados que obstaculicen el cumplimiento de las Metas de Energías Limpias y Eficiencia Energética;\nb) Reducir, bajo condiciones de viabilidad económica, la contaminación ambiental originada por la Industria Eléctrica;\nc) Reducir la dependencia del país de los combustibles fósiles como fuente primaria de energía en el mediano plazo;\nd) Promover el cumplimiento de las Metas de Energías Limpias y Eficiencia Energética, y\ne) Promover el desarrollo futuro de las Energías Limpias como un elemento que contribuye al desarrollo y bienestar socioeconómico del país;\nIV.\nElaborar un documento que compile la información generada en los incisos anteriores con las conclusiones y recomendaciones a los integrantes en la Industria Eléctrica incluyendo la Administración Pública Federal, las Empresas Productivas del Estado, los organismos descentralizados o autónomos, para cumplir con los objetivos primordiales de la Estrategia;\nV.\nExpresar mediante indicadores los compromisos establecidos en la Estrategia, los cuales reflejarán fidedignamente la situación de las Energías Limpias, su penetración en el Sistema Eléctrico Nacional, el abatimiento de la contaminación por la Industria Eléctrica y la mejora en la Eficiencia Energética, y\nVI.\nLa Estrategia y los Programas deberán incluir las políticas y acciones para la expansión y modificación de las redes de transmisión y distribución, en condiciones de viabilidad económica, necesarios para favorecer una mayor penetración de Energías Limpias con el objetivo de dar cumplimiento al menor costo a las Metas, con sujeción a la Ley de la Industria Eléctrica, escuchando la opinión del Consejo y con la participación que corresponda a la Secretaría, al CENACE, a la CRE y a la CONUEE."
+  },
+  {
+   "orden": 35,
+   "clave": "30",
+   "etiqueta": "Artículo 30",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo III De la Estrategia"
+   ],
+   "texto": "Artículo 30.- Para promover la confiabilidad, continuidad y estabilidad en la transmisión y distribución de la energía eléctrica proveniente de las Energías Limpias, el CENACE contará con el apoyo del Servicio Meteorológico Nacional para la predicción de las variables climatológicas que influyan sobre la oferta de Energías Limpias y su variabilidad."
+  },
+  {
+   "orden": 36,
+   "clave": "31",
+   "etiqueta": "Artículo 31",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo III De la Estrategia"
+   ],
+   "texto": "Artículo 31.- Para los efectos del párrafo anterior, el Servicio Meteorológico Nacional aportará sus capacidades para la predicción de las variables climatológicas que influyan sobre la oferta de Energías Limpias y su variabilidad, con la periodicidad necesaria para incorporarlas a la oferta de energía eléctrica en el despacho del Mercado Eléctrico Mayorista. Para tal efecto se contará con el apoyo del Instituto."
+  },
+  {
+   "orden": 37,
+   "clave": "32",
+   "etiqueta": "Artículo 32",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo III De la Estrategia"
+   ],
+   "texto": "Artículo 32.- El aprovechamiento sustentable para la producción de energía eléctrica a partir de los cuerpos de agua, los bioenergéticos, el viento y los recursos geotérmicos, así como la explotación de minerales asociados a los yacimientos geotérmicos, se sujetará y llevará a cabo de conformidad con las disposiciones jurídicas aplicables."
+  },
+  {
+   "orden": 38,
+   "clave": "33",
+   "etiqueta": "Artículo 33",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo IV Del Programa"
+   ],
+   "texto": "Artículo 33.- El Programa establecerá las actividades y proyectos derivados de las acciones establecidas en la Estrategia durante el período de encargo del Ejecutivo Federal."
+  },
+  {
+   "orden": 39,
+   "clave": "34",
+   "etiqueta": "Artículo 34",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo IV Del Programa"
+   ],
+   "texto": "Artículo 34.- El objetivo del Programa es instrumentar las acciones establecidas en la propia Estrategia para la Administración Pública Federal, asegurando su viabilidad económica. El orden de importancia de las acciones estará en función de su rentabilidad social. El Programa deberá contar con los siguientes elementos:\nI.\nLas Metas de Energías Limpias, y las demás señaladas en la Estrategia, que correspondan al período de encargo del Ejecutivo Federal;\nII.\nLas acciones identificadas en la Estrategia para alcanzar sus objetivos en condiciones de viabilidad económica, así como el detalle de su instrumentación;\nIII.\nLos instrumentos de promoción requeridos para impulsar instalaciones de generación limpia distribuida y medidas de eficiencia energética que sean eficientes y económicamente viables entre la población del país, y\nIV.\nLas acciones en materia de estímulos financieros y regulatorios recomendadas para asegurar el cumplimiento de las Metas de Energías Limpias.\nEl Programa deberá prestar especial atención en lo que se refiere a la oportuna extensión de la red de transmisión hacia las zonas con alto potencial de Energías Limpias y la modernización de la misma para permitir la penetración de proporciones crecientes de Energías Limpias, todo ello bajo condiciones de sustentabilidad económica.\nEl Programa se instrumentará cada año y regirá, durante el año de que se trate, las actividades de la Administración Pública Federal en las materias objeto de la presente Ley, sirviendo de base para la integración de los anteproyectos de presupuesto anuales que las propias dependencias y entidades deberán elaborar conforme a la legislación aplicable."
+  },
+  {
+   "orden": 40,
+   "clave": "35",
+   "etiqueta": "Artículo 35",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo V Del Programa Nacional para el Aprovechamiento Sustentable de Energía"
+   ],
+   "texto": "Artículo 35.- El PRONASE es el instrumento mediante el cual el Ejecutivo Federal, de acuerdo con la Ley de Planeación, establecerá las acciones, proyectos y actividades derivadas de la Estrategia que permitan alcanzar las Metas en materia de Eficiencia Energética establecidas en términos de esta Ley.\nSerá un programa especial en los términos de la Ley de Planeación. El orden de importancia de las acciones a desarrollar estará en función de la rentabilidad social de las mismas."
+  },
+  {
+   "orden": 41,
+   "clave": "36",
+   "etiqueta": "Artículo 36",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo V Del Programa Nacional para el Aprovechamiento Sustentable de Energía"
+   ],
+   "texto": "Artículo 36.- El PRONASE incluirá al menos, aquellas acciones, proyectos y actividades derivadas de la Estrategia en materia de Eficiencia Energética que permitan:\nI.\nAnalizar, integrar e implementar acciones de Eficiencia Energética con la participación, en el ámbito de sus respectivas competencias, de las dependencias y entidades de la Administración Pública Federal, en condiciones de viabilidad económica y atendiendo a las condiciones presupuestales aprobadas por el Legislativo;\nII.\nElaborar y ejecutar programas permanentes dentro de las dependencias y entidades de la Administración Pública Federal para el Aprovechamiento sustentable de la energía en sus bienes muebles e inmuebles y aplicar criterios de Aprovechamiento sustentable de la energía en las adquisiciones, arrendamientos, obras y servicios que contraten, en condiciones de sustentabilidad económica;\nIII.\nElaborar y ejecutar programas a través de las dependencias y entidades de la Administración Pública Federal para fomentar el Aprovechamiento sustentable de la energía en Usuarios con un patrón de alto consumo de energía conforme lo determine el Reglamento de la presente Ley;\nIV.\nIdentificar áreas prioritarias para la investigación científica y tecnológica en materia de Aprovechamiento sustentable de la energía;\nV.\nPromover el desarrollo de materiales para incluir en los programas de estudios a nivel de educación básica, media y media superior, temas de Aprovechamiento sustentable de la energía;\nVI.\nPromover, a nivel de educación superior, la formación de especialistas en materia de Aprovechamiento sustentable de la energía;\nVII.\nPromover la aplicación de tecnologías y el uso de equipos, aparatos y vehículos energéticamente eficientes;\nVIII.\nPromover la reducción de emisiones contaminantes a través de la Eficiencia Energética y la sustitución de combustibles en el uso de transporte individual que utilice hidrocarburos;\nIX.\nDesarrollar la normalización en materia de Eficiencia Energética apoyando la elaboración de Normas Oficiales Mexicanas en dicha materia y la evaluación de la conformidad con las mismas;\nX.\nEstablecer una estrategia para la reducción de la intensidad energética global nacional del transporte de personas y mercancías, con metas indicativas para cada año;\nXI.\nPromover el uso de tecnologías y combustibles que mitiguen las emisiones contaminantes, y\nXII.\nEstablecer incentivos y reconocimientos de aquellos sujetos regulados que mantengan altos estándares de eficiencia energética, conforme a la normatividad existente o las mejores prácticas existentes."
+  },
+  {
+   "orden": 42,
+   "clave": "37",
+   "etiqueta": "Artículo 37",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo VI · Del Programa de Redes Eléctricas Inteligentes"
+   ],
+   "texto": "Artículo 37.- El Programa de Redes Eléctricas Inteligentes tiene como objetivo apoyar la modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución, para mantener una infraestructura confiable y segura que satisfaga la demanda eléctrica de manera económicamente eficiente y sustentable, y que facilite la incorporación de nuevas tecnologías que promuevan la reducción de costos del sector eléctrico, la provisión de servicios adicionales a través de sus redes, de la Energía Limpia y la Generación Limpia Distribuida, permitiendo una mayor interacción entre los dispositivos de los usuarios finales y el sistema eléctrico."
+  },
+  {
+   "orden": 43,
+   "clave": "38",
+   "etiqueta": "Artículo 38",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo VI · Del Programa de Redes Eléctricas Inteligentes"
+   ],
+   "texto": "Artículo 38.- El Programa de Redes Eléctricas Inteligentes deberá identificar, evaluar, diseñar, establecer e instrumentar estrategias, acciones y proyectos en materia de redes eléctricas, entre las que se podrán considerar las siguientes:\nI.\nEl uso de información digital y de tecnologías de control para mejorar la confiabilidad, estabilidad, seguridad y eficiencia de la Red Nacional de Transmisión y de las Redes Generales de Distribución;\nII.\nLa optimización dinámica de la operación de la Red Nacional de Transmisión y de las Redes Generales de Distribución, y sus recursos;\nIII.\nEl desarrollo e integración de proyectos de generación distribuida, incluidos los de generación a partir de Energías Renovables;\nIV.\nEl desarrollo y la incorporación de la demanda controlable y de los recursos derivados de la Eficiencia Energética;\nV.\nEl despliegue de tecnologías inteligentes para la medición y comunicación en las Redes Eléctricas Inteligentes;\nVI.\nLa integración equipos y aparatos inteligentes a la Red Nacional de Transmisión y de las Redes Generales de Distribución;\nVII.\nEl desarrollo de estándares de comunicación e interoperabilidad de los aparatos y equipos conectados a la Red Nacional de Transmisión y de las Redes Generales de Distribución, incluyendo la infraestructura que le da servicio a dichas redes;\nVIII.\nLa información hacia los consumidores y opciones para el control oportuno de sus recursos;\nIX.\nEl desarrollo e integración de tecnologías avanzadas para el almacenamiento de electricidad y de tecnologías para satisfacer la demanda en horas pico;\nX.\nLa identificación y utilización de capacidad de generación eléctrica subutilizada para la sustitución de combustibles fósiles por energía eléctrica en los sistemas de transporte, incluyendo la recarga de vehículos eléctricos;\nXI.\nLa promoción de protocolos de interconexión para facilitar que los Suministradores puedan acceder a la electricidad almacenada en vehículos eléctricos para satisfacer la demanda en horas pico;\nXII.\nLa identificación y reducción de barreras para la adopción de Redes Eléctricas Inteligentes, y\nXIII.\nLa investigación sobre la viabilidad de transitar hacia un esquema de precios de la electricidad en tiempo real o por periodos de uso."
+  },
+  {
+   "orden": 44,
+   "clave": "39",
+   "etiqueta": "Artículo 39",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo VI · Del Programa de Redes Eléctricas Inteligentes"
+   ],
+   "texto": "Artículo 39.- Cada tres años, en el mes de octubre, el CENACE deberá elaborar y proponer a la Secretaría, previa opinión técnica de la CRE, un Programa de Redes Eléctricas Inteligentes. La Secretaría aprobará y publicará el Programa de Redes Eléctricas Inteligentes, a más tardar 90 días después de haber recibido la propuesta del CENACE."
+  },
+  {
+   "orden": 45,
+   "clave": "40",
+   "etiqueta": "Artículo 40",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo VI · Del Programa de Redes Eléctricas Inteligentes"
+   ],
+   "texto": "Artículo 40.- Para la elaboración del Programa de Redes Eléctricas Inteligentes, el CENACE contará con el apoyo de la CRE, los Transportistas, Distribuidores y Suministradores a que hace referencia la Ley de la Industria Eléctrica."
+  },
+  {
+   "orden": 46,
+   "clave": "41",
+   "etiqueta": "Artículo 41",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo VI · Del Programa de Redes Eléctricas Inteligentes"
+   ],
+   "texto": "Artículo 41.- La Secretaría formará un Comité Consultivo de Redes Eléctricas Inteligentes en el que podrán participar representantes del CENACE, de la CRE, de la Industria Eléctrica e instituciones de investigación."
+  },
+  {
+   "orden": 47,
+   "clave": "42",
+   "etiqueta": "Artículo 42",
+   "ruta": [
+    "TÍTULO TERCERO De las Autoridades y los Instrumentos de Planeación",
+    "Capítulo VI · Del Programa de Redes Eléctricas Inteligentes"
+   ],
+   "texto": "Artículo 42.- El Comité Consultivo de Redes Eléctricas Inteligentes asesorará a la Secretaría sobre el desarrollo de tecnologías de Redes Inteligentes."
+  },
+  {
+   "orden": 48,
+   "clave": "43",
+   "etiqueta": "Artículo 43",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo I Del financiamiento"
+   ],
+   "texto": "Artículo 43.- Los recursos necesarios para que la Administración Pública Federal cumpla con las atribuciones que le establece esta Ley deberán provenir del Presupuesto de Egresos de la Federación, de los instrumentos financieros disponibles para obras y servicios públicos y demás instrumentos que se establezcan para tales fines. Adicionalmente, dichos recursos podrán provenir de aportaciones privadas."
+  },
+  {
+   "orden": 49,
+   "clave": "44",
+   "etiqueta": "Artículo 44",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo I Del financiamiento"
+   ],
+   "texto": "Artículo 44.- Los fondos que se destinen para el cumplimiento de los objetivos de esta Ley apoyarán acciones que son indispensables para impulsar el crecimiento en materia de Energías Limpias y de reducción de emisiones contaminantes de la Industria Eléctrica y contarán, en su caso, con la estructura necesaria para su operación."
+  },
+  {
+   "orden": 50,
+   "clave": "45",
+   "etiqueta": "Artículo 45",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo I Del financiamiento"
+   ],
+   "texto": "Artículo 45.- Los recursos públicos o privados asignados con base en esta Ley, deberán ser ejercidos con base en los principios de honestidad, legalidad, productividad, eficiencia, eficacia, transparencia gubernamental y máxima publicidad, y estarán sujetos al monitoreo, reporte y evaluación de su desempeño.\nPara lo anterior, se medirá la contribución de los recursos al cumplimiento de las Metas establecidas en el marco de esta Ley, así como los demás objetivos establecidos en la Estrategia, el Programa y el PRONASE.\nLos resultados del ejercicio de los recursos y fondos que se destinen al cumplimiento de los fines de esta Ley deberán evaluarse periódicamente con objeto de proponer la adopción de medidas necesarias, en su caso, para incrementar la efectividad de los recursos para contribuir al cumplimiento de las Metas y demás objetivos establecidos en la Estrategia, el Programa y el PRONASE."
+  },
+  {
+   "orden": 51,
+   "clave": "46",
+   "etiqueta": "Artículo 46",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo I Del financiamiento"
+   ],
+   "texto": "Artículo 46.- El Ejecutivo Federal diseñará e instrumentará las políticas y medidas para facilitar que los fondos que se destinen al cumplimiento de los fines esta Ley se complementen con recursos\nderivados de los mecanismos internacionales de financiamiento relacionados con los objetivos de la presente Ley.\nDichas políticas y medidas promoverán la aplicación de los mecanismos internacionales orientados a la reducción económicamente viable de emisiones de Gases y Compuestos de Efecto Invernadero, de conformidad con la legislación ambiental aplicable.\nAsimismo, las Dependencias, entidades competentes, o a quien designen estas, podrán desempeñar al igual que las Empresas Generadoras, el papel de intermediarios entre los proyectos de aprovechamiento de las Energías Limpias y los compradores de certificados de reducción de emisiones de Gases y Compuestos de Efecto Invernadero en el mercado internacional."
+  },
+  {
+   "orden": 52,
+   "clave": "47",
+   "etiqueta": "Artículo 47",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo I Del financiamiento"
+   ],
+   "texto": "Artículo 47.- El Ejecutivo Federal, los gobiernos de las entidades federativas, del Distrito Federal y de los Municipios, podrán firmar convenios con los integrantes de la Industria Eléctrica con objeto de que, de manera conjunta, se lleve a cabo el financiamiento de proyectos de aprovechamiento de las Energías Limpias o de Eficiencia Energética disponibles en su ámbito de competencia."
+  },
+  {
+   "orden": 53,
+   "clave": "48",
+   "etiqueta": "Artículo 48",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo II De los fondos para la transición energética y el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 48.- Los fondos que la Administración Pública Federal destine para la Transición Energética y el Aprovechamiento Sustentable de la Energía tendrán por objeto captar y canalizar recursos financieros públicos y privados, nacionales o internacionales, para instrumentar acciones que sirvan para contribuir al cumplimiento de la Estrategia y apoyar programas y proyectos que diversifiquen y enriquezcan las opciones para el cumplimiento de las Metas en materia de Energías Limpias y Eficiencia Energética así como los demás objetivos de la Ley y los objetivos específicos de los instrumentos de planeación.\nEl patrimonio de los fondos que se destinen a la Transición Energética y el Aprovechamiento Sustentable de la Energía deberá actualizarse anualmente por la variación estimada del Índice Nacional de Precios al Consumidor. El monto del patrimonio de los fondos  para la Transición Energética y el Aprovechamiento Sustentable de la Energía que se incluyan en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal correspondiente, podrá modificarse en función de la cartera de proyectos susceptibles de recibir apoyos de dichos fondos, que cumpla con el propósito de potenciar el financiamiento disponible para la eficiencia energética, las tecnologías limpias, la generación limpia distribuida y el aprovechamiento de las energías renovables."
+  },
+  {
+   "orden": 54,
+   "clave": "49",
+   "etiqueta": "Artículo 49",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo II De los fondos para la transición energética y el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 49.- Los fondos destinados a la Transición Energética y el Aprovechamiento Sustentable de la Energía, entre otras funciones, también canalizarán recursos a los proyectos y programas que produzcan el mayor valor económico positivo desde una perspectiva social, cuando las condiciones del Mercado Eléctrico Mayorista y los otros instrumentos de promoción sean insuficientes para fomentar dichos proyectos.\nCuando sea factible, los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía utilizarán procesos competitivos para asegurar que los recursos se asignen a los proyectos que ofrezcan mayores beneficios por monto invertido. Asimismo, dichos fondos asegurarán que los recursos otorgados sean los mínimos necesarios para dar viabilidad al proyecto en consideración, tomando en cuenta los otros ingresos y estímulos que puedan recibir.\nDe conformidad con sus reglas de operación, la asignación y distribución de recursos provenientes de los fondos a que se refiere este capítulo, procurará un reparto equilibrado entre proyectos de energías limpias y proyectos de eficiencia energética."
+  },
+  {
+   "orden": 55,
+   "clave": "50",
+   "etiqueta": "Artículo 50",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo II De los fondos para la transición energética y el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 50.- Con el fin de potenciar el financiamiento disponible para los propósitos establecidos en el artículo anterior, los recursos de los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía podrán ser de carácter recuperable y no recuperable, incluyendo el otorgamiento de garantías de crédito u otro tipo de apoyos financieros para los proyectos que sean aprobados, según se establezca en sus reglas de operación."
+  },
+  {
+   "orden": 56,
+   "clave": "51",
+   "etiqueta": "Artículo 51",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo II De los fondos para la transición energética y el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 51.- Los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía contarán con Comités Técnicos integrados de conformidad con lo establecido en los contratos correspondientes."
+  },
+  {
+   "orden": 57,
+   "clave": "52",
+   "etiqueta": "Artículo 52",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo II De los fondos para la transición energética y el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 52.- Sin perjuicio de otras facultades que les correspondan, los  Comités Técnicos de los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía tendrán las funciones siguientes:\nI.\nEmitir las reglas para la operación del fondo correspondiente y actualizarlas al menos cada tres años, incluyendo las funciones de administración, asignación y distribución de los recursos con el fin de cumplir las obligaciones de esta Ley, promover los objetivos de la Estrategia y los demás instrumentos de planeación, y\nII.\nConvocar a la presentación de propuestas a ser financiadas por el fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía que corresponda, y seleccionar las que cumplan con el objeto del fondo respectivo."
+  },
+  {
+   "orden": 58,
+   "clave": "53",
+   "etiqueta": "Artículo 53",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo II De los fondos para la transición energética y el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 53.- Los solicitantes que reúnan los requisitos solicitados por los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía, podrán ser sujetos a recibir recursos conforme a lo señalado en esta Ley y a sus reglas de operación."
+  },
+  {
+   "orden": 59,
+   "clave": "54",
+   "etiqueta": "Artículo 54",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo II De los fondos para la transición energética y el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 54.- Los Comités Técnicos de los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía, podrán solicitar a la CONUEE, a la CRE, y a las instancias competentes vinculadas a los objetivos y fines de la Estrategia, el Programa, el PRONASE y del  fondo que corresponda, por conducto de la Secretaría, el apoyo técnico para el diseño e implementación de proyectos, programas o reglamentaciones técnicas, en el ámbito de sus respectivas atribuciones."
+  },
+  {
+   "orden": 60,
+   "clave": "55",
+   "etiqueta": "Artículo 55",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 55.- El Financiamiento para el Aprovechamiento sustentable de la energía tiene por objeto:\nI.\nContribuir a la sustitución de equipos y aparatos energéticamente ineficientes;\nII.\nLa realización de mejoras a edificaciones en las que se realice el consumo energético para su acondicionamiento con el fin de que este sea más eficiente, y\nIII.\nLa instalación de equipos económicamente viables que permitan aprovechar a los hogares las fuentes de energía renovables para la satisfacción de sus necesidades."
+  },
+  {
+   "orden": 61,
+   "clave": "56",
+   "etiqueta": "Artículo 56",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 56.- El Financiamiento para el Aprovechamiento sustentable de la energía se establece mediante un convenio entre un Usuario Final y un financiador en el que:\nI.\nEl financiador proporciona el capital necesario para realizar uno de los proyectos a que se refiere el artículo anterior;\nII.\nEl Usuario Final autoriza al financiador a recuperar su capital y costos de financiamiento a través de la facturación del Suministro Eléctrico o Distribución de gas natural del Usuario Final, y\nIII.\nEl Usuario Final autoriza al Suministrador Eléctrico o Distribuidor de gas natural a suspender el servicio en caso de mora de pago asociado con el Financiamiento.\nLos financiadores podrán ser asesores, empresas comerciales o entidades financieras."
+  },
+  {
+   "orden": 62,
+   "clave": "57",
+   "etiqueta": "Artículo 57",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 57.- Para que un usuario pueda ser considerado en el Financiamiento, deberá tener contratado el servicio con algún Suministrador de energía eléctrica o Distribuidor de gas natural, autorizado en los términos de la legislación aplicable."
+  },
+  {
+   "orden": 63,
+   "clave": "58",
+   "etiqueta": "Artículo 58",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 58.- Los financiamientos referidos en esta sección serán pagados a través de la factura que el Suministrador de electricidad o Distribuidor de gas natural haga a cada usuario por la prestación de sus servicios."
+  },
+  {
+   "orden": 64,
+   "clave": "59",
+   "etiqueta": "Artículo 59",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 59.- Previo al otorgamiento de los financiamientos referidos en esta sección, el Suministrador de electricidad o Distribuidor de gas natural deberá firmar un convenio, cuyo formato deberá ser aprobado por la CRE con cualquier financiador que lo solicite.\nEn dichos convenios se establecerán los términos para que el Suministrador de electricidad o Distribuidor de gas natural preste al financiador el servicio de cobranza al Usuario Final. En el caso de los usuarios domésticos, los convenios tipo deberán ser autorizados por la Procuraduría Federal del Consumidor.\nLa CONUEE determinará, en el caso de los usuarios domésticos, aquellas tecnologías económicamente viables y energéticamente eficientes susceptibles de financiamiento."
+  },
+  {
+   "orden": 65,
+   "clave": "60",
+   "etiqueta": "Artículo 60",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 60.- La CRE regulará la contraprestación a la que los suministradores eléctricos o los distribuidores de gas tendrán derecho por la prestación del servicio de cobranza descrito en el artículo 59."
+  },
+  {
+   "orden": 66,
+   "clave": "61",
+   "etiqueta": "Artículo 61",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 61.- Los convenios a que se refiere el artículo 59 estipularán que, en caso de mora, el Suministrador de electricidad o Distribuidor de gas natural no se responsabilizará de los montos por cobrar. Para efectos de suspensión del servicio, el pago de dichos créditos podrá estar ligado al pago del suministro eléctrico o de gas natural."
+  },
+  {
+   "orden": 67,
+   "clave": "62",
+   "etiqueta": "Artículo 62",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 62.- La normatividad deberá prever lo necesario para que el cambio de suministrador o Distribuidor de un usuario no afecte el cumplimiento o la ejecución de los convenios."
+  },
+  {
+   "orden": 68,
+   "clave": "63",
+   "etiqueta": "Artículo 63",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo III Del Financiamiento para el Aprovechamiento Sustentable de la Energía"
+   ],
+   "texto": "Artículo 63.- Con el fin de promover el desarrollo de los mercados de Financiamiento, los Suministradores de electricidad y Distribuidores de gas natural deberán poner a disposición de las sociedades de información crediticia los historiales de facturación y pago que les realicen sus usuarios, independientemente de que estos sean partícipes de los convenios descritos en el artículo 59."
+  },
+  {
+   "orden": 69,
+   "clave": "64",
+   "etiqueta": "Artículo 64",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo IV De la Inversión"
+   ],
+   "texto": "Artículo 64.- En materia de Energías Limpias, tomando en cuenta en todo momento la situación de las finanzas públicas, las condiciones presupuestarias vigentes y considerando condiciones de sustentabilidad económica de las políticas públicas que se implementen, se dará prioridad a la\ndiversificación de la matriz energética en términos del potencial de Energías Limpias, el tipo de tecnología y la dispersión geográfica, a fin de mitigar el riesgo asociado a la variación en los precios de los combustibles fósiles, así como aprovechar las curvas de aprendizaje actuales y futuras de las tecnologías de las Energías Limpias."
+  },
+  {
+   "orden": 70,
+   "clave": "65",
+   "etiqueta": "Artículo 65",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo IV De la Inversión"
+   ],
+   "texto": "Artículo 65.- Con el fin de incentivar la inversión para la generación de energía eléctrica con Energías Limpias y alcanzar el cumplimiento de las Metas país en materia de Energías Limpias y Eficiencia Energética, la regulación deberá:\nI.\nGarantizar el acceso abierto y no indebidamente discriminatorio a las redes de transmisión y distribución, para las centrales eléctricas, incluyendo las Energías Limpias, de conformidad con lo establecido en la Ley de la Industria Eléctrica;\nII.\nOfrecer certeza jurídica a nuevas inversiones;\nIII.\nPromover, en condiciones de sustentabilidad económica, el uso de nuevas tecnologías en la operación de las redes de transmisión y distribución para permitir mayor penetración de las Energías Limpias y el manejo eficiente de la intermitencia de las mismas, de acuerdo con las mejores prácticas internacionales, y\nIV.\nAsegurar un suministro eléctrico ambientalmente sustentable, confiable y seguro."
+  },
+  {
+   "orden": 71,
+   "clave": "66",
+   "etiqueta": "Artículo 66",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo IV De la Inversión"
+   ],
+   "texto": "Artículo 66.- La Secretaría, en coordinación con la CRE y el CENACE, recomendará, en el ámbito de sus atribuciones, los mecanismos y los programas más convenientes para promover la inversión en la generación de electricidad con Energías Limpias para el cumplimiento de las Metas en materia de Energías Limpias y Eficiencia Energética.\nPara la definición de los mecanismos o programas se podrá considerar la evaluación de los mecanismos legales y de incentivos, tales como el porteo tipo estampilla postal, el acceso garantizado a la red eléctrica y al despacho de energía, el banqueo de energía, el reconocimiento de la capacidad efectiva aportada al sistema y la contabilización de externalidades, en términos que sean compatibles con las Reglas de Mercado."
+  },
+  {
+   "orden": 72,
+   "clave": "67",
+   "etiqueta": "Artículo 67",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo IV De la Inversión"
+   ],
+   "texto": "Artículo 67.- En términos de la Ley de la Industria Eléctrica y de las Reglas del Mercado a las que se refiere la Ley de la Industria Eléctrica, el CENACE llevará a cabo subastas en las cuales participarán, de manera obligatoria, los Suministradores de Servicios Básicos. Dichas subastas deberán considerar el cumplimiento de las obligaciones para adquirir Certificados de Energías Limpias.\nLo anterior, tomando en cuenta los precios ofertados, capacidades técnicas y financieras demostradas para la ejecución de los proyectos ganadores, entre los otros que se definen en las Reglas del Mercado a las que se refiere la Ley de la Industria Eléctrica."
+  },
+  {
+   "orden": 73,
+   "clave": "68",
+   "etiqueta": "Artículo 68",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo V De los Certificados de Energías Limpias"
+   ],
+   "texto": "Artículo 68.- Con el objetivo de fomentar el crecimiento de Energías Limpias a que se refiere la presente Ley y en los términos establecidos en la Ley de la Industria Eléctrica, la Secretaría establecerá obligaciones para adquirir Certificados de Energías Limpias. Con el objeto de mantener igualdad de competencia, estas obligaciones se aplicarán, a bienes consumidos en territorio nacional cuyo proceso de producción sea intensivo en energía."
+  },
+  {
+   "orden": 74,
+   "clave": "69",
+   "etiqueta": "Artículo 69",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo V De los Certificados de Energías Limpias"
+   ],
+   "texto": "Artículo 69.- La CRE creará y mantendrá un Registro Público de Certificados de Energías Limpias, el cual deberá tener el matriculado de cada certificado, así como la información correspondiente a su fecha de emisión e historial de propietarios."
+  },
+  {
+   "orden": 75,
+   "clave": "70",
+   "etiqueta": "Artículo 70",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo V De los Certificados de Energías Limpias"
+   ],
+   "texto": "Artículo 70.- El funcionamiento del registro deberá permitir a los particulares la realización de los actos jurídicos necesarios para su compra, venta, otorgamiento en garantía o cualquier otra operación que involucre real, virtual o jurídicamente el traslado de su propiedad."
+  },
+  {
+   "orden": 76,
+   "clave": "71",
+   "etiqueta": "Artículo 71",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo V De los Certificados de Energías Limpias"
+   ],
+   "texto": "Artículo 71.- El Registro contendrá los asientos y anotaciones registrales relativos a los certificados inscritos conforme a los artículos 69 y 70 de esta Ley."
+  },
+  {
+   "orden": 77,
+   "clave": "72",
+   "etiqueta": "Artículo 72",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo V De los Certificados de Energías Limpias"
+   ],
+   "texto": "Artículo 72.- El Registro se llevará mediante la asignación de folios electrónicos por solicitante en los que constarán los asientos relativos a la inscripción, suspensión, cancelación y demás actos de carácter registral, relativos a la solicitante y al producto, equipo y/o edificación objeto de la certificación."
+  },
+  {
+   "orden": 78,
+   "clave": "73",
+   "etiqueta": "Artículo 73",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo V De los Certificados de Energías Limpias"
+   ],
+   "texto": "Artículo 73.- La Comisión podrá efectuar rectificaciones a los registros y anotaciones por causas de error, ya sea de oficio o a petición de parte interesada.\nLos errores materiales deberán corregirse con un nuevo asiento registral sin eliminar del Registro el asiento que contenga el error."
+  },
+  {
+   "orden": 79,
+   "clave": "74",
+   "etiqueta": "Artículo 74",
+   "ruta": [
+    "TÍTULO CUARTO Del financiamiento y la inversión para la transición energética",
+    "Capítulo V De los Certificados de Energías Limpias"
+   ],
+   "texto": "Artículo 74.- La Comisión emitirá las disposiciones relacionadas con la operación del Registro de Certificados."
+  },
+  {
+   "orden": 80,
+   "clave": "75",
+   "etiqueta": "Artículo 75",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo I De la Investigación"
+   ],
+   "texto": "Artículo 75.- La Secretaría y el Instituto, con la participación que corresponda al Consejo Nacional de Ciencia y Tecnología, promoverán la investigación aplicada y el desarrollo de tecnologías para el cumplimiento de las Metas en materia de Energías Limpias y Eficiencia Energética a partir de, entre otros, los siguientes criterios:\nI.\nEl fomento al desarrollo de nuevos conocimientos, materiales, técnicas, procesos, servicios y tecnologías en materia de Energías Limpias y Eficiencia Energética;\nII.\nLa viabilidad técnica, ambiental, financiera, administrativa, social y de ejecución de los proyectos de Energías Limpias para el cumplimiento efectivo de las Metas, y\nIII.\nLa vinculación de los resultados de la investigación científica, la innovación y el desarrollo tecnológico con el desarrollo económico y social tanto nacional como regional, poniendo especial atención en la generación de empleos."
+  },
+  {
+   "orden": 81,
+   "clave": "76",
+   "etiqueta": "Artículo 76",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo I De la Investigación"
+   ],
+   "texto": "Artículo 76.- La Secretaría, en coordinación con el Instituto y con la opinión del Consejo Nacional de Ciencia y Tecnología y del Consejo, elaborará una Hoja de Ruta para la formación de capacidades técnicas, de administración de la energía, elaboración e implementación de políticas públicas en energía, y otras disciplinas necesarias para suplir las necesidades de capital humano de la Industria Eléctrica."
+  },
+  {
+   "orden": 82,
+   "clave": "77",
+   "etiqueta": "Artículo 77",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo I De la Investigación"
+   ],
+   "texto": "Artículo 77.- La Secretaría, con la participación que corresponda al Consejo Nacional de Ciencia y Tecnología, creará los Centros Mexicanos de Innovación en Energías Limpias con el objetivo de\npromover la investigación y el desarrollo de las tecnologías de Energías Limpias, así como construir capacidades en estas materias en la comunidad científica del país.\nLos Centros Mexicanos de Innovación en Energías Limpias dependerán de consorcios creados para tal fin, los cuales serán integrados por Instituciones de educación superior, centros de investigación públicos y privados, y empresas públicas y privadas integrantes de la Industria Eléctrica. Los detalles de su integración y operación serán definidos por la Secretaría.\nLos Centros Mexicanos de Innovación en Energías Limpias dispondrán para su operación de recursos provenientes de los fondos constituidos en la Administración Pública Federal y de otras fuentes de financiamiento públicas y privadas, de procedencia nacional o internacional.\nLos Centros Mexicanos de Innovación en Energías Limpias serán responsables de desarrollar, proponer y, en su caso, implementar, Hojas de Ruta para desarrollar capacidades nacionales en el ámbito de la investigación, desarrollo tecnológico e innovación que permitan el óptimo aprovechamiento de las fuentes de Energías Limpias disponibles en el territorio nacional."
+  },
+  {
+   "orden": 83,
+   "clave": "78",
+   "etiqueta": "Artículo 78",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo II Del Instituto Nacional de Electricidad y Energías Limpias"
+   ],
+   "texto": "Artículo 78.- El Instituto Nacional de Electricidad y Energías Limpias es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio y autonomía de gestión, sectorizado en la Secretaría, de conformidad con las disposiciones aplicables de la Ley Federal de Entidades Paraestatales.\nLa administración del Instituto estará a cargo de una Junta Directiva y de un Director General nombrado por el Titular del Ejecutivo Federal a propuesta del Secretario de Energía.\nLos consejeros y los trabajadores del Instituto serán considerados servidores públicos de la Administración Pública Federal y no deberán tener conflicto de interés, conforme a lo que se establezca en su normatividad."
+  },
+  {
+   "orden": 84,
+   "clave": "79",
+   "etiqueta": "Artículo 79",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo II Del Instituto Nacional de Electricidad y Energías Limpias"
+   ],
+   "texto": "Artículo 79.- El Instituto tiene por objeto:\nI.\nCoordinar y realizar estudios y proyectos de investigación científica o tecnológica con instituciones académicas, de investigación, públicas o privadas, nacionales o extranjeras en materia de energía, energía eléctrica, Energías Limpias, Energías Renovables, Eficiencia Energética, emisiones contaminantes generadas en la Industria Eléctrica, sustentabilidad, sistemas de transmisión, distribución y almacenamiento de energía, y sistemas asociados con la operación del sistema;\nII.\nBrindar apoyo técnico y científico a la Secretaría para formular, conducir y evaluar la política nacional en materia de energía eléctrica en general y Energías Limpias en particular;\nIII.\nBrindar apoyo técnico y científico, en las materias de su objeto, a las dependencias, organismos y Empresas Productivas del Estado y al sector privado;\nIV.\nParticipar en el ámbito de sus capacidades y competencias en el cumplimiento de las Metas en materia de Energías Limpias y Eficiencia Energética;\nV.\nPromover y difundir criterios, metodologías y tecnologías para la prevención de la contaminación en la Industria Eléctrica;\nVI.\nContribuir a la formación de especialistas, e investigadores en las áreas de su especialidad, e implantación de cursos de especialización y actualización de conocimientos en ciencia, tecnología y administración de la Industria Eléctrica e industrias afines;\nVII.\nRealizar análisis de prospectiva sectorial, y colaborar en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con la energía eléctrica en general y las Energías Limpias, la Eficiencia Energética y la reducción de emisiones contaminantes;\nVIII.\nEvaluar el cumplimiento de los objetivos establecidos en la presente Ley, así como las metas y acciones contenidas en los instrumentos de planeación a los que se refiere este ordenamiento;\nIX.\nEmitir recomendaciones sobre las políticas y acciones en materia de energía en general, de Energías Limpias y de reducción de emisiones contaminantes de la Industria Eléctrica;\nX.\nCoadyuvar con la Secretaría en la elaboración de los instrumentos de planeación contenidos en la presente Ley;\nXI.\nApoyar en la elaboración y actualización del Inventario;\nXII.\nBrindar asesoría a los integrantes de la Industria Eléctrica;\nXIII.\nColaborar en la elaboración del Atlas Nacional de Zonas con Alto Potencial de Energías Limpias;\nXIV.\nPromover, con la participación del Consejo Nacional de Ciencia y Tecnología, la investigación aplicada y el desarrollo tecnológico para la generación de electricidad con fuentes de energía limpias;\nXV.\nContribuir a la difusión e implementación, dentro de la Industria Eléctrica e industrias afines, de aquellas tecnologías relacionadas con la generación, transmisión, distribución y uso eficiente de energía eléctrica que mejor se adapten al desarrollo económico del país;\nXVI.\nMantener relaciones con institutos nacionales e internacionales en materia de Energías Limpias y Eficiencia Energética;\nXVII.\nPatentar y licenciar las tecnologías desarrolladas y los resultados de la investigación que obtenga y que resulten procedentes, y\nXVIII.\nLas demás que le señale su regulación orgánica."
+  },
+  {
+   "orden": 85,
+   "clave": "80",
+   "etiqueta": "Artículo 80",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo II Del Instituto Nacional de Electricidad y Energías Limpias"
+   ],
+   "texto": "Artículo 80.- Los órganos de gobierno del Instituto son los siguientes:\nI.\nLa Junta Directiva, y\nII.\nEl Director General."
+  },
+  {
+   "orden": 86,
+   "clave": "81",
+   "etiqueta": "Artículo 81",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo II Del Instituto Nacional de Electricidad y Energías Limpias"
+   ],
+   "texto": "Artículo 81.- La Junta Directiva se integrará de la siguiente forma:\nI.\nUn Subsecretario que designe el titular de la Secretaría, quien la presidirá;\nII.\nUn consejero designado por la CRE;\nIII.\nUn consejero designado por el CENACE;\nIV.\nUn consejero designado por la Secretaría de Hacienda y Crédito Público;\nV.\nUn consejero designado por el Consejo Nacional de Ciencia y Tecnología;\nVI.\nTres representantes de Universidades o centros de investigación, seleccionados mediante proceso de convocatoria, y\nVII.\nDos consejeros designados por las asociaciones de empresas del sector de las energías limpias, seleccionados mediante proceso de convocatoria pública.\nLos acuerdos, opiniones o recomendaciones de la Junta Directiva requerirán aprobación por mayoría simple de los miembros presentes. En caso de empate, el presidente tendrá voto de calidad. El quórum legal para las reuniones del consejo se integrará con la mitad más uno de sus integrantes."
+  },
+  {
+   "orden": 87,
+   "clave": "82",
+   "etiqueta": "Artículo 82",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo II Del Instituto Nacional de Electricidad y Energías Limpias"
+   ],
+   "texto": "Artículo 82.- El presupuesto del Instituto para su gasto corriente provendrá del Presupuesto de Egresos de la Federación, de sus ingresos por servicios y de otras fuentes públicas o privadas. El Instituto también podrá recibir recursos para aplicaciones específicas procedentes de fondos para la Transición Energética y el Aprovechamiento sustentable de la energía y de fondos públicos y privados, ya sea de procedencia nacional o internacional."
+  },
+  {
+   "orden": 88,
+   "clave": "83",
+   "etiqueta": "Artículo 83",
+   "ruta": [
+    "TÍTULO QUINTO De la Investigación Científica, la Innovación y el Desarrollo Tecnológico",
+    "Capítulo II Del Instituto Nacional de Electricidad y Energías Limpias"
+   ],
+   "texto": "Artículo 83.- El resto de las disposiciones que definen la naturaleza, constitución, y operación, del Instituto, serán definidas en su regulación orgánica."
+  },
+  {
+   "orden": 89,
+   "clave": "84",
+   "etiqueta": "Artículo 84",
+   "ruta": [
+    "TÍTULO SEXTO Del Desarrollo Industrial · Capítulo Único"
+   ],
+   "texto": "Artículo 84.- La Secretaría de Economía, en coordinación con la Secretaría, con base en el cumplimiento de las obligaciones establecidas en esta Ley, diseñará e instrumentará una Hoja de Ruta para promover el desarrollo de Cadenas de Valor de las Energías Limpias, en condiciones de sustentabilidad económica y atendiendo a las condiciones presupuestales aprobadas."
+  },
+  {
+   "orden": 90,
+   "clave": "85",
+   "etiqueta": "Artículo 85",
+   "ruta": [
+    "TÍTULO SEXTO Del Desarrollo Industrial · Capítulo Único"
+   ],
+   "texto": "Artículo 85.- La Secretaría de Economía, en coordinación con la Secretaría, elaborará un estudio para determinar las necesidades y el potencial de la Industria Eléctrica en materia de Energías Limpias cada vez que se elabore o actualice una nueva Estrategia o Programa."
+  },
+  {
+   "orden": 91,
+   "clave": "86",
+   "etiqueta": "Artículo 86",
+   "ruta": [
+    "TÍTULO SEXTO Del Desarrollo Industrial · Capítulo Único"
+   ],
+   "texto": "Artículo 86.- Sobre la base de la información generada en el estudio y con el objetivo del cumplimiento de las Metas establecido en esta Ley y siempre bajo condiciones de sustentabilidad económica y atendiendo a las condiciones presupuestales aprobadas, la Hoja de Ruta contará con los siguientes elementos:\nI.\nInstrumentos específicos para la promoción del desarrollo de cadenas de valor nacionales de las Energías Limpias;\nII.\nApoyos directos a pequeñas y medianas empresas para el desarrollo de cadenas de valor, utilizando los mecanismos de apoyo existentes a cargo de la Secretaría de Economía, y\nIII.\nPromover la inversión en desarrollo tecnológico e innovación en materia de Energías Limpias, de acuerdo con las competencias de la Secretaría, la Secretaría de Economía y otras dependencias de la Administración Pública Federal."
+  },
+  {
+   "orden": 92,
+   "clave": "87",
+   "etiqueta": "Artículo 87",
+   "ruta": [
+    "TÍTULO SÉPTIMO De los Órganos de Participación · Capítulo Único Del Consejo Consultivo para la Transición Energética"
+   ],
+   "texto": "Artículo 87.- El Consejo será el órgano permanente de consulta y participación ciudadana cuyo objeto es opinar y asesorar a la Secretaría sobre las acciones necesarias para dar cumplimiento a las Metas en materia de Energías Limpias y Eficiencia Energética, así como los contenidos de los diversos instrumentos de planeación, y de otros mecanismos y acciones establecidas en la presente Ley."
+  },
+  {
+   "orden": 93,
+   "clave": "88",
+   "etiqueta": "Artículo 88",
+   "ruta": [
+    "TÍTULO SÉPTIMO De los Órganos de Participación · Capítulo Único Del Consejo Consultivo para la Transición Energética"
+   ],
+   "texto": "Artículo 88.- El Consejo será presidido por el titular de la Secretaría y se integrará por:\nI.\nUn secretario técnico;\nII.\nLos Subsecretarios de la Secretaría;\nIII.\nUn representante de las siguientes secretarías: Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Comunicaciones y Transportes; Desarrollo Agrario, Territorial y Urbano;\nEconomía; Hacienda y Crédito Público; Medio Ambiente y Recursos Naturales y Salud;\nIV.\nUn representante de la CRE;\nV.\nUn representante de la CONUEE;\nVI.\nUn representante del CENACE, y\nVII.\nTres representantes de la industria energética, dos de instituciones académicas, dos de organismos no gubernamentales, quienes serán propuestos en los términos de las reglas que al efecto se emitan y designados por el presidente del Consejo.\nLa Secretaría, con la opinión del CENACE, la CRE y la CONUEE, elaborará y emitirá las reglas de operación del Consejo."
+  },
+  {
+   "orden": 94,
+   "clave": "89",
+   "etiqueta": "Artículo 89",
+   "ruta": [
+    "TÍTULO SÉPTIMO De los Órganos de Participación · Capítulo Único Del Consejo Consultivo para la Transición Energética"
+   ],
+   "texto": "Artículo 89.- Los miembros representantes de las dependencias y entidades de la Administración Pública Federal tendrán al menos el nivel de Director General y podrán designar a un suplente que deberá tener, al menos, nivel de Director General Adjunto o equivalente."
+  },
+  {
+   "orden": 95,
+   "clave": "90",
+   "etiqueta": "Artículo 90",
+   "ruta": [
+    "TÍTULO SÉPTIMO De los Órganos de Participación · Capítulo Único Del Consejo Consultivo para la Transición Energética"
+   ],
+   "texto": "Artículo 90.- Por instrucciones de su Presidente se podrá invitar a las sesiones del Consejo a otras autoridades federales, de las entidades federativas y municipales, así como a personas físicas y organizaciones relacionadas con la transición energética, lo anterior, cuando se estime conveniente por la naturaleza de los asuntos a tratar. Los invitados participarán con voz pero sin voto."
+  },
+  {
+   "orden": 96,
+   "clave": "91",
+   "etiqueta": "Artículo 91",
+   "ruta": [
+    "TÍTULO SÉPTIMO De los Órganos de Participación · Capítulo Único Del Consejo Consultivo para la Transición Energética"
+   ],
+   "texto": "Artículo 91.- El Consejo aprobará, a propuesta de su Presidente, las reglas para su funcionamiento, mismas que deberán establecer, cuando menos, los aspectos siguientes:\nI.\nEl procedimiento para convocar a las sesiones, tanto ordinarias como extraordinarias, y para dejar constancia de los acuerdos tomados;\nII.\nEl procedimiento para asegurar la participación de personas físicas o morales de los sectores vinculados a las materias objeto de la Ley, y\nIII.\nLos mecanismos para la conformación de comisiones y grupos de trabajo sobre temas específicos, cuando así se considere necesario."
+  },
+  {
+   "orden": 97,
+   "clave": "92",
+   "etiqueta": "Artículo 92",
+   "ruta": [
+    "TÍTULO SÉPTIMO De los Órganos de Participación · Capítulo Único Del Consejo Consultivo para la Transición Energética"
+   ],
+   "texto": "Artículo 92.- El Consejo sesionará en forma ordinaria dos veces al año, por lo menos, o cada vez que la Secretaría requiera su opinión, previa convocatoria que haga el secretario técnico por instrucciones del presidente del Consejo."
+  },
+  {
+   "orden": 98,
+   "clave": "93",
+   "etiqueta": "Artículo 93",
+   "ruta": [
+    "TÍTULO SÉPTIMO De los Órganos de Participación · Capítulo Único Del Consejo Consultivo para la Transición Energética"
+   ],
+   "texto": "Artículo 93.- Los acuerdos, opiniones o recomendaciones del Consejo requerirán aprobación por mayoría simple de los miembros presentes. En caso de empate, el presidente tendrá voto de calidad. El quórum legal para las reuniones del consejo se integrará con la mitad más uno de sus integrantes."
+  },
+  {
+   "orden": 99,
+   "clave": "94",
+   "etiqueta": "Artículo 94",
+   "ruta": [
+    "TÍTULO SÉPTIMO De los Órganos de Participación · Capítulo Único Del Consejo Consultivo para la Transición Energética"
+   ],
+   "texto": "Artículo 94.- El Consejo tendrá las funciones siguientes:\nI.\nAsesorar a la Secretaría en los asuntos de su competencia conforme a la presente Ley;\nII.\nRecomendar a la Secretaría realizar estudios y adoptar políticas, acciones y metas tendientes a cumplir con las obligaciones establecidas en la presente Ley;\nIII.\nPromover la participación social, informada y responsable, a través de las consultas públicas que determine en coordinación con la Secretaría;\nIV.\nOpinar sobre los criterios para la determinación de las zonas con alto potencial de Energías Limpias;\nV.\nEmitir opiniones y recomendaciones a la Secretaría con objeto de coadyuvar en la elaboración de la Estrategia y los Programas a que se refiere esta Ley;\nVI.\nDar seguimiento a las políticas, acciones y Metas previstas en la presente Ley, evaluaciones de la Estrategia, el Programa y el PRONASE;\nVII.\nCoadyuvar con la Secretaría en la realización de una consulta anual en la cual participarán los integrantes del sector eléctrico, usuarios del suministro eléctrico, el sector académico y la sociedad civil sobre los obstáculos para el cumplimiento de las Metas;\nVIII.\nIntegrar grupos de trabajo especializados que coadyuven al cumplimiento de las atribuciones de la Secretaría y de las funciones del Consejo;\nIX.\nIntegrar, publicar y presentar a la Secretaría, a través de su Secretario Técnico, el informe anual de sus actividades, a más tardar en el mes de febrero de cada año, y\nX.\nElaborar y aprobar la regulación para su organización y funcionamiento."
+  },
+  {
+   "orden": 100,
+   "clave": "95",
+   "etiqueta": "Artículo 95",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo I De la Transparencia y Acceso a la Información"
+   ],
+   "texto": "Artículo 95.- La Secretaría, en coordinación con el Instituto, deberá elaborar y desarrollar una página de Internet que incluya los reportes y documentos requeridos en la presente Ley."
+  },
+  {
+   "orden": 101,
+   "clave": "96",
+   "etiqueta": "Artículo 96",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo I De la Transparencia y Acceso a la Información"
+   ],
+   "texto": "Artículo 96.- Los recursos federales que se transfieran a las Entidades Federativas, Municipios y particulares a través de los convenios de coordinación o de proyectos aprobados por los fondos, se sujetarán a las disposiciones federales en materia de transparencia y evaluación de los recursos públicos."
+  },
+  {
+   "orden": 102,
+   "clave": "97",
+   "etiqueta": "Artículo 97",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo I De la Transparencia y Acceso a la Información"
+   ],
+   "texto": "Artículo 97.- Las autoridades a que se refiere el artículo anterior denegarán la entrega de información cuando:\nI.\nSe trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución, o\nII.\nSe trate de información aportada por terceros cuando los mismos no estén obligados por disposición legal a proporcionarla."
+  },
+  {
+   "orden": 103,
+   "clave": "98",
+   "etiqueta": "Artículo 98",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo II Del Sistema de Información de Transición Energética"
+   ],
+   "texto": "Artículo 98.- Se crea el Sistema Nacional de Información Energética en el marco del Sistema Nacional de Información Estadística y Geográfica, el cual tiene por objeto registrar, organizar, actualizar y difundir la información en materia de aprovechamiento sustentable de la energía."
+  },
+  {
+   "orden": 104,
+   "clave": "99",
+   "etiqueta": "Artículo 99",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo II Del Sistema de Información de Transición Energética"
+   ],
+   "texto": "Artículo 99.- Para la operación e implementación del Sistema se deberán observar las normas, bases y principios que el Instituto Nacional de Estadística y Geografía haya emitido para la producción, integración y difusión de la información, de acuerdo con lo establecido en la Ley de la materia."
+  },
+  {
+   "orden": 105,
+   "clave": "100",
+   "etiqueta": "Artículo 100",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo II Del Sistema de Información de Transición Energética"
+   ],
+   "texto": "Artículo 100.- Para la integración y actualización del Sistema, las dependencias y entidades de la Administración Pública Federal, así como los Usuarios de Patrón de Alto Consumo, deberán proporcionar al Sistema la siguiente información sobre la utilización energética obtenida en el año inmediato anterior:\nI.\nMedidas implementadas de Eficiencia Energética, y\nII.\nResultados económicos y energéticos de las medidas de conservación de energía derivadas de la fracción anterior."
+  },
+  {
+   "orden": 106,
+   "clave": "101",
+   "etiqueta": "Artículo 101",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo II Del Sistema de Información de Transición Energética"
+   ],
+   "texto": "Artículo 101.- Las disposiciones que emita la Secretaría establecerán, a propuesta de la CONUEE, los criterios para determinar cuándo un usuario cuenta con un patrón de alto consumo de energía, la forma y periodicidad en las que dichos usuarios y las dependencias y entidades de la Administración Pública Federal deberán entregar la información referida en el artículo anterior, así como aquella otra información que deba proporcionarse a la Secretaría."
+  },
+  {
+   "orden": 107,
+   "clave": "102",
+   "etiqueta": "Artículo 102",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo II Del Sistema de Información de Transición Energética"
+   ],
+   "texto": "Artículo 102.- Las dependencias y entidades de la Administración Pública Federal que cuenten con registros que contengan la información a que hace referencia el presente Capítulo, deberán interconectar dichos registros con el Sistema, conforme a los lineamientos que para tal efecto expida el Instituto Nacional de Estadística y Geografía."
+  },
+  {
+   "orden": 108,
+   "clave": "103",
+   "etiqueta": "Artículo 103",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo III De la Información en Materia de Eficiencia Energética"
+   ],
+   "texto": "Artículo 103.- La CONUEE elaborará y publicará un catálogo de los equipos y aparatos que deberán incluir de forma clara, sencilla y visible para el público la información sobre su consumo energético. Este catálogo incluirá a los equipos y aparatos cuyo consumo de energía y número de unidades comercializadas sean significativas. Esta información deberá presentarse en forma de etiquetas de eficiencia energética adheridas a los productos o empaques de los mismos, a fin de ayudar a los consumidores a tomar decisiones de compra entre las distintas opciones que existan en el mercado.\nLas disposiciones reglamentarias establecerán el detalle de la información sobre el consumo energético que deberá incluirse en los equipos y aparatos referidos en este artículo, así como la forma en la que ésta se deberá incluir."
+  },
+  {
+   "orden": 109,
+   "clave": "104",
+   "etiqueta": "Artículo 104",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo III De la Información en Materia de Eficiencia Energética"
+   ],
+   "texto": "Artículo 104.- Los Suministradores deberán incluir en sus recibos de pago o facturas, leyendas para incentivar el uso eficiente de la energía y sus beneficios en la preservación del medio ambiente. Las leyendas deberán ser aprobadas por la CONUEE."
+  },
+  {
+   "orden": 110,
+   "clave": "105",
+   "etiqueta": "Artículo 105",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo III De la Información en Materia de Eficiencia Energética"
+   ],
+   "texto": "Artículo 105.- Quedan exentos de lo establecido en el artículo 103 los equipos y aparatos que estén comprendidos en el campo de aplicación de una Norma Oficial Mexicana de eficiencia energética vigente y que cuenten con el certificado correspondiente."
+  },
+  {
+   "orden": 111,
+   "clave": "106",
+   "etiqueta": "Artículo 106",
+   "ruta": [
+    "TÍTULO OCTAVO De la Transparencia, Rendición de Cuentas e Información",
+    "Capítulo III De la Información en Materia de Eficiencia Energética"
+   ],
+   "texto": "Artículo 106.- Cada tres años, la CONUEE debe realizar estudios sobre la eficacia de las Normas Oficiales Mexicanas, programas de información y Etiquetado en Materia de Eficiencia Energética.\nEstos estudios podrán realizarse por terceros independientes o a través de mecanismos internos que permitan la imparcialidad del análisis.\nA partir de las conclusiones de dichos estudios, la CONUEE deberá realizar las modificaciones pertinentes para mejorar su eficacia e impacto entre los consumidores, previa autorización de la Secretaría."
+  },
+  {
+   "orden": 112,
+   "clave": "107",
+   "etiqueta": "Artículo 107",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo I Del Reconocimiento en Excelencia en Eficiencia Energética"
+   ],
+   "texto": "Artículo 107.- La Excelencia en Eficiencia Energética es un proceso voluntario de certificación y reconocimiento para identificar y promover productos, equipos y edificaciones diseñadas y acondicionadas para hacer un uso sustentable y eficiente de la energía.\nLa Excelencia en Eficiencia Energética consiste en el etiquetado voluntario de los productos y edificaciones que cumplan con los más altos estándares de eficiencia energética."
+  },
+  {
+   "orden": 113,
+   "clave": "108",
+   "etiqueta": "Artículo 108",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo I Del Reconocimiento en Excelencia en Eficiencia Energética"
+   ],
+   "texto": "Artículo 108.- La certificación y reconocimiento de Excelencia en Eficiencia Energética estará a cargo de la Secretaría, con el apoyo técnico de la CONUEE. Para su evaluación y otorgamiento, la CONUEE podrá solicitar el apoyo de la SEMARNAT, Secretaría de Economía y de la SEDATU, a través de la Secretaría."
+  },
+  {
+   "orden": 114,
+   "clave": "109",
+   "etiqueta": "Artículo 109",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo I Del Reconocimiento en Excelencia en Eficiencia Energética"
+   ],
+   "texto": "Artículo 109.- Los interesados en recibir el reconocimiento de Excelencia en Eficiencia Energética deberán cumplir los requisitos que, para tal efecto, se establezcan en las disposiciones reglamentarias aplicables; los cuales incluirán, entre otros, la precalificación que deberá realizar un profesional independiente."
+  },
+  {
+   "orden": 115,
+   "clave": "110",
+   "etiqueta": "Artículo 110",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo I Del Reconocimiento en Excelencia en Eficiencia Energética"
+   ],
+   "texto": "Artículo 110.- La Secretaría integrará, administrará y actualizará el catálogo de productos y edificaciones que reciban el reconocimiento de Excelencia en Eficiencia Energética, con base en la información proporcionada por la CONUEE."
+  },
+  {
+   "orden": 116,
+   "clave": "111",
+   "etiqueta": "Artículo 111",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo II De los Acuerdos Voluntarios"
+   ],
+   "texto": "Artículo 111.- La Secretaría, a través de la CONUEE, podrá celebrar acuerdos voluntarios con participantes de los sectores productivos que tengan consumos significativos de energía por cada unidad de producción física, a fin de reducir la intensidad energética en sus actividades."
+  },
+  {
+   "orden": 117,
+   "clave": "112",
+   "etiqueta": "Artículo 112",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo II De los Acuerdos Voluntarios"
+   ],
+   "texto": "Artículo 112.- Los acuerdos voluntarios deben especificar la meta de reducción en la intensidad energética que se comprometen a implementar los participantes durante la vigencia del acuerdo.\nEsta meta será establecida y actualizada por la Secretaría con el apoyo técnico de la CONUEE, en colaboración con la SEMARNAT, cada tres años y será tomada como referencia mínima en los acuerdos voluntarios que se celebren."
+  },
+  {
+   "orden": 118,
+   "clave": "113",
+   "etiqueta": "Artículo 113",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo II De los Acuerdos Voluntarios"
+   ],
+   "texto": "Artículo 113.- Los requisitos y procedimientos para la celebración de los acuerdos voluntarios a que hace referencia el artículo 111 serán establecidos en el Reglamento de esta Ley. En ese mismo ordenamiento se establecerán los mecanismos y procedimientos para realizar la verificación de su cumplimiento."
+  },
+  {
+   "orden": 119,
+   "clave": "114",
+   "etiqueta": "Artículo 114",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo II De los Acuerdos Voluntarios"
+   ],
+   "texto": "Artículo 114.- La Secretaría, en colaboración con otras entidades de la administración pública, deberá desarrollar, coordinar e implementar diversos mecanismos de reconocimiento y comunicación de los logros obtenidos por los participantes de los acuerdos voluntarios.\nLa CONUEE deberá proponer a la Secretaría mecanismos de reconocimiento y comunicación de los logros obtenidos por los participantes de los acuerdos voluntarios."
+  },
+  {
+   "orden": 120,
+   "clave": "115",
+   "etiqueta": "Artículo 115",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo II De los Acuerdos Voluntarios"
+   ],
+   "texto": "Artículo 115.- Cada dos años, la CONUEE debe elaborar y difundir, a más tardar el 31 de julio, un reporte de evaluación sobre los Acuerdos Voluntarios. Este reporte deberá estimar los ahorros generados por las medidas de reducción en la intensidad energética derivadas de los acuerdos celebrados.\nPara la estimación de los ahorros a que se refiere el párrafo anterior, la CONUEE podrá apoyarse en expertos independientes."
+  },
+  {
+   "orden": 121,
+   "clave": "116",
+   "etiqueta": "Artículo 116",
+   "ruta": [
+    "TÍTULO NOVENO De la Participación Voluntaria",
+    "Capítulo II De los Acuerdos Voluntarios"
+   ],
+   "texto": "Artículo 116.- La Secretaría, en colaboración con la Secretaría de Economía y el apoyo técnico de la CONUEE, deberá diseñar y establecer un programa para asesorar y apoyar a las micros, pequeñas y medianas empresas en la implementación de medidas de eficiencia energética, informar sobre los beneficios que esta conlleva, e identificar las opciones de financiamiento para que estas realicen mejoras de eficiencia energética."
+  },
+  {
+   "orden": 122,
+   "clave": "117",
+   "etiqueta": "Artículo 117",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo I De la Inspección y Vigilancia"
+   ],
+   "texto": "Artículo 117.- La CRE y la Procuraduría Federal de Protección al Ambiente, en el ámbito de sus respectivas competencias, realizarán actos de inspección y vigilancia a los integrantes de la Industria\nEléctrica, de acuerdo con las disposiciones de regulación y cumplimiento de las obligaciones establecidas en la presente Ley."
+  },
+  {
+   "orden": 123,
+   "clave": "118",
+   "etiqueta": "Artículo 118",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo I De la Inspección y Vigilancia"
+   ],
+   "texto": "Artículo 118.- La CONUEE podrá, de manera aleatoria o cuando lo considere necesario, supervisar la ejecución de los procesos voluntarios que desarrollen los particulares para mejorar su Eficiencia Energética y ordenar visitas de verificación a los Usuarios de Patrón de Alto Consumo de energía y a la Administración Pública Federal."
+  },
+  {
+   "orden": 124,
+   "clave": "119",
+   "etiqueta": "Artículo 119",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo II De las Sanciones"
+   ],
+   "texto": "Artículo 119.- Cuando por negligencia o causa inexcusable no se lleven a cabo las acciones necesarias para el establecimiento de las Metas o no se reporte semestralmente su avance, de acuerdo con lo que señalen las autoridades responsables en la materia, los servidores públicos que incurran en dicho incumplimiento serán sancionados en términos de lo dispuesto en los artículos 8 y 13 y demás disposiciones aplicables de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos."
+  },
+  {
+   "orden": 125,
+   "clave": "120",
+   "etiqueta": "Artículo 120",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo II De las Sanciones"
+   ],
+   "texto": "Artículo 120.- La CONUEE sancionará con multa de cien a mil veces el salario mínimo a los usuarios con un patrón de alto consumo de energía que no le proporcionen la información a que se refiere esta Ley o que proporcionen información falsa o incompleta, sin perjuicio de las responsabilidades civiles, penales o fiscales en que dichos usuarios incurran en adición a estas.\nPara la sustanciación del procedimiento por infracciones a la Ley a que se refiere el presente artículo, la CONUEE aplicará lo dispuesto en la Ley Federal de Procedimiento Administrativo."
+  },
+  {
+   "orden": 126,
+   "clave": "121",
+   "etiqueta": "Artículo 121",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo II De las Sanciones"
+   ],
+   "texto": "Artículo 121.- La Procuraduría Federal del Consumidor sancionará con multa las conductas u omisiones siguientes:\nI.\nDe cien a diez mil veces el salario mínimo a la persona que fabrique, importe, distribuya o comercialice los equipos o aparatos a que hace referencia el presente ordenamiento, que no incluyan la información acerca del consumo energético, o cuando la incluyan de forma diferente a la que establezcan los reglamentos o disposiciones emanados de esta Ley, siempre que no implique engaño al consumidor o no constituya una práctica que pueda inducir a error;\nII.\nDe tres mil a catorce mil veces el salario mínimo a la persona que incluya en los aparatos o equipos a que hace referencia la presente Ley, información falsa o incompleta que implique engaño al consumidor o constituya una práctica que pueda inducir a error, y\nIII.\nDe cinco mil a veinte mil veces el salario mínimo a la persona física o moral que importe, distribuya o comercialice equipos o aparatos a que hace referencia el presente artículo, que incluyan información falsa o incompleta que implique engaño al consumidor o constituya una práctica que pueda inducir a error.\nPara la sustanciación del procedimiento por infracciones a la Ley a que se refiere el presente precepto, se aplicará lo dispuesto en la Ley Federal de Protección al Consumidor. Estas sanciones se impondrán sin perjuicio de las que procedan civil, penal o fiscalmente."
+  },
+  {
+   "orden": 127,
+   "clave": "122",
+   "etiqueta": "Artículo 122",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo II De las Sanciones"
+   ],
+   "texto": "Artículo 122.- La Comisión Reguladora de Energía sancionará con multa de veinticinco a setenta y cinco mil veces el salario mínimo al suministrador de electricidad o distribuidor de gas natural que niegue\nel servicio de cobranza derivado de los convenios establecidos a los que se refiere el artículo 59 de esta Ley."
+  },
+  {
+   "orden": 128,
+   "clave": "123",
+   "etiqueta": "Artículo 123",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo II De las Sanciones"
+   ],
+   "texto": "Artículo 123.- Para efectos del presente Capítulo, se entenderá por salario mínimo, el salario mínimo general diario vigente en el Distrito Federal al momento de imponerse la sanción correspondiente.\nEn caso de reincidencia se duplicará la multa que previamente se haya impuesto.\nSe entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha en que se impuso la infracción precedente, siempre que esta no hubiese sido declarada inválida por autoridad competente."
+  },
+  {
+   "orden": 129,
+   "clave": "124",
+   "etiqueta": "Artículo 124",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo II De las Sanciones"
+   ],
+   "texto": "Artículo 124.- En la imposición de multas, se deberá considerar la gravedad de la infracción, el daño causado, los indicios de intencionalidad, la duración de la conducta y la reincidencia o antecedentes del infractor, así como su capacidad económica."
+  },
+  {
+   "orden": 130,
+   "clave": "125",
+   "etiqueta": "Artículo 125",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo II De las Sanciones"
+   ],
+   "texto": "Artículo 125.- Los ingresos percibidos por la imposición de las sanciones establecidas en la presente Ley se aportarán a los fondos que se constituyan para la  Transición Energética y el Aprovechamiento sustentable de la energía."
+  },
+  {
+   "orden": 131,
+   "clave": "126",
+   "etiqueta": "Artículo 126",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo III De la Responsabilidad de los Servidores Públicos, Usuarios u Otros"
+   ],
+   "texto": "Artículo 126.- Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de esta Ley, serán acreedores a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones de acuerdo con lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás legislación que resulte aplicable, sin perjuicio de la responsabilidad civil y penal a que haya lugar."
+  },
+  {
+   "orden": 132,
+   "clave": "127",
+   "etiqueta": "Artículo 127",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo III De la Responsabilidad de los Servidores Públicos, Usuarios u Otros"
+   ],
+   "texto": "Artículo 127.- Los Usuarios de Patrón de Alto Consumo de energía, que cometan las faltas señaladas en la Ley, serán sancionados por la CONUEE conforme a lo establecido en el presente ordenamiento legal.\nPara efectos de lo señalado en el párrafo anterior, la CONUEE observará lo dispuesto por esta Ley, según corresponda, así como lo previsto por la Ley Federal de Procedimiento Administrativo."
+  },
+  {
+   "orden": 133,
+   "clave": "128",
+   "etiqueta": "Artículo 128",
+   "ruta": [
+    "TÍTULO DÉCIMO De la Inspección, Vigilancia y Sanciones",
+    "Capítulo III De la Responsabilidad de los Servidores Públicos, Usuarios u Otros"
+   ],
+   "texto": "Artículo 128.- Las sanciones a fabricantes, importadores, distribuidores y comercializadores que cometan faltas administrativas en relación con la información sobre el consumo energético de equipos y aparatos, serán aplicadas de conformidad con la presente Ley, la Ley Federal de Protección al Consumidor y las demás disposiciones aplicables."
+  },
+  {
+   "orden": 134,
+   "clave": "transitorio primero",
+   "etiqueta": "Transitorio primero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 135,
+   "clave": "transitorio segundo",
+   "etiqueta": "Transitorio segundo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Segundo.- Se abrogan la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética, la Ley para el Aprovechamiento Sustentable de la Energía y las demás disposiciones que se opongan al presente ordenamiento. Las referencias hechas a la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética y a la Ley\npara el Aprovechamiento Sustentable de la Energía en otros ordenamientos jurídicos deberán entenderse como realizadas a la Ley materia de este Decreto."
+  },
+  {
+   "orden": 136,
+   "clave": "transitorio tercero",
+   "etiqueta": "Transitorio tercero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Tercero.- La Secretaría de Energía fijará como meta una participación mínima de energías limpias en la generación de energía eléctrica del 25 por ciento para el año 2018, del 30 por ciento para 2021 y del 35 por ciento para 2024."
+  },
+  {
+   "orden": 137,
+   "clave": "transitorio cuarto",
+   "etiqueta": "Transitorio cuarto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Cuarto.- La CONUEE deberá establecer una Hoja de Ruta en materia de Eficiencia Energética en un plazo de 260 días hábiles contados a partir de la entrada en vigor de esta Ley."
+  },
+  {
+   "orden": 138,
+   "clave": "transitorio quinto",
+   "etiqueta": "Transitorio quinto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Quinto.- Las disposiciones que definen la naturaleza, constitución, operación y presupuesto del Instituto, serán definidas en su Reglamento Interior, mismo que deberá ser expedido en un plazo no mayor a 180 días a partir de la entrada en vigor de esta Ley."
+  },
+  {
+   "orden": 139,
+   "clave": "transitorio sexto",
+   "etiqueta": "Transitorio sexto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Sexto.- Las disposiciones reglamentarias a que se refiere esta Ley deberán ser publicadas en el Diario Oficial de la Federación en un plazo no mayor a 260 días hábiles contados a partir de la entrada en vigor de esta Ley."
+  },
+  {
+   "orden": 140,
+   "clave": "transitorio septimo",
+   "etiqueta": "Transitorio séptimo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Séptimo.- Los recursos del Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía establecido en la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética se aportarán a los fondos que se señalen en el Presupuesto de Egresos de la Federación del año en que la presente Ley entre en vigor."
+  },
+  {
+   "orden": 141,
+   "clave": "transitorio octavo",
+   "etiqueta": "Transitorio octavo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Octavo.- Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo Federal emitirá el Decreto por el que el Instituto de Investigaciones Eléctricas se convierte en el Instituto. En dicho Decreto se establecerán las facultades del citado organismo, observando lo establecido en este Decreto.\nDurante el periodo previo el Instituto de Investigaciones Eléctricas continuará prestando sus servicios con la finalidad de mantener la continuidad de sus actividades y sus recursos humanos, materiales y financieros, centros y áreas de control, sistemas y subsistemas de dichos centros, los cuales no podrán destinarse a otros fines."
+  },
+  {
+   "orden": 142,
+   "clave": "transitorio noveno",
+   "etiqueta": "Transitorio noveno",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Noveno.- Lo previsto en las presentes disposiciones transitorias no afectará los derechos de los trabajadores activos, jubilados y pensionados del Instituto de Investigaciones Eléctricas, los cuales serán respetados conforme a lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo."
+  },
+  {
+   "orden": 143,
+   "clave": "transitorio decimo",
+   "etiqueta": "Transitorio décimo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo.- En tanto se expiden las disposiciones reglamentarias y administrativas derivadas del presente Decreto, se continuarán aplicando las expedidas con anterioridad a su entrada en vigor en lo que no se opongan al mismo."
+  },
+  {
+   "orden": 144,
+   "clave": "transitorio decimo primero",
+   "etiqueta": "Transitorio décimo primero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Primero.- La Cámara de Diputados realizará las previsiones presupuestales necesarias para dar cumplimiento a lo dispuesto en esta Ley.\nLos recursos iniciales de los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía a que se refiere la Ley materia de este Decreto tendrán como base los recursos asignados en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2016.\nEste monto deberá actualizarse anualmente por la variación estimada del Índice Nacional de Precios al Consumidor.\nEl monto que se incluya en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal correspondiente, podrá modificarse en función de la cartera de proyectos susceptibles de recibir apoyos de los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía, que cumpla con el propósito de potenciar el financiamiento disponible para la eficiencia energética, las tecnologías limpias, la generación limpia distribuida y el aprovechamiento de las energías renovables."
+  },
+  {
+   "orden": 145,
+   "clave": "transitorio decimo segundo",
+   "etiqueta": "Transitorio décimo segundo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Segundo.- Para la elaboración del primer Programa Especial de la Transición Energética, la Secretaría retomará en lo conducente las metas, estrategias y líneas de acción contenidos en el Programa Especial de Aprovechamiento de las Energías Renovables 2014-2018."
+  },
+  {
+   "orden": 146,
+   "clave": "transitorio decimo tercero",
+   "etiqueta": "Transitorio décimo tercero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Tercero.- Para el ejercicio de sus atribuciones en materia de simplificación administrativa y simplificación de procedimientos, la Secretaría podrá seguir los trabajos realizados en el marco de la Ventanilla Única Nacional o el Sistema Nacional de Trámites."
+  },
+  {
+   "orden": 147,
+   "clave": "transitorio decimo cuarto",
+   "etiqueta": "Transitorio décimo cuarto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Cuarto.- Los trabajos del Consejo Consultivo de Energías Renovables establecido en la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética y del Consejo Consultivo para el Aprovechamiento Sustentable de la Energía establecido en la Ley para el Aprovechamiento Sustentable de la Energía, serán transferidos al Consejo Consultivo para la Transición Energética establecido en el presente ordenamiento."
+  },
+  {
+   "orden": 148,
+   "clave": "transitorio decimo quinto",
+   "etiqueta": "Transitorio décimo quinto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Quinto.- La primera Estrategia deberá actualizarse en un período no mayor a 365 días naturales, a partir de la fecha de publicación de la presente Ley."
+  },
+  {
+   "orden": 149,
+   "clave": "transitorio decimo sexto",
+   "etiqueta": "Transitorio décimo sexto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Sexto.- Para efectos de la definición de Energías Limpias, se observará lo siguiente:\nI.\nEn tanto no se expidan disposiciones que determinen umbrales máximos de emisiones o residuos para dicho efecto, solo se considerarán Energías Limpias aquellas fuentes de energía y procesos de generación que, en los términos de la fracción XXII del artículo 3 de la Ley de la Industria Eléctrica, no requieren la definición de criterios, normas o eficiencias mínimas, o aquellas cuyos criterios de eficiencia ya hayan sido determinados previamente mediante disposiciones regulatorias;\nII.\nLa Secretaría de Medio Ambiente y Recursos Naturales y la Comisión Reguladora de Energía, en el ámbito de sus competencias, deberán expedir las disposiciones a que hace referencia la fracción anterior a más tardar dentro de los 365 días contados a partir de la promulgación de esta Ley;\nIII.\nLa eficiencia mínima para que el aprovechamiento de hidrógeno se considere una Energía Limpia no será menor a 70% del poder calorífico inferior de los combustibles utilizados en la producción de dicho hidrógeno;\nIV.\nEn el caso de cogeneración solamente se considerará Energía Limpia a la generación neta de electricidad por encima de la mínima requerida para que la central califique como cogeneración eficiente en términos de la regulación que al efecto expida la CRE. La generación eléctrica mediante ciclos combinados no podrá considerarse como cogeneración eficiente;\nV.\nLa eficiencia mínima para que los procesos de captura y almacenamiento geológico o biosecuestro de bióxido de carbono se consideren Energías Limpias se basará en una tasa de emisiones no mayor a 100 kg/MWh, y\nVI.\nLa eficiencia mínima para que cualquier otra tecnología se considere de bajas emisiones de carbono conforme a estándares internacionales, o bien, para que la Secretaría de Energía y la\nSecretaría de Medio Ambiente y Recursos Naturales determinen que sean Energías Limpias, se basará en una tasa de emisiones no mayor a 100 kg/MWh."
+  },
+  {
+   "orden": 150,
+   "clave": "transitorio decimo septimo",
+   "etiqueta": "Transitorio décimo séptimo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Séptimo.- La Secretaría, con el apoyo del CENACE, de la CRE, de los Transportistas, Distribuidores y Suministradores, deberá elaborar y publicar a más tardar en agosto de 2015 un informe que incluya: los beneficios, costos y tecnologías disponibles para la implementación de Redes Eléctricas Inteligentes, el estado actual de las Redes Eléctricas Inteligentes en México, a nivel nacional y regional, y sus perspectivas de desarrollo, e identificar posibles obstáculos para su implementación, así como los impactos actuales y potenciales del despliegue de dichas redes."
+  },
+  {
+   "orden": 151,
+   "clave": "transitorio decimo octavo",
+   "etiqueta": "Transitorio décimo octavo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Octavo.- La Secretaría, con el apoyo de un centro de investigación nacional, y en un plazo menor a 365 días a partir de la promulgación de esta ley, deberá realizar un primer análisis sobre: a) las posibles economías para el Estado, b) ahorros para los usuarios, y c) la reducción de la huella de carbono derivados de la instalación de tecnologías de generación limpia distribuida para usuarios domésticos y de diversas medidas de eficiencia energética, en términos del artículo 10, fracción V, de la Ley de Transición Energética."
+  },
+  {
+   "orden": 152,
+   "clave": "transitorio decimo noveno",
+   "etiqueta": "Transitorio décimo noveno",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Décimo Noveno.- El primer Programa de Redes Eléctricas Inteligentes a que hace referencia la Ley de Transición Energética deberá realizar un análisis que permita identificar tecnologías necesarias para la integración de una mayor generación limpia distribuida en las Redes Generales de Distribución, en condiciones de viabilidad y eficiencia económica.\nEl primer Programa de Redes Eléctricas Inteligentes, a que hace referencia el Capítulo VI del Título Tercero de la Ley de Transición Energética, deberá ser publicado a más tardar en enero del 2016."
+  },
+  {
+   "orden": 153,
+   "clave": "transitorio vigesimo",
+   "etiqueta": "Transitorio vigésimo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Vigésimo.- La Secretaría conformará el Comité Consultivo de Redes Eléctricas Inteligentes, dentro de los 90 días de la promulgación de esta Ley."
+  },
+  {
+   "orden": 154,
+   "clave": "transitorio vigesimo primero",
+   "etiqueta": "Transitorio vigésimo primero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Vigésimo Primero.- Las primeras evaluaciones a las políticas, normas y demás medidas de eficiencia energética a las que se refiere la Ley de Transición Energética podrán realizarse de forma escalonada durante los primeros tres años a partir de la entrada en vigor de esta Ley."
+  },
+  {
+   "orden": 155,
+   "clave": "transitorio vigesimo segundo",
+   "etiqueta": "Transitorio vigésimo segundo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "Vigésimo Segundo.- Por los primeros cuatro años de vigencia de las Obligaciones en materia de Energías Limpias, y de requisitos de Certificados de Energías Limpias, se establece el siguiente Mecanismo de Flexibilidad aplicable a su cumplimiento:\nNo aplicará lo establecido en el Lineamiento 25 de los “Lineamientos que establecen los criterios para el otorgamiento de Certificados de Energías Limpias y los requisitos para su adquisición”, únicamente en lo referente a la cantidad de Certificados de Energías Limpias cuya liquidación es diferible, y los Participantes Obligados podrán diferir la Liquidación de hasta el 50% de sus Obligaciones en cada periodo de obligación, hasta por dos años cuando:\nI.\nDurante el año de aplicación de la obligación, la CRE determine que el número total de Certificados de Energías Limpias registrados no cubra al menos el 70.0% del monto total de la obligación para cada uno de los dos primeros años, o\nII.\nCuando el precio implícito de los Certificados de Energías Limpias, calculado por la CRE de acuerdo a la metodología que para ese efecto desarrolle, resultado de las subastas de suministro básico cuya fecha de operación estándar sean los años 2018, 2019, 2020 y 2021, sea mayor a 60 Unidades de Inversión (UDIs).\nEn caso de que no se cumpla ninguna de las dos condiciones arriba mencionadas, aplicará lo establecido en el Lineamiento 25 de los “Lineamientos que establecen los criterios para el otorgamiento de Certificados de Energías Limpias y los requisitos para su adquisición”.\nLas Obligaciones, incluyendo la fecha de liquidación, se sujetarán a los requisitos de información, así como a los procedimientos de monitoreo y verificación que establezca la CRE, mediante el Registro Público de Certificados de Energías Limpias.\nAntes de finalizada la vigencia de este mecanismo de flexibilidad, la Secretaría de Energía deberá coordinar el desarrollo de una cámara de compensación a la que se refieren las Bases del Mercado Eléctrico que facilite a los usuarios calificados y otras entidades responsables de carga la participación en subastas o la realización de las mismas con el fin de adquirir contratos de cobertura de Certificados de Energías Limpias.\nDos años después de la entrada en vigor de las obligaciones en materia de Certificados de Energías Limpias, la Comisión Federal de Competencia Económica, en el ámbito de sus atribuciones, realizará una evaluación de la competitividad del mercado de Certificados de Energías Limpias, y emitirá recomendaciones con el fin de mejorar su desempeño.\nMéxico, D.F., a 10 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.\nRoberto Gil Zuarth, Presidente.- Dip. Ramón Bañales Arambula, Secretario.- Sen. Hilda E. Flores Escalera, Secretaria.- Rúbricas.\"\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+  },
+  {
+   "orden": 156,
+   "clave": null,
+   "etiqueta": "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Em",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y, se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.\nPublicado en el Diario Oficial de la Federación el 18 de marzo de 2025\nARTÍCULO QUINTO.- Se expide la Ley de Planeación y Transición Energética, para quedar como sigue:\n……."
+  },
+  {
+   "orden": 157,
+   "clave": "transitorio primero (dof 2025-03-18)",
+   "etiqueta": "Transitorio primero del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 158,
+   "clave": "transitorio segundo (dof 2025-03-18)",
+   "etiqueta": "Transitorio segundo del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Segundo.- Se abroga la Ley de Transición Energética publicada en el Diario Oficial de la Federación el 24 de diciembre de 2015, y las demás disposiciones que se opongan al presente ordenamiento."
+  },
+  {
+   "orden": 159,
+   "clave": "transitorio tercero (dof 2025-03-18)",
+   "etiqueta": "Transitorio tercero del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Tercero.- En tanto se emita la nueva regulación o se modifique la regulación correspondiente, la normatividad y regulación emitidas por la Secretaría con anterioridad a la entrada en vigor de la presente Ley, continúan en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.\nLas referencias legales o reglamentarias a la Ley de Transición Energética se entienden hechas en lo aplicable, a la Ley de Planeación y Transición Energética."
+  },
+  {
+   "orden": 160,
+   "clave": "transitorio cuarto (dof 2025-03-18)",
+   "etiqueta": "Transitorio cuarto del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Cuarto.- El Ejecutivo Federal debe expedir el Reglamento de esta Ley dentro de los ciento ochenta días naturales siguientes a la fecha de su entrada en vigor."
+  },
+  {
+   "orden": 161,
+   "clave": "transitorio quinto (dof 2025-03-18)",
+   "etiqueta": "Transitorio quinto del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Quinto.- En tanto se expiden el Reglamento correspondiente la Secretaría tiene la facultad para ejercer las atribuciones que le otorga la presente Ley a partir de su entrada en vigor."
+  },
+  {
+   "orden": 162,
+   "clave": "transitorio sexto (dof 2025-03-18)",
+   "etiqueta": "Transitorio sexto del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Sexto.- La Secretaría de Energía dentro de un plazo no mayor a trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor de la presente Ley debe publicar en el Diario Oficial de la Federación, la Estrategia Nacional de Transición Energética, el Plan para la Transición Energética y el Aprovechamiento Sustentable de la Energía, el Plan de Desarrollo del Sector Eléctrico y el Plan de Desarrollo del Sector Hidrocarburos.\nLa Secretaría de Energía fijará como meta una participación mínima de energías limpias en la generación de energía eléctrica, la cual debe corresponder a las metas de largo plazo establecidas en la Ley General de Cambio Climático."
+  },
+  {
+   "orden": 163,
+   "clave": "transitorio septimo (dof 2025-03-18)",
+   "etiqueta": "Transitorio séptimo del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Séptimo.- A partir de la entrada en vigor de la presente Ley, el Fondo de Servicio Universal Eléctrico cambia de denominación a Fondo de Servicio Universal Energético, por lo cual debe continuar operando\nconforme a sus contratos de fideicomiso actual en tanto se actualice la normatividad aplicable y en demás disposiciones que no se opongan a la presente Ley."
+  },
+  {
+   "orden": 164,
+   "clave": "transitorio octavo (dof 2025-03-18)",
+   "etiqueta": "Transitorio octavo del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Octavo.- El Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía debe seguir operando conforme a sus contratos de fideicomiso actual en tanto se actualice la normatividad aplicable. De igual manera el Acuerdo por el que se dan a conocer las disposiciones generales aplicables a la administración y operación de los apoyos para las actividades de investigación científica, desarrollo tecnológico e innovación en materia de hidrocarburos y de sustentabilidad energética, publicado en el Diario Oficial de la Federación el 19 de agosto de 2021 y los lineamientos que se derivan de este acuerdo siguen vigentes, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.\n……."
+  },
+  {
+   "orden": 165,
+   "clave": "transitorio primero (dof 2025-03-18) [2]",
+   "etiqueta": "Transitorio primero del decreto DOF 18-03-2025 [2]",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 166,
+   "clave": "transitorio segundo (dof 2025-03-18) [2]",
+   "etiqueta": "Transitorio segundo del decreto DOF 18-03-2025 [2]",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.\nCiudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas.\"\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+  }
+ ]
+}

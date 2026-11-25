@@ -1,0 +1,652 @@
+{
+ "id": "dacg-cne-tarifas-transmision",
+ "origen": "https://dof.gob.mx/nota_detalle.php?codigo=5774027&fecha=26/11/2025",
+ "sha256": "ef81b2de0f039db4083c65703370e08777c0720c657716c64f8a7eaa1c3fd216",
+ "extraido": "2026-11-25",
+ "fragmentos": [
+  {
+   "orden": 0,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 1 de 5)",
+   "ruta": [],
+   "texto": "JUAN CARLOS SOLÍS ÁVILA, Director General de la Comisión Nacional de Energía, con fundamento en los artículos 25, último párrafo, 27, párrafo sexto, 28, párrafo noveno y 90, primer párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 1, 2, fracción I, 17 26, fracción IX, y 33, último párrafo, de la Ley Orgánica de la Administración Pública Federal; 1, párrafo primero, 2, 3 y 4 de la Ley Federal de Procedimiento Administrativo; 1, 5 y 6 de la Ley Nacional para Eliminar Trámites Burocráticos; 1, 2, párrafo primero, 3, 5, 7, fracciones I, II, III, IV y XXII, 8, fracciones I, VI, VII y IX, 10, 12, 16, fracciones VI, X, XIX, XXIII y XXV, 17, fracciones I, II, III, VIII y XIV, y 28 de la Ley de la Comisión Nacional de Energía; 2, párrafo segundo, 3, fracciones XXIX, XLVIII, LXI y LXIII, 4, párrafo segundo, 6, fracciones I, II y IX, 7, 11, fracciones IV, VII, XLIV y XLIX, 44, 45, fracción I, 47, 157, 158, párrafos primero, fracción I, y segundo, 159, párrafo primero, 160, fracciones I y II, 161, 162, 163, 166, 177, párrafo primero, y Transitorio Cuarto de la Ley del Sector Eléctrico; 2, párrafo primero, inciso F, fracción III, 71, 77 y 78 del Reglamento Interior de la Secretaría de Energía; 2, 4, 7, 13, 17 y 19, del Reglamento Interior de la Comisión Nacional de Energía; 2, fracciones IV y XXIX, 118, 119, 120, 122, 123, 124, 151 y 152, así como el Transitorio Segundo del Reglamento de la Ley del Sector Eléctrico; así como el Acuerdo número CT/7.SE/3-2025 expedido por el Comité Técnico de la Comisión Nacional de Energía, y,\nCONSIDERANDO\nQue, el artículo 27, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos (CPEUM), establece que el servicio público de transmisión de energía eléctrica (SPTEE) es una actividad que corresponde exclusivamente a la Nación y en la cual no se otorgarán concesiones.\nQue, el artículo 28, párrafo noveno, de la CPEUM, señala que el Poder Ejecutivo Federal, por conducto de la dependencia encargada de conducir y supervisar la política energética del país, cuenta con las atribuciones para llevar a cabo la regulación técnica y económica, así como la facultad sancionadora en materia energética y de hidrocarburos.\nQue de conformidad con los artículos 2, párrafo primero, de la Ley de la Comisión Nacional de Energía (LCNE) y 2, párrafo primero del Reglamento Interior de la Comisión Nacional de Energía, la Comisión Nacional de Energía (Comisión) es un órgano administrativo desconcentrado de carácter técnico, sectorizado a la Secretaría de Energía, que cuenta con independencia técnica, operativa, de gestión y de decisión en los términos de la Ley.\nQue de conformidad con el artículo 33, último párrafo, de la Ley Orgánica de la Administración Pública Federal; 2, párrafo primero, apartado F, fracción III, del Reglamento Interior de la Secretaría de Energía; 2, párrafo primero, de la LCNE y 2, párrafo primero del Reglamento Interior de la Comisión Nacional de Energía, la Comisión Nacional de Energía es un órgano administrativo desconcentrado, de carácter técnico, sectorizado a la Secretaría de Energía, que cuenta con independencia técnica, operativa, de gestión y de decisión; y tiene por objeto regular, supervisar e imponer sanciones en las Actividades en materia energética, con el fin de promover su desarrollo ordenado, continuo y seguro de dichas actividades del sector energético de conformidad con la planeación vinculante en el ámbito de su competencia; y, en el ejercicio de sus funciones contribuye a garantizar la soberanía, seguridad, autosuficiencia y Justicia Energética de la Nación acorde con la política energética que establezca la Secretaría."
+  },
+  {
+   "orden": 1,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 2 de 5)",
+   "ruta": [],
+   "texto": "Que, el artículo 8, fracciones I, VI y VII, de la LCNE, establece que en el sector eléctrico la Comisión tiene atribuciones para, previa opinión favorable de la Secretaría, emitir la metodología para determinar las tarifas y contraprestaciones del sector eléctrico, realizar el seguimiento de costos y regular, entre otras, las tarifas de transmisión; así como, promover el desarrollo ordenado, continuo y seguro de las actividades de generación de electricidad, los servicios públicos de transmisión y distribución eléctrica, y la comercialización de electricidad.\nQue, el artículo 3, fracciones XLVIII y LXIII, de la Ley del Sector Eléctrico (LSE), define al servicio público de transmisión como las actividades que ejerce el Estado de manera exclusiva que son necesarias para la transmisión de energía eléctrica en el país; y, a la Transportista como la Empresa Pública del Estado que presta el SPTEE.\nQue, el artículo 4, párrafo segundo, de la LSE, establece que la actividad de trasmisión de energía eléctrica es de utilidad pública, cuando es provista por el Estado, y se sujeta a obligaciones de servicio público y universal en términos de dicho ordenamiento y de las disposiciones aplicables.\nQue, el artículo 11, fracciones IV y VII, de la LSE, le otorga facultades a la Comisión para expedir y aplicar la regulación tarifaria, así como establecer los lineamientos de contabilidad a que debe sujetarse la actividad de transmisión.\nQue, el artículo 158, fracción I, de la LSE faculta a la Comisión para expedir, en coordinación con la Secretaría, las disposiciones administrativas de carácter general que establezcan la metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el SPTEE.\nQue, el artículo 159, párrafo primero, de la LSE establecen que la Comisión debe aplicar la metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el servicio de transmisión y publicar en su página electrónica la información relevante del proceso de determinación, entre ella, la memoria de cálculo para determinar dichas tarifas.\nQue, el artículo 160, fracciones I y II, de la LSE, establecen que la determinación y aplicación de la metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el SPTEE, tiene como objetivos promover el desarrollo eficiente del sector eléctrico, garantizar la Continuidad de los servicios, evitar la discriminación indebida, promover el acceso abierto a la RNT cuando sea técnicamente factible y proteger los intereses de los Participantes del Mercado y de las Usuarias Finales; así como, permitir a la Transportista obtener el ingreso necesario para recuperar los costos de operación, mantenimiento, financiamiento, inversión, ampliación, modernización, expansión, investigación y desarrollo tecnológico, depreciación, las pérdidas técnicas y no técnicas de acuerdo con el estándar determinado por la Comisión, los impuestos aplicables y un retorno razonable.\nQue, el artículo 161 de la LSE señala que la Comisión está facultada para investigar las inversiones y otros costos en que incurra la Transportista, incluyendo los costos de transferencia y los servicios compartidos que las empresas controladoras asignen a sus unidades. La Comisión determinará que no se recuperen mediante las Tarifas Reguladas para el SPTEE los costos o inversiones que no sean eficientes o que no reflejen eficacia, eficiencia, honestidad, productividad, transparencia, rendición de cuentas y Prácticas Prudentes, así como las inversiones que no se ejecuten de acuerdo con los planes y programas autorizados por la Secretaría."
+  },
+  {
+   "orden": 2,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 3 de 5)",
+   "ruta": [],
+   "texto": "Que, de acuerdo con el artículo 162 de la LSE, para la ampliación y modernización de la RNT, la Comisión debe determinar las metodologías tarifarias de acuerdo con las disposiciones que al efecto expida, observando las Reglas del Mercado, el desarrollo económico del país, la planeación de mediano y largo plazo, la Sostenibilidad, Accesibilidad y Confiabilidad del SEN; además, podrá requerir al CENACE la identificación de los Participantes del Mercado que resulten beneficiados por la ampliación y modernización de la RNT, a fin de establecer la regulación tarifaria que refleje la asignación de los costos proyectados entre dichos participantes y el resto del sector eléctrico.\nQue, de conformidad con lo establecido en el Transitorio Cuarto de la LSE, la Comisión debe revisar y actualizar, entre otras, la Metodología para el cálculo y ajuste de las Tarifas Reguladas para el SPTEE, en un plazo máximo de 180 días hábiles a partir de la entrada en vigor de dicha Ley; lo anterior, a fin de dar cumplimiento a lo establecido en la reforma constitucional en materia de áreas y empresas estratégicas publicada en el DOF el 31 de octubre de 2024, para garantizar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y Sostenibilidad del SEN.\nQue, el Transitorio Décimo de la LSE y el artículo 106, párrafo segundo, de la LCFE establecen que la Empresa Pública del Estado deberá mantener y establecer la separación operativa y funcional para la actividad de transmisión, y que, a fin de identificar cada etapa de las actividades que desarrolla, debe implementar su contabilidad por segmentos, al interior de la entidad, con la finalidad de transparentar sus costos y precios.\nPor su parte, el artículo 118, párrafos primero y cuarto, del Reglamento, refiere que las Tarifas Eléctricas, entre ellas las tarifas de transmisión, deben considerar el reconocimiento de los costos por la prestación del servicio de transmisión y la Justicia Energética, para lo cual tomarán en cuenta la política en materia de Accesibilidad, Calidad, Confiabilidad, Continuidad, Eficiencia, Seguridad y Sostenibilidad del sistema, la planeación vinculante, así como la regulación que emita la CNE. La Comisión debe establecer, en el ámbito de su competencia, la regulación tarifaria bajo principios que permitan el desarrollo eficiente y la Confiablidad del SEN, así como un régimen de competencia, reflejar eficacia, eficiencia, honestidad, productividad, transparencia, rendición de cuentas y Prácticas Prudentes en las decisiones de inversión y operación, y proteger los intereses de las Usuarias Finales.\nPor su parte, los párrafos sexto y séptimo, del artículo 118 del Reglamento, señalan que la Comisión, en la determinación de las tarifas de transmisión, debe emplear las herramientas de evaluación que estime necesarias para lograr sus objetivos regulatorios, para lo cual puede realizar ejercicios comparativos y aplicar los ajustes que estime oportunos, así como emplear indicadores de desempeño; las tarifas de transmisión aprobadas por la Comisión, con la validación de la Secretaría, deben permitir a las Usuarias Finales tener acceso a los servicios en condiciones de Accesibilidad, Calidad, Confiabilidad, Continuidad, Eficiencia, Seguridad y Sostenibilidad; asimismo, la Comisión debe establecer mecanismos que promuevan una demanda y uso racional de los bienes y servicios.\nQue, los artículos 2, fracción IV, y 119, párrafo tercero, del Reglamento, definen a las Aportaciones como los recursos en efectivo o en especie, que la Solicitante entrega a la Transportista por la conexión de Centros de Carga o la interconexión de Centrales Eléctricas a la RNT solicitadas para beneficiarse de las Obras Específicas, Ampliaciones o Modificaciones, cuando los costos por su construcción no se recuperen a través del cobro de las Tarifas Reguladas; y que, a fin de evitar la duplicidad de costos, dichas Aportaciones no se deben incluir como parte de las tarifas de transmisión."
+  },
+  {
+   "orden": 3,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 4 de 5)",
+   "ruta": [],
+   "texto": "Que, el artículo 119, párrafo cuarto, del Reglamento refieren que, en la determinación de las tarifas finales del Suministro Básico, las cuales incluyen, entre otras, las Tarifas Reguladas para el SPTEE, se debe evitar el\nLucro.\nQue el párrafo quinto del artículo 119 del Reglamento señala que la Comisión, mediante las disposiciones administrativas de carácter general correspondientes debe establecer metodologías para evaluar el desempeño de la Transportista, a fin de determinar ajustes, en su caso, en las tarifas de transmisión; así como la definición de costos eficientes para el servicio de transmisión para el cual se determinan dichas tarifas y su seguimiento.\nQue, el artículo 122 del Reglamento, establece que la Comisión debe emitir, mediante actos administrativos, los formatos y especificaciones para la presentación de la información que permita la determinación de las Tarifas Eléctricas, entre ellas las tarifas de transmisión.\nQue, conforme a los artículos 123 y 124 del Reglamento, la solicitud para la aprobación y expedición de las Tarifas Eléctricas, entre las que se incluyen las tarifas de transmisión, así como su modificación, se debe sujetar al procedimiento que se establezca en las disposiciones administrativas de carácter general que expida la Comisión para tal efecto, en coordinación con la Secretaría; asimismo, la Comisión realizará el seguimiento del ajuste de dichas tarifas con la supervisión de la Secretaría.\nQue, el artículo 5, párrafo segundo, de la Sección A de las Disposiciones administrativas de carácter general en materia de acceso abierto y prestación de los servicios en la Red Nacional de Transmisión y las Redes Generales de Distribución de Energía Eléctrica, publicadas en el DOF el 16 de febrero de 2016 y su modificación publicada el 23 de enero de 2024 en el mismo medio de difusión (DACG en Materia de Acceso Abierto), establece que la RNT son aquellas instalaciones necesarias para transmitir la energía eléctrica en niveles de tensión iguales o superiores a 69 kV, o que tengan por objeto elevar el nivel de tensión por niveles iguales o superiores a 69 kV, salvo aquellas que, por motivos operativos, la Secretaría o el CENACE consideren integradas a las Redes Generales de Distribución. Se considera un servicio de transmisión todo aquel que se encuentre conectado a tensiones iguales o superiores a 69 kV.\nQue, el artículo 18, del Apartado 3 de las DACG en Materia de Acceso Abierto establece, entre otros elementos, los parámetros de desempeño de la RNT para la evaluación de la Transportista, la cual se basará en índices de Disponibilidad y Continuidad.\nQue, la Comisión realizó la revisión de la Metodología para el cálculo y ajuste de las Tarifas Reguladas para el servicio de transmisión, en cumplimiento al Transitorio Cuarto de la LSE antes referido, con la finalidad de alinearla a lo establecido en dicha Ley, su Reglamento y la LCNE, así como para promover el desarrollo eficiente del sector eléctrico, garantizar la Continuidad de los servicios, evitar la discriminación indebida, promover el acceso abierto a la RNT cuando sea técnicamente factible y proteger los intereses de los Participantes del Mercado y de las Usuarias Finales; y, permitir a la Transportista obtener el ingreso necesario para recuperar los costos eficientes por la prestación del servicio de transmisión.\nQue, mediante el oficio número F00.06.UE/3334/2025 del 05 de noviembre de 2025, la Comisión solicitó a la Secretaría opinión respecto del proyecto de Metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el Servicio Público de Transmisión de Energía Eléctrica; y, mediante el diverso número 315.033/2025 del 06 de noviembre de 2025, la Secretaría emitió opinión favorable respecto del mismo.\nQue, mediante la Séptima Sesión Extraordinaria de 2025, el Comité Técnico de la Comisión aprobó el Acuerdo Número CT/7.SE/3-2025, por el que se autoriza la expedición del presente Acuerdo."
+  },
+  {
+   "orden": 4,
+   "clave": null,
+   "etiqueta": "Preámbulo (parte 5 de 5)",
+   "ruta": [],
+   "texto": "Derivado de lo anterior, en el ejercicio de las facultades que el marco jurídico vigente atribuye a la Comisión Nacional de Energía y en apego a lo dispuesto en el Transitorio Cuarto de la Ley del Sector Eléctrico y lo señalado en las consideraciones anteriores, se expide la Metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el Servicio Público de Transmisión de Energía Eléctrica, por lo que, tengo a bien expedir el siguiente:\nACUERDO DE LA COMISIÓN NACIONAL DE ENERGÍA POR EL QUE SE EXPIDEN LAS DISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL QUE ESTABLECEN LA METODOLOGÍA PARA DETERMINAR EL CÁLCULO Y AJUSTE DE LAS TARIFAS REGULADAS PARA EL SERVICIO PÚBLICO DE TRANSMISIÓN DE ENERGÍA ELÉCTRICA\nContenido"
+  },
+  {
+   "orden": 5,
+   "clave": null,
+   "etiqueta": "ANEXO ÚNICO",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "ANEXO ÚNICO\nApartado A. Determinación de la Tasa de Retorno\nApartado B. Determinación del INPP ponderado"
+  },
+  {
+   "orden": 6,
+   "clave": "1.1",
+   "etiqueta": "Disposición 1.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 1. Disposiciones Generales"
+   ],
+   "texto": "1.1. Objeto, Alcance y Ámbito de Aplicación\n1.1.1. Las Disposiciones tienen como objeto establecer la Metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el Servicio Público de Transmisión de Energía Eléctrica (TTEE o tarifas de transmisión), las cuales deben permitir a la Transportista obtener el ingreso necesario para recuperar sus costos de operación, mantenimiento, financiamiento, inversión, ampliación, modernización, expansión, investigación y desarrollo tecnológico, depreciación, las pérdidas técnicas y no técnicas de acuerdo con el estándar determinado por la Comisión Nacional de Energía (Comisión), los impuestos aplicables y un retorno razonable.\n1.1.2. El alcance de las Disposiciones comprende:\na. La Metodología para determinar el cálculo de las TTEE (Metodología);\nb. Los criterios para la entrega, revisión y verificación de la información empleada para el cálculo y ajuste de las tarifas de transmisión;\nc. Los procedimientos para la validación de la publicación de las TTEE y la entrega del reporte del ingreso obtenido por las tarifas de transmisión;\nd. El procedimiento para la revisión y ajuste de las TTEE;\ne. El procedimiento para la revisión y ajuste de la Metodología; y,\nf. Las responsabilidades de la Transportista en la aplicación de las Disposiciones.\n1.1.3. Las Disposiciones son de observancia obligatoria en todo el territorio nacional y aplican a la Comisión, la Transportista y demás Sujetos Regulados que tengan responsabilidades en su aplicación.\n1.1.4. La Comisión, en el ejercicio de sus atribuciones y previa opinión favorable de la Secretaría de Energía (Secretaría), puede resolver cualquier situación no prevista en las Disposiciones o, en su caso, realizar aclaraciones e interpretaciones, conforme a lo establecido en la Ley del Sector Eléctrico y demás normatividad aplicable, aquella que la modifique o sustituya, en materia de tarifas de transmisión."
+  },
+  {
+   "orden": 7,
+   "clave": "1.2",
+   "etiqueta": "Disposición 1.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 1. Disposiciones Generales"
+   ],
+   "texto": "1.2. Acrónimos\nPara efectos de las Disposiciones se definen los siguientes acrónimos:\nI. CENACE: Centro Nacional de Control de Energía.\nII. DOF: Diario Oficial de la Federación.\nIII. FA: Factor de Actualización.\nIV. I+D: Investigación y Desarrollo Tecnológico.\nV. INEGI: Instituto Nacional de Estadística y Geografía.\nVI. INPP: Índice Nacional de Precios Productor.\nVII. IR: Ingreso Requerido.\nVIII. IRC: Información Regulatoria de Costos y Activos.\nIX. kWh: Kilowatt hora.\nX. LSE: Ley del Sector Eléctrico.\nXI. MEM: Mercado Eléctrico Mayorista.\nXII. RNT: Red Nacional de Transmisión.\nXIII. SEN: Sistema Eléctrico Nacional.\nXIV. SPTEE: Servicio Público de Transmisión de Energía Eléctrica.\nXV. TR: Tasa de Retorno."
+  },
+  {
+   "orden": 8,
+   "clave": "1.3",
+   "etiqueta": "Disposición 1.3 (parte 1 de 3)",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 1. Disposiciones Generales"
+   ],
+   "texto": "1.3. Definiciones\nPara efectos de las Disposiciones, además de las definiciones contenidas en la LSE y el Reglamento de la Ley del Sector Eléctrico (Reglamento), aquellas que las modifiquen o sustituyan, son aplicables las siguientes definiciones, mismas que deben entenderse en singular o plural sin alterar su significado, siempre y cuando el contexto así lo permita:\nI. Almacenadora: Persona física o moral titular de uno o varios permisos de almacenamiento otorgado por la Comisión, que opera uno o más Sistemas de Almacenamiento de Energía Eléctrica no asociados a Centrales Eléctricas o Centros de Carga, o bien, la titular de un contrato de Participante del Mercado que representa en el MEM a dichos sistemas, o que cuenta con autorización de la Secretaría para importación o exportación de energía eléctrica, como Sistemas de Almacenamiento de Energía Eléctrica ubicados en el extranjero o territorio nacional.\nII. Año Base: Periodo de tiempo que corresponde del 1 de enero al 31 de diciembre de la última información disponible respecto al año de aplicación de las tarifas de transmisión.\nIII. Centro de Carga: Instalaciones y equipos que, en un sitio determinado, permiten que una Usuaria Final reciba el Suministro Eléctrico. Los Centros de Carga se determinan en el punto de conexión de la energía suministrada.\nIV. Costos eficientes: Aquellos relacionados con el desarrollo de la actividad regulada que garantizan la Confiabilidad y la Continuidad del servicio al menor costo o que garanticen su viabilidad técnica.\nV. DACG en Materia de Acceso Abierto: Disposiciones administrativas de carácter general en materia de acceso abierto y prestación de los servicios en la Red Nacional de Transmisión y las Redes Generales de Distribución de Energía Eléctrica vigentes, aquellas que las modifiquen o sustituyan.\nVI. Disposiciones: Disposiciones administrativas de carácter general que establecen la Metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el Servicio Público de Transmisión de Energía Eléctrica expedidas mediante el presente Acuerdo.\nVII. Entidad Responsable de Carga: Suministradora de Servicios Básicos, Suministradoras de Servicios Calificados y Suministradoras de Último Recurso, así como a los Usuarios Calificados Participantes del Mercado y el Generador de Intermediación que representa a los Centros de Carga incluidos en los Contratos de Interconexión Legados que no se hayan excluido de dichos contratos, y Generadoras cuyas Centrales Eléctricas pueden actuar como Centros de Carga, y aquellas previstas en el Manual de Liquidaciones, el que lo modifique o sustituya.\nVIII. Esquemas de financiamiento con terceros: Los referidos en los artículos 151 y 152 del Reglamento, aquellos que los modifiquen o sustituyan, para llevar a cabo proyectos de Ampliación y modernización de la RNT, siempre y cuando la propiedad de los activos se mantenga en el Estado.\nIX. Generadora: Persona titular de uno o varios permisos para generar electricidad en Centrales Eléctricas con la autorización de la Comisión, o bien, titular de un contrato de Participante del Mercado que representa en el MEM a dichas centrales o, con la autorización de la Secretaría, a las Centrales Eléctricas ubicadas en el extranjero, y aquellas previstas en el Manual de Liquidaciones, el que lo modifique o sustituya.\nX. Información Regulatoria de Costos y Activos: Información económica, financiera, técnica y de costos que la Transportista presenta a la Comisión y que conforma la base de costos, condiciones de operación, y demás elementos necesarios para el cálculo y ajuste de las tarifas de transmisión."
+  },
+  {
+   "orden": 9,
+   "clave": "1.3",
+   "etiqueta": "Disposición 1.3 (parte 2 de 3)",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 1. Disposiciones Generales"
+   ],
+   "texto": "XI. Ingreso Requerido: Ingreso necesario para recuperar los costos de operación, mantenimiento, financiamiento, inversión, ampliación, modernización, expansión, investigación y desarrollo tecnológico, depreciación, las pérdidas técnicas y no técnicas de acuerdo con el estándar determinado por la Comisión, los impuestos aplicables y un retorno razonable; éste se determina para el año de aplicación de las TTEE y constituye la base cuantitativa para el cálculo de éstas.\nXII. Instrumento regulatorio: Acuerdo o Resolución mediante el cual la Comisión, previa opinión favorable de la Secretaría, expide la Metodología o sus ajustes.\nXIII. Inversiones: Corresponde al valor de los activos que entraron en operación comercial en la RNT durante el año inmediato anterior al año de aplicación de las tarifas de transmisión que hayan sido incluidas y ejecutadas, relacionados con los proyectos de ampliación y modernización de la RNT que se incluyan en los programas correspondientes, previa instrucción de la Secretaría, y sobre los cuales la Transportista podrá recibir un incentivo por el cumplimiento de la planeación vinculante.\nXIV. Justicia Energética: Acciones o Estrategias encaminadas a reducir la Pobreza Energética, las desigualdades sociales y de género en el uso de la energía e impulsar el desarrollo regional y la prosperidad compartida mediante el acceso a energía e infraestructura energética confiable, asequible, segura y limpia para la atención de necesidades básicas, la reducción de impactos en la salud y el medio ambiente. Incluye también la ampliación de espacios de participación inclusiva, principalmente de los pueblos originarios, en las cadenas productivas locales de los proyectos energéticos.\nXV. Kilowatt hora: Múltiplo de la unidad de medida de la energía eléctrica que equivale a 1x103 watts por hora.\nXVI. Lineamientos de Contabilidad Regulatoria: Disposiciones administrativas de carácter general que establecen los lineamientos de contabilidad regulatoria que deben observar las actividades de transmisión, distribución, Suministro Básico, Suministro de Último Recurso, así como los costos del servicio de operación del CENACE para fines de la regulación tarifaria que para tal efecto expida la Comisión.\nXVII. Lucro: El excedente económico después de cubrir costos operativos, y garantizar recursos para inversión, modernización, expansión y Justicia Energética.\nXVIII. Medios de difusión formales: Canales de comunicación que, de forma enunciativa mas no limitativa pueden ser: circulares, páginas electrónicas oficiales, cuentas oficiales de redes sociales, periódicos, revistas, televisión o radio.\nXIX. Metodología: Metodología, Variables y/o Parámetros para determinar el cálculo de las tarifas de transmisión expedida mediante las Disposiciones.\nXX. Parámetros: Factores o proporciones que se emplean en la Metodología.\nXXI. Participante del Mercado: Persona que celebra el contrato respectivo con el CENACE en modalidad de Generadora, Comercializadora, Suministradora, Comercializadora no Suministradora o Usuario Calificado.\nXXII. Peso: Moneda de curso legal en el territorio de los Estados Unidos Mexicanos.\nXXIII. Práctica Prudente: La adopción de las mejores prácticas del sector eléctrico relacionadas con los costos, inversiones, operaciones o transacciones, que se llevan a cabo en condiciones de eficiencia e incorporando los mejores términos comerciales disponibles al momento de su realización.\nXXIV. Proyecciones de energía: Pronósticos de inyección y retiro de energía eléctrica en la RNT, los cuales se emplean para el cálculo y ajuste de las TTEE.\nXXV. Red Nacional de Transmisión: Sistema integrado por el conjunto de las Redes Eléctricas que se utilizan para transportar energía eléctrica a las Redes Generales de Distribución y a grandes usuarios de electricidad, así como las interconexiones a los sistemas eléctricos extranjeros que determine la Secretaría.\nXXVI. Reglamento: Reglamento de la Ley del Sector Eléctrico."
+  },
+  {
+   "orden": 10,
+   "clave": "1.3",
+   "etiqueta": "Disposición 1.3 (parte 3 de 3)",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 1. Disposiciones Generales"
+   ],
+   "texto": "XXVII. Revisión tarifaria: Proceso que realiza la Comisión de oficio o a petición de la Transportista para revisar y, en su caso, ajustar las tarifas de transmisión determinadas conforme a la Metodología.\nXXVIII. Secretaría: Secretaría de Energía.\nXXIX. Servicio Público de Transmisión de Energía Eléctrica: Actividades que ejerce el Estado de manera exclusiva, por tratarse de áreas estratégicas y que son necesarias para la transmisión de energía eléctrica en el país.\nXXX. Sujeto Regulado: La Empresa Pública del Estado, Comisión Federal de Electricidad, las personas físicas y morales de los sectores público, social y privado que realicen actividades relacionadas con el sector eléctrico cuya realización se rige por la LSE y las disposiciones que de ésta deriven.\nXXXI. Tarifas Reguladas para el Servicio Público de Transmisión de Energía Eléctrica: Contraprestaciones establecidas por la Comisión para el Servicio Público de Transmisión de Energía Eléctrica.\nXXXII. Tasa de Retorno: Tasa de retorno para fines tarifarios real después de impuestos que se aplica a los activos e Inversiones de la Transportista para la prestación del SPTEE.\nXXXIII. Tipo de Cambio: Tipo de cambio FIX para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana, expresado en Pesos por dólar de los Estados Unidos de América publicado por el Banco de México, el que lo modifique o sustituya.\nXXXIV. Transportista: Empresa Pública del Estado que presta el Servicio Público de Transmisión de Energía Eléctrica.\nXXXV. Unidad de Central Eléctrica: Elementos de una Central Eléctrica que pueden ser despachados de manera independiente a otros elementos de la misma.\nXXXVI. Variables: Conceptos técnicos, económicos, financieros y contables que integran la IRC y que se emplean en la Metodología."
+  },
+  {
+   "orden": 11,
+   "clave": "2.1",
+   "etiqueta": "Disposición 2.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 2. Lineamientos para la determinación de las TTEE"
+   ],
+   "texto": "2.1. Principios tarifarios\n2.1.1. La Comisión realiza el cálculo y ajuste de las tarifas de transmisión con apego a los siguientes principios tarifarios:\na. Eficiencia Productiva: La Transportista debe contar con incentivos para operar en condiciones óptimas y mejorar la gestión de los recursos físicos, humanos, financieros y técnicos, a fin de que el SPTEE se preste en condiciones de Accesibilidad, Calidad, Confiabilidad, Continuidad, Eficiencia, Seguridad y Sostenibilidad.\nb. Eficiencia Asignativa: Las Generadoras, Entidades Responsables de Carga y Almacenadoras deben contar con señales adecuadas que propicien el uso racional de la RNT, la energía eléctrica y la Sostenibilidad del SPTEE.\nc. Suficiencia: La Transportista debe contar con un ingreso necesario para recuperar los Costos eficientes en los que incurra por la prestación del Servicio Público de Transmisión de Energía Eléctrica, así como un retorno razonable.\nd. Racionalidad: Las Generadoras, Entidades Responsables de Carga y Almacenadoras deben contar con el Servicio Público de Transmisión de Energía Eléctrica al menor precio posible y en condiciones de Accesibilidad, Calidad, Confiabilidad, Continuidad, Eficiencia, Seguridad y Sostenibilidad; al mismo tiempo, la Transportista debe operar de forma económica y prudente, y como consecuencia recuperar sus Costos eficientes.\ne. Evitar el Lucro: Las tarifas de transmisión deben evitar el Lucro.\nf. Justicia Energética: Las tarifas de transmisión deben permitir a la Transportista impulsar acciones en materia de Justicia Energética.\n2.1.2. Las TTEE que se determinen conforme a las Disposiciones, deben cumplir con los siguientes principios generales:\na. Transparencia: La Transportista, las Generadoras, Entidades Responsables de Carga y Almacenadoras deben disponer de información objetiva, completa y oportuna relativa a la regulación tarifaria.\nb. Estabilidad: La Transportista, las Generadoras, Entidades Responsables de Carga y Almacenadoras deben tener certidumbre en la determinación de las tarifas de transmisión, mismas que deben conservar su composición y estructura hasta en tanto la Metodología no se modifique o sustituya.\nc. Predictibilidad: Las Variables y Parámetros empleados en la determinación de las TTEE deben coadyuvar a la Transportista, a las Generadoras, Entidades Responsables de Carga y Almacenadoras a realizar predicciones de las tarifas y evaluar sus impactos.\nd. Consistencia: Deben estar alineadas y cumplir con la legislación y normatividad vigente."
+  },
+  {
+   "orden": 12,
+   "clave": "2.2",
+   "etiqueta": "Disposición 2.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 2. Lineamientos para la determinación de las TTEE"
+   ],
+   "texto": "2.2. Consideraciones Generales\n2.2.1. La Comisión debe tomar en cuenta las siguientes consideraciones generales para determinar el cálculo y ajuste de las tarifas de transmisión:\nI. Las TTEE deben recuperar los costos e inversiones eficientes y que reflejen eficacia, eficiencia, honestidad, productividad, transparencia, rendición de cuentas, Prácticas Prudentes, así como inversiones que se ejecuten de acuerdo con los planes y programadas autorizados por la Secretaría.\nII. Las TTEE se calculan, emiten, notifican, publican, revisan y, en su caso, ajustan conforme a lo establecido en las Disposiciones.\nIII. Las TTEE deben permitir recuperar los Costos eficientes y las Inversiones en los que incurra la Transportista por la prestación del Servicio Público de Transmisión de Energía Eléctrica, así como un retorno razonable.\nIV. La Comisión debe validar las tarifas de transmisión publicadas, con el fin de proteger los intereses de los Participantes del Mercado y las Usuarias Finales.\nV. La Comisión, en coordinación con la Secretaría, puede realizar la Revisión tarifaria a fin de reflejar las condiciones de operación de la Transportista.\nVI. La Comisión, en coordinación con la Secretaría, puede realizar la revisión y, en su caso, el ajuste a la Metodología, a fin de reflejar las condiciones económicas y de mercado, cambios en el marco normativo, la estructura de costos y/o condiciones de operación de la Transportista.\nVII. La Comisión puede reconocer ajustes compensatorios a la Transportista, en caso de errores u omisiones en la aplicación de la Metodología. El ajuste compensatorio se debe calcular sobre el IR determinado por la Comisión y no debe contemplar algún tipo de interés compensatorio, moratorio o de otra índole.\nVIII. Las TTEE determinadas conforme a la Metodología deben permanecer vigentes hasta en tanto se emita el acto administrativo que las ajuste.\nIX. La Metodología contenida en las Disposiciones debe permanecer vigente hasta en tanto la Comisión expida el Instrumento regulatorio que la modifique o sustituya.\nX. La Comisión puede aplicar las sanciones por las infracciones y abstenciones a las Disposiciones, de conformidad con lo dispuesto en la LSE, su Reglamento y demás\nnormatividad aplicable en materia de sanciones, aquella que la modifique o sustituya.\nXI. Por caso fortuito o fuerza mayor, la Comisión y/o la Transportista pueden cumplir con las obligaciones que derivan de las Disposiciones en plazos distintos a los establecidos en las mismas. Para tal efecto, la Transportista debe notificar a la Comisión o, en su caso, la Comisión a la Transportista, la ocurrencia del caso fortuito o fuerza mayor a la brevedad posible, a través de los medios oficiales previstos en el marco normativo vigente; la Comisión debe determinar los plazos de cumplimiento de las obligaciones que correspondan considerando la duración de éste, mismos que se deben notificar a la Transportista a través de los medios oficiales previstos en el marco normativo vigente. Se considera caso fortuito o fuerza mayor, hechos o acontecimientos imprevisibles o coyunturales ajenos a la voluntad de la Comisión y/o de la Transportista que imposibiliten o retrasen el cumplimiento de lo establecido en las Disposiciones.\n2.2.2. En la determinación de las tarifas de transmisión, la Comisión se debe coordinar con la Secretaría, quien debe validar dichas tarifas, conforme a las atribuciones establecidas en la normatividad aplicable."
+  },
+  {
+   "orden": 13,
+   "clave": "3.1",
+   "etiqueta": "Disposición 3.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 3. Información Regulatoria de Costos y Activos"
+   ],
+   "texto": "3.1. Entrega de la IRC\n3.1.1. La Transportista debe observar y cumplir con los criterios, periodo de información, especificaciones, instrucciones y formatos para la integración y presentación de la IRC conforme a lo que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determine la Comisión.\n3.1.2. La Transportista, a través de su Representante legal, es la responsable de remitir a la Comisión la IRC a más tardar el último día hábil del mes de agosto de cada año, a través de los medios oficiales previstos en el marco normativo vigente.\n3.1.3. La IRC que la Transportista entregue a la Comisión debe acompañarse de la documentación comprobatoria que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determine la Comisión; así como de la justificación correspondiente ante cualquier cambio o desviación respecto de la información entregada previamente."
+  },
+  {
+   "orden": 14,
+   "clave": "3.2",
+   "etiqueta": "Disposición 3.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 3. Información Regulatoria de Costos y Activos"
+   ],
+   "texto": "3.2. Revisión y verificación de la IRC\n3.2.1. La Comisión, durante el plazo establecido en la disposición 6.1.2, debe revisar y verificar que la IRC que presente la Transportista cumpla con lo que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determine la Comisión, dicho proceso comprende:\na. La revisión de la correcta aplicación de los criterios de integración y presentación de la información.\nb. La revisión de la confiabilidad, consistencia y comparabilidad de la información.\nc. La verificación de la información con base en la documentación comprobatoria (Estados Financieros Dictaminados, Comprobantes Fiscales Digitales por Internet, contratos y sus términos de referencia, informes, reportes oficiales, entre otros)."
+  },
+  {
+   "orden": 15,
+   "clave": "3.3",
+   "etiqueta": "Disposición 3.3",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 3. Información Regulatoria de Costos y Activos"
+   ],
+   "texto": "3.3. Requerimiento de información\n3.3.1. A partir de la recepción de la IRC y durante el plazo establecido en la disposición 6.1.2, la Comisión puede requerir a la Transportista aclaraciones, modificaciones o información complementaria o, en su caso, puede prevenir a la Transportista sobre cualquier omisión, inconsistencia o deficiencia en la información presentada. Asimismo, dentro de dicho plazo, la Comisión puede celebrar audiencias y mesas de trabajo con la Transportista para resolver los asuntos relacionados con la revisión y verificación de la IRC.\n3.3.2. La Transportista cuenta con un plazo máximo de diez (10) días hábiles posteriores a la fecha en que surta efectos la notificación del requerimiento de la Comisión referido en la disposición 3.3.1 para la atención de este; para tales efectos, la Transportista puede solicitar por única ocasión prórroga y, en su caso, la Comisión puede otorgarla hasta por la mitad del plazo establecido originalmente.\n3.3.3. En caso de que la Transportista no atienda el requerimiento de la Comisión dentro del plazo establecido, ésta puede tomar la mejor información disponible para aplicar la Metodología establecida en el Capítulo 5 de las Disposiciones.\n3.3.4. La IRC revisada y verificada por la Comisión, así como la información complementaria que ésta determine necesaria, constituye la base para el cálculo de las tarifas de transmisión conforme a lo establecido en el Capítulo 5 de las Disposiciones, así como para el seguimiento de costos por la prestación del SPTEE."
+  },
+  {
+   "orden": 16,
+   "clave": "3.4",
+   "etiqueta": "Disposición 3.4",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 3. Información Regulatoria de Costos y Activos"
+   ],
+   "texto": "3.4. Sanciones\n3.4.1. En caso de que la Transportista no entregue a la Comisión la IRC o no atienda las solicitudes de información de la Comisión referidas en la disposición 3.3.1, se pueden aplicar las sanciones conforme a la disposición 2.2.1, fracción X, de este instrumento."
+  },
+  {
+   "orden": 17,
+   "clave": "4.1",
+   "etiqueta": "Disposición 4.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 4. Composición y aplicación de las TTEE"
+   ],
+   "texto": "4.1. Composición y clasificación de las TTEE\n4.1.1. Las tarifas de transmisión se determinan a partir del IR, el FA y las Proyecciones de energía.\n4.1.2. Las TTEE se clasifican por uso de la RNT y nivel de tensión conforme a lo siguiente:\nUso de la RNT\nNivel de tensión\nInyección\n> 220 kV\n< 220 kV\nRetiro\n> 220 kV\n< 220 kV\n4.1.3. Las tarifas de transmisión se expresan en Pesos por kilowatt hora ($/kWh) y se redondean a cuatro decimales."
+  },
+  {
+   "orden": 18,
+   "clave": "4.2",
+   "etiqueta": "Disposición 4.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 4. Composición y aplicación de las TTEE"
+   ],
+   "texto": "4.2. Aplicación de las TTEE\n4.2.1. Las TTEE aplican a las Generadoras, Entidades Responsables de Carga y Almacenadoras.\n4.2.2. Las tarifas de transmisión por inyección aplican a las Generadoras y Almacenadoras por la inyección de energía eléctrica a la RNT que realicen, dependiendo del nivel de tensión del que hagan uso, conforme al Manual de Liquidaciones, el que lo modifique o sustituya.\n4.2.3. Las tarifas de transmisión por retiro aplican a las Entidades Responsables de Carga y Almacenadoras por el retiro de energía eléctrica de la RNT que realicen, dependiendo del nivel de tensión del que hagan uso, conforme al Manual de Liquidaciones, el que lo modifique o sustituya."
+  },
+  {
+   "orden": 19,
+   "clave": "5.1",
+   "etiqueta": "Disposición 5.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.1. Variables y Parámetros\n5.1.1. Las Variables y los Parámetros que integran la Metodología se especifican en los Lineamientos de Contabilidad Regulatoria o en los formatos que determine la Comisión.\n5.1.2. Las Variables y los Parámetros considerados en la Metodología pueden ser revisados y ajustados conforme al procedimiento establecido en el Capítulo 9 de las Disposiciones."
+  },
+  {
+   "orden": 20,
+   "clave": "5.2",
+   "etiqueta": "Disposición 5.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.2. El Ingreso Requerido\n5.2.1. El IR es la base cuantitativa para el cálculo de las TTEE.\n5.2.2. El Ingreso Requerido de la Transportista al año de aplicación de las TTEE se determina como se muestra a continuación:\nDonde:\nIngreso Requerido de la Transportista al , expresado en Pesos.\nCostos OMA del , expresado en Pesos.\nCosto de capital del , expresado en Pesos.\nCosto de Esquemas de Financiamiento con Terceros al , expresado en Pesos.\nCosto de Investigación y Desarrollo Tecnológico del expresado en Pesos.\nRetribución a las Inversiones al , expresada en Pesos.\nOtros ingresos del , expresado en Pesos.\nFactor de Actualización para el .\nAño de aplicación de las TTEE.\nAño Base."
+  },
+  {
+   "orden": 21,
+   "clave": "5.3",
+   "etiqueta": "Disposición 5.3",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.3. Costos OMA\n5.3.1. Los costos OMA corresponden a los costos de operación, mantenimiento, administración y otros costos erogados por la Transportista para cumplir con su objeto.\n5.3.2. Los costos OMA se integran de manera enunciativa mas no limitativa por los siguientes grupos de conceptos, aquellos que los modifiquen o sustituyan: remuneraciones y prestaciones al personal; costo de beneficios a empleados; mantenimiento; impuestos y derechos; seguridad de activos de operación; y, otros gastos. Dichos conceptos se integran conforme a lo que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determine la Comisión.\n5.3.3. Los costos OMA del Año Base se calculan de la siguiente manera:\nDonde:\nCostos OMA del , expresado en Pesos.\nValor del k-ésimo concepto que integra los costos OMA del , expresados en Pesos.\nNúmero total de conceptos que integran los costos OMA.\nAño Base."
+  },
+  {
+   "orden": 22,
+   "clave": "5.4",
+   "etiqueta": "Disposición 5.4",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.4. Costo de Capital\n5.4.1. El costo de capital corresponde a los costos asociados a los activos de la Transportista puestos en operación para la prestación del SPTEE.\n5.4.2. El costo de capital se integra, de manera enunciativa mas no limitativa, por los siguientes grupos de conceptos, aquellos que los modifiquen o sustituyan: retorno a los activos, depreciación de los activos, pérdida en bajas de activo fijo, y gasto por intereses, neto.\n5.4.3. El inventario de los activos de la Transportista y los conceptos del costo de capital se integran conforme a lo que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determine la Comisión.\n5.4.4. El costo de capital del Año Base se calcula de acuerdo con lo siguiente:\nDonde:\nCosto de capital del , expresado en Pesos.\nRetorno a los activos del , expresado en Pesos.\nDepreciación de los activos del , expresada en Pesos.\nPérdida en bajas de activo fijo del , expresada en Pesos.\nGasto por intereses, neto del , expresado en Pesos.\nAño Base.\n5.4.5. El retorno a los activos del Año Base se calcula de la siguiente manera:\nDonde:\nRetorno a los activos del , expresado en Pesos.\nValor neto del j-ésimo activo al , expresados en Pesos.\nValor neto del k-ésimo activo aportado por terceros al , expresados en Pesos.\nTasa de Retorno del , expresada en porcentaje.\nNúmero total de activos.\nNúmero total de activos aportados por terceros.\nAño Base.\n5.4.6. La se determina conforme a lo establecido en el Apartado A del Anexo Único de las Disposiciones.\n5.4.7. La depreciación de los activos del Año Base se determina de la siguiente manera:\nDonde:\nDepreciación de los activos del , expresada en Pesos.\nValor de la depreciación del j-ésimo activo del , expresados en Pesos.\nNúmero total de activos.\nAño Base.\n5.4.8. La pérdida en bajas de activo fijo del Año Base se determina de la siguiente manera:\nDonde:\nPérdida en bajas de activo fijo del , expresada en Pesos.\nValor del j-ésima pérdida en bajas de activo fijo del , expresados en Pesos.\nNúmero total de pérdidas en bajas de activo fijo.\nAño Base.\n5.4.9. El gasto por intereses, neto del Año Base se determina conforme a lo siguiente:\nDonde:\nGasto por intereses, neto del , expresado en Pesos.\nValor del k-ésimo concepto que integra el gasto por intereses, neto del , expresados en Pesos.\nNúmero total de conceptos que integran el gasto por intereses, neto.\nAño Base."
+  },
+  {
+   "orden": 23,
+   "clave": "5.5",
+   "etiqueta": "Disposición 5.5",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.5. Costo de Esquemas de Financiamiento con terceros\n5.5.1. Corresponde a los costos por pago de intereses, amortizaciones y otros gastos asociados a los esquemas de financiamiento con terceros que puede celebrar la Transportista, en los términos del artículo 152 del Reglamento, aquel que lo modifique o sustituya, para llevar a cabo proyectos de Ampliación y Modernización de la RNT. Dichos esquemas deben adjudicarse mediante procesos abiertos, competitivos, transparentes y no discriminatorios; en todo momento los activos objeto del proyecto deben mantenerse en propiedad del Estado; y, deben ser aprobados por la Secretaría.\n5.5.2. Los proyectos de inversión financiados mediante los esquemas referidos en la disposición 5.5.1 deben ser ejecutados conforme a los planes y programas vinculantes autorizados e instruidos por la Secretaría.\n5.5.3. Los criterios y consideraciones para el reconocimiento del Costo de esquemas de financiamiento con terceros al Año Base () se establecen en el acto administrativo mediante el cual la Comisión emite las TTEE."
+  },
+  {
+   "orden": 24,
+   "clave": "5.6",
+   "etiqueta": "Disposición 5.6",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.6. Costo de Investigación y Desarrollo Tecnológico\n5.6.1. Corresponde a los Costos eficientes en los que incurre la Transportista por la I+D relacionada con el Servicio Público de Transmisión de Energía Eléctrica, incluye el desarrollo de actividades como investigación de gabinete y laboratorio, pruebas en entornos simulados, desarrollo de prototipos, entre otras, así como, los costos relacionados con los proyectos piloto que prevé el artículo 15 del Reglamento, el que lo modifique o sustituya. Dichos costos pueden incluir, de manera enunciativa mas no limitativa, salarios, capacitación, pruebas de laboratorio, equipos y activos intangibles, sobre los cuales se reconoce su depreciación anual, y otros gastos vinculados a la I+D; estos costos se integran conforme a lo que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determine la Comisión.\n5.6.2. El costo de I+D del Año Base se determina conforme a lo siguiente:\nDonde:\nCosto de I+D del , expresado en Pesos.\nValor del k-ésimo concepto que integra el costo de I+D del , excepto equipo o activo intangible, expresados en Pesos.\nValor de la depreciación anual del j-ésimo equipo o activo intangible de I+D del , expresados en Pesos.\nNúmero total de conceptos que integran el costo de I+D.\nNúmero total de equipos o activos intangibles de I+D.\nAño Base.\n5.6.3. Los costos de I+D que establecen las disposiciones 5.6.1 y 5.6.2 no deben estar incluidos en los conceptos que integran los costos OMA y los costos de capital previstos en las disposiciones 5.3 y 5.4, ni estos en los costos de I+D, a fin de evitar la duplicidad de costos.\n5.6.4. Los activos que deriven de la I+D pueden integrarse a los activos de la Transportista puestos en operación para la prestación del Servicio Público de Transmisión de Energía Eléctrica, a fin de que reciban el retorno y depreciación previstos en las disposiciones 5.4.5 y 5.4.7, respectivamente.\n5.6.5. Los ingresos que obtenga la Transportista derivados de la comercialización, licenciamiento o cualquier otra modalidad de aprovechamiento de tecnologías, productos, servicios o derechos de propiedad intelectual, resultantes de la I+D, deben ser integrados en el concepto de otros ingresos que establece la disposición 5.8."
+  },
+  {
+   "orden": 25,
+   "clave": "5.7",
+   "etiqueta": "Disposición 5.7",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.7. Retribución a las Inversiones\n5.7.1. Corresponde a un incentivo por la ejecución de Inversiones establecidas en la planeación vinculante. Los criterios para la integración de la información de las Inversiones se especifican en los Lineamientos de Contabilidad Regulatoria o en los formatos que establece la Comisión.\n5.7.2. La retribución a las Inversiones al Año Base se integra por el retorno y depreciación a las Inversiones, la cual se determina conforme a lo siguiente:\nDonde:\nRetribución a las Inversiones al , expresada en Pesos.\nRetorno a las Inversiones al , expresado en Pesos.\nDepreciación de las Inversiones al , expresada en Pesos.\nAño Base.\n5.7.3. El retorno a las Inversiones al Año Base se calcula conforme a lo siguiente:\nDonde:\nRetorno a las Inversiones al , expresado en Pesos.\nValor de la i-ésima Inversión del , expresados en Pesos.\nFactor de Actualización del .\nTasa de Retorno del , expresada en porcentaje.\nNúmero total de Inversiones.\nAño inmediato anterior al de aplicación de las TTEE.\nAño Base.\n5.7.4. El se calcula conforme a lo establecido en la disposición 5.9.4.\n5.7.5. La se determina con base en lo establecido en el Apartado A del Anexo Único de las Disposiciones.\n5.7.6. La depreciación de las Inversiones al Año Base se determina de la siguiente manera:\nDonde:\nDepreciación de las Inversiones al , expresada en Pesos.\nDepreciación de la i-ésima Inversión del , expresada en Pesos.\nFactor de Actualización del .\nNúmero total de Inversiones.\nAño inmediato anterior al de aplicación de las TTEE.\nAño Base."
+  },
+  {
+   "orden": 26,
+   "clave": "5.8",
+   "etiqueta": "Disposición 5.8",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.8. Otros Ingresos\n5.8.1. Los otros ingresos corresponden a los ingresos de la Transportista distintos a los obtenidos por la prestación del Servicio Público de Transmisión de Energía Eléctrica.\n5.8.2. Los otros ingresos se integran de manera enunciativa mas no limitativa por los siguientes conceptos, aquellos que los modifiquen o sustituyan: ingresos intercompañía; ingresos derivados por la comercialización de productos y servicios tecnológicos resultantes de la I+D conforme a la disposición 5.6.5 de las Disposiciones; ingresos por servicios proporcionados a terceros; e, ingresos diversos por trabajos realizados. Dichos conceptos se integran conforme a lo que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determina la Comisión.\n5.8.3. Los otros ingresos del Año Base se calculan conforme a lo siguiente:\nDonde:\nOtros ingresos del , expresado en Pesos.\nValor del i-ésimo concepto que integra los otros ingresos del , expresados en Pesos.\nNúmero total de conceptos que integran los otros ingresos.\nAño Base."
+  },
+  {
+   "orden": 27,
+   "clave": "5.9",
+   "etiqueta": "Disposición 5.9",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.9. Factor de Actualización\n5.9.1. El FA se integra por la variación anual del Tipo de Cambio y del INPP ponderado, el cual se utiliza para la actualización de los elementos que integran la Metodología.\n5.9.2. El FA para el año de aplicación de las TTEE se determina conforme a lo siguiente:\nDonde:\nFactor de Actualización para el .\nFactor de Actualización del .\nFactor de Actualización del .\nAño de aplicación de las TTEE.\nAño Base.\nAño inmediato anterior al de aplicación de las TTEE.\n5.9.3. El FA del Año Base se determina conforme a lo siguiente:\nDonde:\nFactor de Actualización del .\nTipo de Cambio promedio del mes de referencia del .\nTipo de Cambio promedio del mes de referencia del .\nINPP ponderado del mes de referencia del\nINPP ponderado del mes de referencia del .\nIncidencia del Tipo de Cambio en el .\nIncidencia del INPP ponderado en el .\nAño Base.\nAño inmediato anterior al Año Base.\nMes de referencia.\n5.9.4. El FA del año inmediato anterior al de aplicación de las TTEE se determina conforme a lo siguiente:\nDonde:\nFactor de Actualización del .\nTipo de cambio promedio del mes de referencia del .\nTipo de cambio promedio del mes de referenciadel .\nINPP ponderado del mes de referencia del .\nINPP ponderado del mes de referencia del .\nIncidencia del Tipo de Cambio en el .\nIncidencia del INPP ponderado en el .\nAño inmediato anterior al de aplicación de las TTEE.\nAño Base.\nMes de referencia\n5.9.5. El se determina conforme a lo establecido en el Apartado B del Anexo Único de las Disposiciones.\n5.9.6. El mes de referencia (), se debe especificar en el acto administrativo mediante el cual la Comisión emite las TTEE y se debe incluir en la memoria de cálculo.\n5.9.7. La incidencia del Tipo de Cambio en el FA () se determina conforme a lo siguiente, y su valor se debe especificar en el acto administrativo mediante el cual la Comisión emite las TTEE y se debe incluir en la memoria de cálculo:\nDonde:\nIncidencia del Tipo de Cambio en el .\nValor de la deuda en dólares americanos (USD) del , expresados en Pesos. Los conceptos que integran esta Variable se especifican en los Lineamientos de Contabilidad Regulatoria o en los formatos que establece la Comisión.\nValor del Activo del , expresados en Pesos. Los conceptos que integran esta Variable se especifican en los Lineamientos de Contabilidad Regulatoria o en los formatos que establece la Comisión.\nAño Base.\ni-ésimo año considerado para el cálculo de respecto a .\n5.9.8. La incidencia del INPP ponderado en el FA () se determina conforme a lo siguiente, y su valor se debe especificar en el acto administrativo mediante el cual la Comisión emite las TTEE y se debe incluir en la memoria de cálculo:\nDonde:\nIncidencia del INPP ponderado en el .\nIncidencia del Tipo de Cambio en el ."
+  },
+  {
+   "orden": 28,
+   "clave": "5.10",
+   "etiqueta": "Disposición 5.10",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.10. Asignación del IR por uso de la RNT\n5.10.1. El IR se asigna por inyección y retiro de energía eléctrica de la RNT de la siguiente manera:\nDonde:\nIngreso Requerido de la Transportista al , expresado en Pesos.\nIngreso Requerido por inyección al , expresado en Pesos.\nIngreso Requerido por retiro al , expresado en Pesos.\nParámetro de asignación del Ingreso Requerido por inyección; 0.30.\nParámetro de asignación del Ingreso Requerido por retiro; 0.70.\nInyección de energía eléctrica.\nRetiro de energía eléctrica.\nAño de aplicación de las TTEE."
+  },
+  {
+   "orden": 29,
+   "clave": "5.11",
+   "etiqueta": "Disposición 5.11",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.11. Asignación del IR por nivel de tensión\n5.11.1. El IR por inyección en cada nivel de tensión al año de aplicación de las TTEE se determina de la siguiente manera:\nDonde:\nIngreso Requerido por inyección en cada nivel de tensión al , expresado en Pesos.\nProporción del ingreso recaudado por la aplicación de las TTEE por inyección en cada nivel de tensión.\nIngreso Requerido por inyección al , expresado en Pesos.\nInyección de energía eléctrica.\nNivel de tensión.\nAño de aplicación de las TTEE.\n5.11.2. La proporción del ingreso recaudado por la aplicación de las TTEE por inyección en cada nivel de tensión , se calcula conforme a lo siguiente:\nDonde:\nProporción del ingreso recaudado por la aplicación de las TTEE por inyección en cada nivel de tensión.\nIngreso recaudado por la aplicación de las TTEE por inyección en cada nivel de tensión del , expresado en Pesos.\nIngreso recaudado por la aplicación de las TTEE por inyección del , expresado en Pesos.\nNivel de tensión.\nInyección de energía eléctrica.\nAño Base.\n5.11.3. El IR por retiro en cada nivel de tensión al año de aplicación de las TTEE se determina de la siguiente manera:\nDonde:\nIngreso Requerido por retiro en cada nivel de tensión al , expresado en Pesos.\nProporción del ingreso recaudado por la aplicación de las TTEE por retiro en cada nivel de tensión.\nIngreso Requerido por retiro al , expresado en Pesos.\nRetiro de energía eléctrica.\nNivel de tensión.\nAño de aplicación de las TTEE.\n5.11.4. La proporción del ingreso recaudado por la aplicación de las TTEE por retiro en cada nivel de tensión se calcula conforme a lo siguiente:\nDonde:\nProporción del ingreso recaudado por la aplicación de las TTEE por retiro en cada nivel de tensión.\nIngreso recaudado por la aplicación de las TTEE por retiro en cada nivel de tensión del , expresado en Pesos.\nIngreso recaudado por la aplicación de las TTEE por retiro del , expresado en Pesos.\nRetiro de energía eléctrica.\nNivel de tensión.\nAño Base."
+  },
+  {
+   "orden": 30,
+   "clave": "5.12",
+   "etiqueta": "Disposición 5.12",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.12. TTEE\n5.12.1. Las TTEE para el año de aplicación se calculan con base en el IR por uso de la RNT asignado en cada nivel de tensión conforme a la disposición 5.11 y las Proyecciones de energía.\n5.12.2. La información de las Proyecciones de energía corresponde con lo establecido en las Disposiciones administrativas de carácter general que establecen la metodología para determinar el cálculo y ajuste de las Tarifas Reguladas para el servicio de operación del Centro Nacional de Control de Energía, aquellas que las modifiquen o sustituyan.\n5.12.3. Las TTEE por inyección en cada nivel de tensión para el año de aplicación se determinan conforme a lo siguiente:\nDonde:\nTTEE por inyección en cada nivel de tensión para el , expresada en Pesos/kWh.\nIngreso Requerido por inyección en cada nivel de tensión al , expresado en Pesos.\nProyección de energía inyectada en cada nivel de tensión al , expresada en kWh.\nInyección de energía eléctrica.\nNivel de tensión.\nAño de aplicación de las TTEE.\n5.12.4. Las TTEE por retiro en cada nivel de tensión para el año de aplicación se determinan conforme a lo siguiente:\nDonde:\nTTEE por retiro en cada nivel de tensión para el , expresada en Pesos/kWh.\nIngreso Requerido por retiro en cada nivel de tensión al , expresado en Pesos.\nProyección de energía retirada en cada nivel de tensión al , expresada en kWh.\nRetiro de energía eléctrica.\nNivel de tensión.\nAño de aplicación de las TTEE."
+  },
+  {
+   "orden": 31,
+   "clave": "5.13",
+   "etiqueta": "Disposición 5.13",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.13. Ajustes a las TTEE por evaluación del desempeño\n5.13.1. La Comisión, en su caso, puede realizar ajustes a las TTEE con base en la evaluación del desempeño de la Transportista.\n5.13.2. La evaluación del desempeño de la Transportista puede sujetarse a lo establecido en las DACG en Materia de Acceso Abierto, aquellas que las modifiquen o sustituyan.\n5.13.3. Las consideraciones para lo previsto en la disposición 5.13.1, se deben establecer en el acto administrativo mediante el cual la Comisión emite las TTEE."
+  },
+  {
+   "orden": 32,
+   "clave": "5.14",
+   "etiqueta": "Disposición 5.14",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 5. Metodología"
+   ],
+   "texto": "5.14. Reconocimiento de las pérdidas técnicas y no técnicas\n5.14.1. Las TTEE determinadas conforme a la disposición 5.12 permiten recuperar el ingreso necesario para el SPTEE sin el reconocimiento del costo de las pérdidas técnicas y no técnicas de energía eléctrica, por lo que las pérdidas técnicas y no técnicas de energía eléctrica reconocidas por la Comisión deben ser pagadas por las Entidades Responsables de Carga conforme a lo establecido en las Bases del Mercado Eléctrico, el Manual de Liquidaciones y demás normatividad aplicable, aquella que la modifique o sustituya.\n5.14.2. Las pérdidas técnicas y no técnicas de energía eléctrica reconocidas se establecen en la regulación que al efecto emita la Comisión."
+  },
+  {
+   "orden": 33,
+   "clave": "6.1",
+   "etiqueta": "Disposición 6.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 6. Cálculo, emisión, notificación y publicación de las TTEE"
+   ],
+   "texto": "6.1. Cálculo\n6.1.1. La Comisión determina las tarifas de transmisión de conformidad con la Metodología establecida en el Capítulo 5 de las Disposiciones.\n6.1.2. La Comisión cuenta con setenta y cinco (75) días hábiles posteriores a la recepción de la IRC para determinar el cálculo de las TTEE conforme a lo establecido en el Capítulo 5 de las Disposiciones."
+  },
+  {
+   "orden": 34,
+   "clave": "6.2",
+   "etiqueta": "Disposición 6.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 6. Cálculo, emisión, notificación y publicación de las TTEE"
+   ],
+   "texto": "6.2. Emisión\n6.2.1. La Comisión, previa opinión favorable de la Secretaría, debe emitir las tarifas de transmisión mediante el acto administrativo correspondiente, el cual debe contener el fundamento y consideraciones para su determinación y emisión, la fecha de entrada en vigor, el periodo de aplicación, el valor y la unidad en que las TTEE son expresadas."
+  },
+  {
+   "orden": 35,
+   "clave": "6.3",
+   "etiqueta": "Disposición 6.3",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 6. Cálculo, emisión, notificación y publicación de las TTEE"
+   ],
+   "texto": "6.3. Notificación\n6.3.1. La Comisión debe notificar a la Transportista y al CENACE el acto administrativo referido en la disposición 6.2.1, previo al periodo de aplicación de las tarifas de transmisión."
+  },
+  {
+   "orden": 36,
+   "clave": "6.4",
+   "etiqueta": "Disposición 6.4",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 6. Cálculo, emisión, notificación y publicación de las TTEE"
+   ],
+   "texto": "6.4. Publicación\n6.4.1. La Transportista debe publicar las TTEE en el DOF dentro de los veinte (20) días hábiles posteriores a la notificación referida en la disposición 6.3.1, sin que dicha publicación sea vinculatoria para el inicio de los efectos de las tarifas de transmisión.\n6.4.2. La Transportista, en un plazo de diez (10) días hábiles posteriores a la notificación referida en la disposición 6.3.1, debe dar a conocer a través de Medios de difusión formales, la fecha de entrada en vigor, el periodo de aplicación, el valor y la unidad en que las TTEE son expresadas, de conformidad con lo establecido en el acto administrativo referido en la disposición 6.2.1.\n6.4.3. La Transportista cuenta con cinco (5) días hábiles posteriores a la difusión para informar a la Comisión, a través de los medios oficiales previstos en el marco normativo vigente, y comprobar,\ncon base en evidencia documental, el cumplimiento de lo establecido en la disposición 6.4.2.\n6.4.4. La Comisión debe publicar la memoria de cálculo empleada para la determinación o ajuste de las TTEE en su portal de internet, dentro de los diez (10) días hábiles posteriores a la fecha de su entrada en vigor establecida en el acto administrativo referido en la disposición 6.2.1."
+  },
+  {
+   "orden": 37,
+   "clave": "7.1",
+   "etiqueta": "Disposición 7.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 7. Validación de la publicación y reporte del ingreso obtenido por las TTEE"
+   ],
+   "texto": "7.1. Validación de la publicación de las TTEE\n7.1.1. La Comisión debe validar que las tarifas de transmisión y sus especificaciones publicadas por la Transportista en el DOF y en Medios de difusión formales, conforme a lo establecido en la disposición 6.4, correspondan con las emitidas por la Comisión, en un plazo no mayor a cinco (5) días hábiles contados a partir de la publicación de las TTEE en el DOF y del día hábil siguiente a la recepción del informe previsto en la disposición 6.4.3, respectivamente.\n7.1.2. En caso de que la Comisión identifique discrepancias entre las TTEE emitidas y las publicadas, ésta debe solicitar a la Transportista, a través de los medios oficiales previstos en el marco normativo vigente, realizar las correcciones necesarias.\n7.1.3. La Transportista debe realizar las correcciones correspondientes en el DOF y/o en los Medios de difusión formales en los que haya publicado las tarifas de transmisión, dentro de los plazos de veinte (20) y diez (10) días hábiles, respectivamente, contados a partir de la notificación de la solicitud referida en la disposición 7.1.2; para estos efectos, la Transportista puede solicitar prórroga y, en su caso, la Comisión puede otorgarla por única ocasión hasta por la mitad del plazo concedido originalmente. Si posterior a dicho plazo la Transportista no realiza las correcciones a las TTEE, se pueden aplicar las sanciones conforme a la disposición 2.2.1, fracción X."
+  },
+  {
+   "orden": 38,
+   "clave": "7.2",
+   "etiqueta": "Disposición 7.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 7. Validación de la publicación y reporte del ingreso obtenido por las TTEE"
+   ],
+   "texto": "7.2. Reporte del ingreso obtenido por las TTEE\n7.2.1. La Transportista, por conducto de su Representante legal, debe presentar anualmente a la Comisión, a través de los medios oficiales previstos en el marco normativo vigente, un reporte del ingreso obtenido por las TTEE correspondiente a un año calendario de prestación del Servicio Público de Transmisión de Energía Eléctrica. Dicho reporte se debe entregar dentro de los primeros veinte (20) días hábiles posteriores al cierre del año calendario que se reporte, con un desglose mensual que debe incluir, al menos, la siguiente información: (i) año reportado, (ii) mes reportado, (iii) número de cuenta, (iv) valor de la TTEE, (v) tipo de TTEE, (vi) nivel de tensión, (vii) energía eléctrica inyectada o retirada, y (viii) ingreso mensual obtenido por las TTEE, conforme a lo que especifican los Lineamientos de Contabilidad Regulatoria o los formatos que determina la Comisión. Si posterior a dicho plazo la Transportista no entrega el reporte, se pueden aplicar las sanciones conforme a la disposición 2.2.1, fracción X.\n7.2.2. La Transportista puede solicitar prórroga para presentar el reporte anual establecido en la disposición 7.2.1, en su caso, la Comisión puede otorgar por única ocasión una prórroga de hasta diez (10) días hábiles para que la Transportista entregue dicho reporte. Si posterior a dicho plazo la Transportista no entrega el reporte anual, se pueden aplicar las sanciones conforme a la disposición 2.2.1, fracción X.\n7.2.3. La Comisión debe revisar que el reporte anual que entregue la Transportista contenga la información descrita en la disposición 7.2.1 y, en caso de que éste sea incompleto, presente cambios y/o desviaciones respecto de dicha información, la Comisión puede requerirle, a través de los medios oficiales previstos en el marco normativo vigente, la información complementaria o, en su caso, la justificación de cualquier cambio o desviación, para lo cual la Transportista cuenta con un plazo de hasta diez (10) días hábiles posteriores a la notificación del requerimiento para su atención; para tales efectos, la Transportista puede solicitar prórroga y, en su caso, la Comisión puede otorgarla hasta por la mitad del plazo establecido originalmente. Si posterior a dicho plazo, la Transportista no atiende el requerimiento de la Comisión, se pueden aplicar las sanciones conforme a la disposición 2.2.1, fracción X.\n7.2.4. El reporte anual revisado por la Comisión se emplea para complementar la información establecida en la disposición 3.3.4."
+  },
+  {
+   "orden": 39,
+   "clave": "8.1",
+   "etiqueta": "Disposición 8.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 8. Revisión y ajuste de las TTEE"
+   ],
+   "texto": "8.1. Revisión por la Comisión\n8.1.1. La Comisión, en cualquier momento, puede realizar la Revisión tarifaria a fin de reflejar las condiciones de operación de la Transportista.\n8.1.2. Para la Revisión tarifaria, la Comisión puede tomar como referencia la IRC, solicitar a la Transportista la información que estime necesaria, en los formatos que para ello determine, a través de los medios oficiales previstos en el marco normativo vigente, y hacer uso de fuentes de información públicas relacionadas con indicadores económicos y con el sector eléctrico, considerar las mejores prácticas regulatorias y análisis comparativos, así como emplear herramientas de evaluación e indicadores de desempeño.\n8.1.3. En caso de que la Comisión solicite información a la Transportista, ésta cuenta con un plazo máximo de diez (10) días hábiles posteriores a la notificación de la solicitud para la atención de ésta; para tales efectos, la Transportista puede solicitar por única ocasión prórroga para atender dicha solicitud y, en su caso, la Comisión puede otorgarla hasta por la mitad del plazo establecido originalmente. En caso de que la información que presente la Transportista sea insuficiente o incompleta, la Comisión puede requerirle, a través de los medios oficiales previstos en el marco normativo vigente, información complementaria, y la Transportista cuenta con un plazo de cinco (5) días hábiles posteriores a la notificación del requerimiento para entregar dicha información. Si posterior a los plazos establecidos, la Transportista no atiende los requerimientos de información de la Comisión, se pueden aplicar las sanciones conforme a la disposición 2.2.1, fracción X.\n8.1.4. Si derivado de la Revisión tarifaria establecida en la disposición 8.1.1, la Comisión determina realizar el ajuste a las tarifas de transmisión, este se debe efectuar conforme a lo establecido en la disposición 8.6."
+  },
+  {
+   "orden": 40,
+   "clave": "8.2",
+   "etiqueta": "Disposición 8.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 8. Revisión y ajuste de las TTEE"
+   ],
+   "texto": "8.2. Revisión a solicitud de la Transportista\n8.2.1. La Transportista puede solicitar a la Comisión, por conducto de su Representante legal, a través de los medios oficiales previstos en el marco normativo vigente, la Revisión tarifaria a fin de reflejar sus condiciones de operación. La solicitud debe acompañarse de la justificación correspondiente, así como de la información y documentación a la que se refiere la disposición 8.3 y el acreditamiento del pago de derechos o aprovechamientos conforme al marco normativo vigente.\n8.2.2. La Comisión cuenta con un plazo de noventa (90) días hábiles contados a partir de la recepción de la solicitud de la Transportista, mismo que puede extenderse hasta ciento veinte (120) días hábiles, para llevar a cabo la Revisión tarifaria.\n8.2.3. Una vez realizado el análisis y evaluación correspondiente, la Comisión debe resolver sobre la procedencia o improcedencia de la solicitud de Revisión tarifaria referida en la disposición 8.2.1. De ser procedente la solicitud de Revisión tarifaria, se aplica lo establecido en la disposición 8.6; en caso de ser improcedente, la Comisión debe informar a la Transportista a través de los medios oficiales previstos en el marco normativo vigente, quedando a salvo el derecho de la Transportista para presentar una nueva solicitud."
+  },
+  {
+   "orden": 41,
+   "clave": "8.3",
+   "etiqueta": "Disposición 8.3",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 8. Revisión y ajuste de las TTEE"
+   ],
+   "texto": "8.3. Entrega de la información\n8.3.1. La Transportista debe observar y cumplir con los criterios, periodo de información, especificaciones, instrucciones y formatos para la integración y presentación de la información soporte y documentación comprobatoria de su solicitud de Revisión tarifaria, a que se hace referencia en la disposición 8.2.1, conforme a lo que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determina la Comisión.\n8.3.2. En caso de que la información que entregue la Transportista no se encuentre en términos de lo que establecen los Lineamientos de Contabilidad Regulatoria o los formatos que determina la Comisión, ésta debe acompañarla de la justificación correspondiente."
+  },
+  {
+   "orden": 42,
+   "clave": "8.4",
+   "etiqueta": "Disposición 8.4",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 8. Revisión y ajuste de las TTEE"
+   ],
+   "texto": "8.4. Revisión y verificación de la información\n8.4.1. La Comisión debe revisar y verificar la información que presente la Transportista en la solicitud de Revisión tarifaria conforme al proceso establecido en la disposición 3.2.1, dentro de los primeros cuarenta y cinco (45) días hábiles del plazo establecido en la disposición 8.2.2."
+  },
+  {
+   "orden": 43,
+   "clave": "8.5",
+   "etiqueta": "Disposición 8.5",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 8. Revisión y ajuste de las TTEE"
+   ],
+   "texto": "8.5. Requerimiento de información\n8.5.1. A partir de la recepción de la solicitud de Revisión tarifaria y durante el periodo establecido en la disposición 8.4.1, la Comisión puede requerir a la Transportista, a través de los medios oficiales previstos en el marco normativo vigente, las aclaraciones, modificaciones o requerimientos complementarios sobre la información presentada; asimismo, puede prevenirla sobre cualquier omisión, inconsistencia o deficiencia de ésta.\n8.5.2. La Transportista cuenta con un plazo máximo de diez (10) días hábiles a partir de que surta efectos la notificación del requerimiento referido en la disposición 8.5.1 para la atención de éste; para tales efectos, la Transportista puede solicitar por única ocasión prórroga y, en su caso, la Comisión puede otorgarla hasta por la mitad del plazo establecido originalmente.\n8.5.3. En caso de que la Transportista no atienda el requerimiento de la Comisión referido en la disposición 8.5.1 dentro del plazo establecido, ésta puede desechar la solicitud referida en la disposición 8.2.1.\n8.5.4. Durante el periodo establecido en la disposición 8.2.2, la Comisión puede: a) requerir a la Transportista la información complementaria que considere necesaria para resolver la solicitud de revisión de las tarifas de transmisión; b) realizar investigaciones; c) recabar información de otras fuentes; d) efectuar consultas con autoridades federales, estatales, municipales, de la Ciudad de México, y de los órganos político-administrativos de sus demarcaciones territoriales; e) celebrar\naudiencias; y, f) realizar, en general, cualquier acción que considere necesaria para resolver sobre la solicitud de revisión de las TTEE.\n8.5.5. La información entregada por la Transportista, así como la información complementaria que determine necesaria la Comisión, es la base para el ajuste de las tarifas de transmisión, en caso de ser procedente."
+  },
+  {
+   "orden": 44,
+   "clave": "8.6",
+   "etiqueta": "Disposición 8.6",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 8. Revisión y ajuste de las TTEE"
+   ],
+   "texto": "8.6. Ajuste de las TTEE\n8.6.1. Para el ajuste a las tarifas de transmisión, la Comisión debe observar, en lo que aplique, lo dispuesto en el Capítulo 6 de las Disposiciones y, previa opinión favorable de la Secretaría, emitir el acto administrativo mediante el cual se formaliza el ajuste a las TTEE. En dicho acto administrativo la Comisión debe señalar los criterios considerados para la determinación del nuevo IR y las TTEE derivadas de la Revisión tarifaria.\n8.6.2. Las tarifas de transmisión vigentes deben continuar aplicando hasta en tanto la Comisión emita y notifique su ajuste a través del acto administrativo correspondiente."
+  },
+  {
+   "orden": 45,
+   "clave": "9.1",
+   "etiqueta": "Disposición 9.1",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 9. Revisión y ajuste de la Metodología"
+   ],
+   "texto": "9.1. Revisión por la Comisión\n9.1.1. La Comisión puede revisar y, en su caso, ajustar la Metodología, a fin de reflejar las condiciones económicas y de mercado, cambios en el marco normativo, la estructura de costos y/o condiciones de operación de la Transportista.\n9.1.2. Para la revisión de la Metodología, la Comisión puede tomar como referencia la IRC, solicitar a la Transportista la información que estime necesaria, en los formatos que para ello determine, a través de los medios oficiales previstos en el marco normativo vigente, y hacer uso de fuentes de información públicas relacionadas con indicadores económicos y con el sector eléctrico, considerar las mejores prácticas regulatorias y análisis comparativos, así como emplear herramientas de evaluación e indicadores de desempeño.\n9.1.3. En caso de que la Comisión solicite información a la Transportista, ésta cuenta con un plazo máximo de diez (10) días hábiles posteriores a la notificación de la solicitud para la atención de ésta; para tales efectos, la Transportista puede solicitar por única ocasión prórroga y, en su caso, la Comisión puede otorgarla hasta por la mitad del plazo establecido originalmente. En caso de que la información que presente la Transportista sea insuficiente o incompleta, la Comisión puede requerirle, a través de los medios oficiales previstos en el marco normativo vigente, información complementaria, y la Transportista cuenta con un plazo de hasta diez (10) días hábiles posteriores a la notificación del requerimiento para entregar dicha información; para tales efectos, la Transportista puede solicitar por única ocasión prórroga y, en su caso, la Comisión puede otorgarla hasta por la mitad del plazo establecido originalmente. Si posterior a los plazos establecidos, la Transportista no atiende los requerimientos de información de la Comisión, se pueden aplicar las sanciones conforme a la disposición 2.2.1, fracción X.\n9.1.4. Si derivado de la revisión establecida en la disposición 9.1.1, la Comisión determina realizar el ajuste a la Metodología, este se debe efectuar de acuerdo con lo establecido en la disposición 9.3."
+  },
+  {
+   "orden": 46,
+   "clave": "9.2",
+   "etiqueta": "Disposición 9.2",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 9. Revisión y ajuste de la Metodología"
+   ],
+   "texto": "9.2. Revisión a solicitud de la Transportista\n9.2.1. La Transportista puede solicitar a la Comisión, por conducto de su Representante legal, la revisión y ajuste de la Metodología, a través de los medios oficiales previstos en el marco normativo vigente, a fin de reflejar las condiciones económicas y de mercado, cambios en el marco normativo, la estructura de costos y/o sus condiciones de operación. La solicitud debe acompañarse de la justificación, documentación e información comprobatoria correspondiente, así como del acreditamiento del pago de derechos o aprovechamientos conforme al marco normativo vigente.\n9.2.2. La Comisión puede requerir a la Transportista, a través de los medios oficiales previstos en el marco normativo vigente, aclaraciones e información complementaria a la solicitud presentada. Asimismo, la Comisión puede celebrar audiencias y mesas de trabajo con la Transportista para resolver los asuntos relacionados con la solicitud.\n9.2.3. En caso de que la Comisión requiera aclaraciones o información complementaria a la Transportista, ésta cuenta con un plazo máximo de diez (10) días hábiles posteriores a la notificación del requerimiento para la atención de éste; para tales efectos, la Transportista puede solicitar por única ocasión prórroga y, en su caso, la Comisión puede otorgarla hasta por la mitad del plazo establecido originalmente. Si la Transportista no atiende el requerimiento de la Comisión dentro de los plazos establecidos, ésta puede desechar la solicitud referida en la disposición 9.2.1.\n9.2.4. Una vez que la Comisión cuente con la información completa, debe realizar el análisis y evaluación correspondiente y resolver sobre la procedencia o improcedencia de la solicitud referida en la disposición 9.2.1. En caso de ser procedente dicha solicitud, se debe aplicar lo establecido en la disposición 9.3; de ser improcedente, la Comisión debe informar a la Transportista a través de los medios oficiales previstos en el marco normativo vigente, quedando a salvo el derecho de la Transportista para presentar una nueva solicitud."
+  },
+  {
+   "orden": 47,
+   "clave": "9.3",
+   "etiqueta": "Disposición 9.3",
+   "ruta": [
+    "ANEXO ÚNICO",
+    "Capítulo 9. Revisión y ajuste de la Metodología"
+   ],
+   "texto": "9.3. Expedición del ajuste a la Metodología\n9.3.1. El Comité Técnico de la Comisión, previa opinión favorable de la Secretaría debe aprobar y expedir el ajuste a la Metodología mediante el Instrumento Regulatorio correspondiente, el cual debe especificar la fecha de entrada en vigor y los criterios considerados para dicho ajuste.\n9.3.2. La Comisión debe tramitar, previa opinión favorable de la Secretaría, la publicación del Instrumento regulatorio que refiere la disposición 9.3.1 en el DOF dentro de un plazo de diez (10) días hábiles posteriores a la expedición de dicho Instrumento.\n9.3.3. La Metodología vigente debe continuar aplicando hasta en tanto entre en vigor la Metodología ajustada prevista en la disposición 9.3.1.\n9.3.4. La Comisión debe emitir las tarifas de transmisión determinadas con la Metodología ajustada mediante el acto administrativo correspondiente, para lo cual debe observar, en lo que aplique, el Capítulo 6 de las Disposiciones; las tarifas de transmisión vigentes deben continuar aplicando hasta en tanto la Comisión emita su ajuste."
+  },
+  {
+   "orden": 48,
+   "clave": "transitorio primero",
+   "etiqueta": "Transitorio primero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "PRIMERO. El presente Acuerdo entra en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 49,
+   "clave": "transitorio segundo",
+   "etiqueta": "Transitorio segundo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "SEGUNDO. A partir de la entrada en vigor de las Disposiciones expedidas mediante el presente Acuerdo, queda sin efectos cualquier disposición, acuerdo, resolución o notificación que se oponga a su contenido, incluyendo las disposiciones aprobadas mediante el Acuerdo A/044/2022 publicado en el Diario Oficial de la Federación el 31 de marzo de 2023."
+  },
+  {
+   "orden": 50,
+   "clave": "transitorio tercero",
+   "etiqueta": "Transitorio tercero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "TERCERO. La Comisión Nacional de Energía debe determinar las Tarifas Reguladas para el Servicio Público de Transmisión de Energía Eléctrica para 2026 conforme a las Disposiciones expedidas mediante el presente Acuerdo, empleando la última Información Regulatoria de Costos y Activos entregada por la Transportista de energía eléctrica y verificada por la Comisión Nacional de Energía."
+  },
+  {
+   "orden": 51,
+   "clave": "transitorio cuarto",
+   "etiqueta": "Transitorio cuarto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "CUARTO. Hasta en tanto se expidan los Lineamientos de Contabilidad Regulatoria, la Comisión Nacional de Energía debe notificar a la Transportista de energía eléctrica los criterios, periodo de información, especificaciones, instrucciones y formatos para la integración de la Información Regulatoria de Costos y Activos."
+  },
+  {
+   "orden": 52,
+   "clave": "transitorio quinto",
+   "etiqueta": "Transitorio quinto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "QUINTO. La Comisión Nacional de Energía debe notificar a la Transportista de energía eléctrica, dentro de un plazo de treinta (30) días hábiles posteriores a la fecha de entrada en vigor del presente Acuerdo, los criterios, periodo de información, especificaciones, instrucciones y formatos para la integración de la Información Regulatoria de Costos y Activos; la Transportista de energía eléctrica debe entregar a la Comisión Nacional de Energía dicha información conforme a lo establecido en la disposición 3.1.2 de las Disposiciones expedidas mediante el presente Acuerdo."
+  },
+  {
+   "orden": 53,
+   "clave": "transitorio sexto",
+   "etiqueta": "Transitorio sexto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "SEXTO. Hasta en tanto se expida la regulación a que refiere la disposición 5.14.2 de las Disposiciones expedidas mediante el presente Acuerdo, el costo de las pérdidas de energía eléctrica en la Red Nacional de Transmisión reconocidas está integrado en las tarifas de transmisión, conforme a lo establecido en el Acuerdo A/045/2015, emitido por la extinta Comisión Reguladora de Energía."
+  },
+  {
+   "orden": 54,
+   "clave": "transitorio septimo",
+   "etiqueta": "Transitorio séptimo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "SÉPTIMO. El primer reporte que refiere la disposición 7.2.1 de las Disposiciones expedidas mediante el presente Acuerdo, debe corresponder con la información derivada del primer año de aplicación de las tarifas de transmisión determinadas conforme a dicha Metodología."
+  },
+  {
+   "orden": 55,
+   "clave": "transitorio octavo",
+   "etiqueta": "Transitorio octavo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "OCTAVO. Hasta en tanto se emitan las Tarifas Reguladas para el Servicio Público de Transmisión de Energía Eléctrica que resulten de aplicar las Disposiciones expedidas mediante el presente Acuerdo, aplican las tarifas de transmisión que se encuentran vigentes."
+  },
+  {
+   "orden": 56,
+   "clave": null,
+   "etiqueta": "ANEXO ÚNICO",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "ANEXO ÚNICO\nDE LAS DISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL QUE ESTABLECEN LA METODOLOGÍA PARA DETERMINAR EL CÁLCULO Y AJUSTE DE LAS TARIFAS REGULADAS PARA EL SERVICIO PÚBLICO DE TRANSMISIÓN DE ENERGÍA ELÉCTRICA\nApartado A. Determinación de la Tasa de Retorno\n1. Consideraciones generales"
+  },
+  {
+   "orden": 57,
+   "clave": "1.1 [2]",
+   "etiqueta": "Disposición 1.1 [2]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "1.1. La TR del Año Base se determina para cada año de aplicación de las TTEE."
+  },
+  {
+   "orden": 58,
+   "clave": "1.2 [2]",
+   "etiqueta": "Disposición 1.2 [2]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "1.2. Las fuentes de información, criterios y consideraciones que se utilizan para la determinación de la se deben establecer en el acto administrativo mediante el cual la Comisión emite las tarifas de transmisión y se deben incluir en la memoria de cálculo.\n2. Determinación"
+  },
+  {
+   "orden": 59,
+   "clave": "2.1 [2]",
+   "etiqueta": "Disposición 2.1 [2]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "2.1. La TR del Año Base se calcula conforme a lo siguiente:\nDonde:\nTasa de Retorno del , expresada en porcentaje.\nTasa de retorno nominal después de impuestos del , expresada en porcentaje.\nVariación del Índice Nacional de Precios al Consumidor, publicado por el INEGI, de diciembre del respecto a diciembre del año inmediato anterior, expresada en porcentaje.\nAño Base."
+  },
+  {
+   "orden": 60,
+   "clave": "2.2 [2]",
+   "etiqueta": "Disposición 2.2 [2]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "2.2. La tasa de retorno nominal después de impuestos del Año Base se calcula conforme a lo siguiente:\nDonde:\nTasa de retorno nominal después de impuestos del , expresada en porcentaje.\nCosto de capital del , expresado en porcentaje.\nApalancamiento de la Transportista del , expresado en porcentaje.\nCosto de la deuda después de impuestos del , expresado en porcentaje.\nAño Base.\n2.2.1. El costo de capital del Año Base se calcula conforme a lo siguiente:\nDonde:\nCosto de capital del , expresado en porcentaje.\nTasa libre de riesgo del , expresada en porcentaje.\nBeta apalancada del .\nPrima de riesgo de mercado de referencia del , expresada en porcentaje.\nPrima de riesgo de mercado local del , expresada en porcentaje.\nAño Base.\n2.2.2. El costo de la deuda después de impuestos del Año Base se calcula conforme a lo siguiente:\nDonde:\nCosto de la deuda después de impuestos del , expresado en porcentaje.\nTasa libre de riesgo del , expresada en porcentaje.\nSpread de Bonos del , expresado en porcentaje.\nTasa del impuesto sobre la renta para personas morales vigente en el , expresada en porcentaje.\nAño Base.\n2.2.3. El apalancamiento de la Transportista del Año Base se calcula conforme a lo siguiente:\nDonde:\nApalancamiento de la Transportista del , expresado en porcentaje.\nValor de la deuda del , expresado en Pesos.\nValor del patrimonio del , expresado en Pesos.\nAño Base.\n2.2.4. La beta apalancada del Año Base se calcula conforme a lo siguiente:\nDonde:\nBeta apalancada del .\nBeta desapalancada del .\nTasa del impuesto sobre la renta para personas morales vigente en el , expresada en porcentaje.\nApalancamiento de la Transportista del , expresado en porcentaje.\nAño Base.\nApartado B. Determinación del INPP ponderado\n1. Consideraciones generales"
+  },
+  {
+   "orden": 61,
+   "clave": "1.1 [3]",
+   "etiqueta": "Disposición 1.1 [3]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "1.1. El INPP ponderado se determina con base en la última información disponible de la Matriz Insumo-Producto (MIP), el INPP y sus ponderadores publicados por el INEGI en su portal electrónico, o la institución que asuma sus funciones."
+  },
+  {
+   "orden": 62,
+   "clave": "1.2 [3]",
+   "etiqueta": "Disposición 1.2 [3]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "1.2. La MIP se analiza a fin de seleccionar las actividades económicas proveedoras de mayor incidencia en la actividad de transmisión de energía eléctrica e identificar sus INPP y ponderadores (), correspondientes."
+  },
+  {
+   "orden": 63,
+   "clave": "1.3 [2]",
+   "etiqueta": "Disposición 1.3 [2]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "1.3. Las fuentes de información, consideraciones, los INPP y sus ponderadores empleados en la determinación del INPP ponderado se deben establecer en el acto administrativo mediante el cual la Comisión emite las tarifas de transmisión y se deben incluir en la memoria de cálculo.\n2. Determinación"
+  },
+  {
+   "orden": 64,
+   "clave": "2.1 [3]",
+   "etiqueta": "Disposición 2.1 [3]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "2.1. El INPP ponderado se determina para el mes y año de referencia como la suma ponderada de los INPP de las actividades seleccionadas de acuerdo con lo establecido en el numeral 1.2 de este Apartado, conforme a lo siguiente:\nDonde:\nINPP ponderado del mes y año de referencia.\nPonderador del k-ésimo INPP de las actividades seleccionadas.\nValor del k-ésimo INPP de las actividades seleccionadas del mes y año de referencia.\nNúmero total de INPP de las actividades seleccionadas.\nMes de referencia.\nAño de referencia."
+  },
+  {
+   "orden": 65,
+   "clave": "2.2 [3]",
+   "etiqueta": "Disposición 2.2 [3]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "2.2. El ponderador se determina conforme a lo siguiente:\nDonde:\nPonderador del k-ésimo INPP de las actividades seleccionadas.\nPonderador del INPP de la i-ésima actividad seleccionada.\nNúmero total de actividades seleccionadas.\n3. Actividades económicas seleccionadas y sus ponderadores"
+  },
+  {
+   "orden": 66,
+   "clave": "3.1 [2]",
+   "etiqueta": "Disposición 3.1 [2]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "3.1. Las actividades económicas seleccionadas, así como los valores de sus correspondientes ponderadores son:\nCódigo SCIAN\nActividad\nd\n2211\nGeneración, transmisión, distribución y comercialización de energía eléctrica\n0.096\n3251\nFabricación de productos químicos básicos\n0.045\n3312\nFabricación de productos de hierro y acero\n0.018\n3353\nFabricación de equipo de generación y distribución de energía eléctrica\n0.047\n3359\nFabricación de otros equipos y accesorios eléctricos\n0.040\n4841\nAutotransporte de carga general\n0.213\n5311\nAlquiler sin intermediación de bienes raíces\n0.312\n5411\nServicios legales\n0.023\n5412\nServicios de contabilidad, auditoría y servicios relacionados\n0.044\n5413\nServicios de arquitectura, ingeniería y actividades relacionadas\n0.011\n5613\nServicios de empleo\n0.121\n5616\nServicios de investigación, protección y seguridad\n0.012\n8111\nGeneración, transmisión, distribución y comercialización de energía eléctrica\n0.019"
+  },
+  {
+   "orden": 67,
+   "clave": "3.2 [2]",
+   "etiqueta": "Disposición 3.2 [2]",
+   "ruta": [
+    "ANEXO ÚNICO"
+   ],
+   "texto": "3.2. Las actividades económicas seleccionadas y sus ponderadores referidos en el numeral 3.1 de este Apartado, se deben actualizar con base en la última información disponible de la MIP, el INPP y sus ponderadores publicados por el INEGI en su portal electrónico, o la institución que asuma sus funciones. Dicha actualización se debe realizar conforme a lo establecido en los numerales 1 y 2 de este Apartado; las nuevas actividades y sus ponderadores se deben establecer en el acto administrativo mediante el cual la Comisión emite las tarifas de transmisión y se deben incluir en la memoria de cálculo.\nCiudad de México, a 06 de noviembre de 2025.- El Director General, Juan Carlos Solís Ávila.- Rúbrica.\nEn el documento que usted está visualizando puede haber texto, caracteres u objetos que no se muestren correctamente debido a la conversión a formato HTML, por lo que le recomendamos tomar siempre como referencia la imagen digitalizada del DOF o el archivo PDF de la edición. El contenido, forma y alcance de los documentos publicados, son estricta responsabilidad de su emisor."
+  }
+ ]
+}

@@ -1,0 +1,515 @@
+{
+ "id": "lpdb",
+ "origen": "https://www.diputados.gob.mx/LeyesBiblio/abro/lpdb/LPDB_abro.pdf",
+ "sha256": "c041401214c5a7c7853fb900e0b1285997fcb9995ec4039f6337b021aa20a9d6",
+ "extraido": "2026-11-25",
+ "fragmentos": [
+  {
+   "orden": 0,
+   "clave": null,
+   "etiqueta": "Preámbulo",
+   "ruta": [],
+   "texto": "Nueva Ley publicada en el Diario Oficial de la Federación el 1 de febrero de 2008\nAl margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.\nFELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:\nQue el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente\nDECRETO\n\"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:\nSE EXPIDE LA LEY DE PROMOCIÓN Y DESARROLLO DE LOS BIOENERGÉTICOS.\nARTÍCULO ÚNICO. Se expide la Ley de Promoción y Desarrollo de los Bioenergéticos:"
+  },
+  {
+   "orden": 1,
+   "clave": "1",
+   "etiqueta": "Artículo 1",
+   "ruta": [
+    "TITULO I",
+    "CAPITULO I DISPOSICIONES GENERALES"
+   ],
+   "texto": "Artículo 1.- La presente Ley es reglamentaria de los artículos 25 y 27 fracción XX de la Constitución Política de los Estados Unidos Mexicanos, es de observancia general en toda la República Mexicana y tiene por objeto la promoción y desarrollo de los Bioenergéticos con el fin de coadyuvar a la diversificación energética y el desarrollo sustentable como condiciones que permiten garantizar el apoyo al campo mexicano y establece las bases para:\nI.\nPromover la producción de insumos para Bioenergéticos, a partir de las actividades agropecuarias, forestales, algas, procesos biotecnológicos y enzimáticos del campo mexicano, sin poner en riesgo la seguridad y soberanía alimentaria del país de conformidad con lo establecido en el artículo 178 y 179 de la Ley de Desarrollo Rural Sustentable.\nII.\nDesarrollar la producción, comercialización y uso eficiente de los Bioenergéticos para contribuir a la reactivación del sector rural, la generación de empleo y una mejor calidad de vida para la población; en particular las de alta y muy alta marginalidad.\nIII. Promover, en términos de la Ley de Planeación, el desarrollo regional y el de las comunidades rurales menos favorecidas;\nIV. Procurar la reducción de emisiones contaminantes a la atmósfera y gases de efecto de invernadero, utilizando para ello los instrumentos internacionales contenidos en los Tratados en que México sea parte, y\nV.\nCoordinar acciones entre los Gobiernos Federal, Estatales, Distrito Federal y Municipales, así como la concurrencia con los sectores social y privado, para el desarrollo de los Bioenergéticos."
+  },
+  {
+   "orden": 2,
+   "clave": "2",
+   "etiqueta": "Artículo 2",
+   "ruta": [
+    "TITULO I",
+    "CAPITULO I DISPOSICIONES GENERALES"
+   ],
+   "texto": "Artículo 2.- Para los efectos de la presente Ley se entenderá por:\nI.\nActividades agropecuarias y forestales: Procesos productivos primarios basados en recursos naturales renovables, consistentes en agricultura, ganadería, acuacultura y forestales;\nII.\nBioenergéticos: Combustibles obtenidos de la biomasa provenientes de materia orgánica de las actividades, agrícola, pecuaria, silvícola, acuacultura, algacultura, residuos de la pesca, domesticas, comerciales, industriales, de microorganismos, y de enzimas, así como sus derivados, producidos, por procesos tecnológicos sustentables que cumplan con las especificaciones y normas de calidad establecidas por la autoridad competente en los términos de esta Ley; atendiendo a lo dispuesto en el artículo 1 fracción I de este ordenamiento;\nIII. Biodiesel: Combustible que se obtiene por la transesterificación de aceites de origen animal o vegetal;\nIV. Biogas: Gas que se produce por la conversión biológica de la biomasa como resultado de su descomposición;\nV.\nComisión de Bioenergéticos: La Comisión Intersecretarial para el Desarrollo de los Bioenergéticos;\nVI. Etanol Anhidro: Tipo de alcohol etílico que se caracteriza por tener muy bajo contenido de agua;\nVII. Ley: Ley de Promoción y Desarrollo de los Bioenergéticos;\nVIII. Ley de Desarrollo Rural: La Ley de Desarrollo Rural Sustentable;\nIX. Insumos: Son las materias primas empleadas en la producción de Bioenergéticos, obtenidas a partir de las actividades agropecuarias y forestales;\nX.\nSeguridad Alimentaria: El abasto oportuno, suficiente e incluyente de alimentos a la población;\nXI. Soberanía Alimentaria: La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, basada fundamentalmente en la producción nacional;\nXII. Sistema Nacional: El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable;\nXIII. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;\nXIV. SENER: Secretaría de Energía, y\nXV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales."
+  },
+  {
+   "orden": 3,
+   "clave": "3",
+   "etiqueta": "Artículo 3",
+   "ruta": [
+    "TITULO I",
+    "CAPITULO I DISPOSICIONES GENERALES"
+   ],
+   "texto": "Artículo 3.- Son sujetos de esta Ley los sujetos que señala el Artículo 2 de la Ley de Desarrollo Rural, los ejidos, comunidades y los productores de productos naturales de los que se pueda obtener biomasa y, en general toda persona física o moral, que de manera individual o colectiva, realicen cualquier actividad relacionada con la producción, comercialización y/o distribución, transporte y almacenamiento de Bioenergéticos."
+  },
+  {
+   "orden": 4,
+   "clave": "4",
+   "etiqueta": "Artículo 4",
+   "ruta": [
+    "TITULO I",
+    "CAPITULO I DISPOSICIONES GENERALES"
+   ],
+   "texto": "Artículo 4.- Las autoridades, en el ámbito de sus respectivas competencias, fomentarán el desarrollo del mercado incluyendo la promoción de esquemas de participación de productores y la libre competencia en las materias de la presente Ley, en términos de lo dispuesto en la Ley Federal de Competencia Económica."
+  },
+  {
+   "orden": 5,
+   "clave": "5",
+   "etiqueta": "Artículo 5",
+   "ruta": [
+    "TITULO I",
+    "CAPITULO I DISPOSICIONES GENERALES"
+   ],
+   "texto": "Artículo 5.- En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en la Ley Orgánica de la Administración Pública Federal, la Ley de Desarrollo Rural Sustentable, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley General de Desarrollo Forestal Sustentable, la Ley de Planeación y las demás Leyes y Ordenamientos relacionados que regulen las materias de esta Ley, así como los tratados internacionales de los que México sea parte."
+  },
+  {
+   "orden": 6,
+   "clave": "6",
+   "etiqueta": "Artículo 6",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO I DISPOSICIONES GENERALES"
+   ],
+   "texto": "Artículo 6.- La interpretación para efectos administrativos y la aplicación de esta Ley corresponde al Ejecutivo Federal, a través de la Secretaría de Energía, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y la Secretaría de Medio Ambiente y Recursos Naturales, en el ámbito de sus competencias."
+  },
+  {
+   "orden": 7,
+   "clave": "7",
+   "etiqueta": "Artículo 7",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO I DISPOSICIONES GENERALES"
+   ],
+   "texto": "Artículo 7.- En el marco previsto en la Constitución Política de los Estados Unidos Mexicanos, el Ejecutivo Federal, en coordinación con los Gobiernos de las Entidades Federativas, Distrito Federal y de los Municipios, impulsará las políticas, programas y demás acciones que considere necesarios para el cumplimiento de esta Ley.\nPara tal efecto, el Ejecutivo Federal, a través de sus dependencias y entidades, podrá suscribir convenios de coordinación con los gobiernos de las entidades federativas, Distrito Federal y de los municipios, con el objeto de establecer las bases de participación, en el ámbito de sus competencias, para instrumentar las acciones necesarias para el cumplimiento de esta Ley."
+  },
+  {
+   "orden": 8,
+   "clave": "8",
+   "etiqueta": "Artículo 8 (parte 1 de 2)",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO II DE LA COMISIÓN INTERSECRETARIAL PARA EL DESARROLLO DE LOS BIOENERGETICOS"
+   ],
+   "texto": "Artículo 8.- Se crea la Comisión de Bioenergéticos, la cual estará integrada por los titulares de la SAGARPA, SENER, SEMARNAT, la Secretaría de Economía y la Secretaría de Hacienda y Crédito Público, la cual tendrá las siguientes funciones:\nI.\nParticipar en el marco del Plan Nacional de Desarrollo y de los programas sectoriales, en la elaboración de programas de corto, mediano y largo plazos, relacionados con la producción y comercialización de insumos, y con la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos. En lo relativo a la producción y comercialización de insumos se escuchará la opinión de la Comisión Intersecretarial para el Desarrollo Rural Sustentable;\nII.\nEstablecer las bases y lineamientos para la suscripción de acuerdos o convenios de coordinación entre los gobiernos federal, estatales del Distrito Federal y municipales, para dar cumplimiento a esta Ley, a los programas y las disposiciones que deriven de la misma, en lo relativo a la\nproducción y comercialización de insumos, y a la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;\nIII. Establecer las bases para la concurrencia de los sectores social y privado, a fin de dar cumplimiento a esta Ley, así como a los programas y disposiciones que deriven de la misma, en lo relativo a las cadenas de producción y comercialización de insumos, y a la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;\nIV. Dar seguimiento a los programas derivados de esta Ley, relativos a la producción y comercialización de insumos, y a la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos, así como establecer los indicadores para determinar el grado de cumplimiento de los mismos. En lo relativo a los programas producción y comercialización de insumos, se escuchará a la Comisión Intersecretarial para el Desarrollo Rural Sustentable;\nV.\nDar seguimiento a los compromisos adquiridos por los Gobiernos Federal, estatales y municipales, así como por los sectores social y privado, en lo relativo a la producción y comercialización de insumos y a la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;\nVI. Fomentar la agroindustria y la inversión e infraestructura necesarias, así como el uso de tecnologías eficientes para la producción y comercialización de insumos y para la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;\nVII. Proponer los lineamientos programáticos y presupuestales que deberán tomar en cuenta las dependencias y entidades de la Administración Pública Federal, para realizar actividades y apoyar la producción y comercialización de insumos, y la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;\nVIII. Realizar el seguimiento del presupuesto anual en la materia y evaluar los programas y demás instrumentos de apoyo, sin perjuicio de las atribuciones de las Secretarías de Hacienda y Crédito Público y de la Función Pública;\nIX. Promover la coordinación de acciones de las Dependencias y Entidades de la Administración Pública Federal, en lo relativo a la producción y comercialización de insumos, y a la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;\nX.\nRevisar la congruencia de las Normas Oficiales Mexicanas, en lo relativo a la producción y comercialización de insumos, y a la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;"
+  },
+  {
+   "orden": 9,
+   "clave": "8",
+   "etiqueta": "Artículo 8 (parte 2 de 2)",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO II DE LA COMISIÓN INTERSECRETARIAL PARA EL DESARROLLO DE LOS BIOENERGETICOS"
+   ],
+   "texto": "XI. Aportar elementos para que en el diseño y formulación de políticas nacionales, relacionadas con las materias de la presente Ley, se impulse la producción, comercialización y uso de energía renovable;\nXII. Definir prioridades y criterios para la asignación del gasto público federal para la promoción y desarrollo de los bioenergéticos, que incluirán áreas estratégicas y programas específicos y prioritarios a los que se les deberá otorgar especial atención y apoyo presupuestal, y de conformidad con lo establecido en el artículo 17 de esta Ley, y\nXIII. Definir mecanismos de coordinación y vinculación de las actividades entre los diferentes sectores de la Administración Pública Federal y con los diversos sectores productivos del país, así como proponer los mecanismos de coordinación con las entidades federativas y los municipios;"
+  },
+  {
+   "orden": 10,
+   "clave": "9",
+   "etiqueta": "Artículo 9",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO II DE LA COMISIÓN INTERSECRETARIAL PARA EL DESARROLLO DE LOS BIOENERGETICOS"
+   ],
+   "texto": "Artículo 9.- El titular del Ejecutivo Federal designará de entre los integrantes de la Comisión de Bioenergéticos quién la presidirá."
+  },
+  {
+   "orden": 11,
+   "clave": "10",
+   "etiqueta": "Artículo 10",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO II DE LA COMISIÓN INTERSECRETARIAL PARA EL DESARROLLO DE LOS BIOENERGETICOS"
+   ],
+   "texto": "Artículo 10.- La Comisión de Bioenergéticos ejercerá las funciones previstas en este capítulo, a través de las Dependencias que la integran, aprovechando sus estructuras administrativas, por lo que su funcionamiento no implica afectación presupuestal, ni el establecimiento de unidades administrativas adicionales."
+  },
+  {
+   "orden": 12,
+   "clave": "11",
+   "etiqueta": "Artículo 11",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO III DE LAS AUTORIDADES COMPETENTES"
+   ],
+   "texto": "Artículo 11.- Para los efectos de la presente Ley, la SAGARPA, tendrá las siguientes facultades:\nI.\nElaborar en el marco de la Ley de Planeación los programas sectoriales y anuales, relativos a la producción y comercialización de Insumos;\nII.\nRegular y, en su caso, expedir Normas Oficiales Mexicanas relativas a los requisitos, características, medidas de seguridad y demás aspectos pertinentes para la producción sustentable de Insumos, así como controlar y vigilar su debido cumplimiento;\nIII. Evaluar periódicamente el impacto en materia de seguridad y soberanía alimentaria y desarrollo rural, de los programas derivados de esta Ley, incluyendo un análisis de costo beneficio y realizar las acciones necesarias a efecto que dicha información sea de carácter público;\nIV. Elaborar el Programa de producción sustentable de Insumos para Bioenergéticos y de Desarrollo Científico y Tecnológico;\nV.\nImponer sanciones por infracciones a las leyes y disposiciones aplicables que deriven de acciones relacionadas con la aplicación de esta Ley;\nVI. Asesorar a los productores para que el desarrollo de cultivos destinados a la producción sustentable de insumos para producir Bioenergéticos, se realicen de acuerdo con las prácticas que las investigaciones científicas y tecnológicas aconsejen;\nVII. Apoyar la organización de los productores y demás agentes relacionados con la producción de insumos para producir Bioenergéticos, a través de mecanismos de comunicación, concertación y planeación, y\nVIII. Otorgar permisos previos para la producción de bioenergéticos a partir del grano de maíz en sus diversas modalidades, mismos que se otorgarán solamente cuando existan inventarios excedentes de producción interna de maíz para satisfacer el consumo nacional."
+  },
+  {
+   "orden": 13,
+   "clave": "12",
+   "etiqueta": "Artículo 12",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO III DE LAS AUTORIDADES COMPETENTES"
+   ],
+   "texto": "Artículo 12.- Para los efectos de la presente Ley, la SENER tendrá las siguientes facultades:\nI.\nElaborar, en el marco de la Ley de Planeación, los programas sectoriales y anuales relativos a la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;\nII.\nRegular y, en su caso, expedir Normas Oficiales Mexicanas sobre los requisitos, características, medidas de seguridad y demás aspectos pertinentes, en relación con la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos, así como controlar y vigilar su debido cumplimiento;\nIII. Otorgar y revocar permisos para la producción, el almacenamiento, el transporte y la distribución por ductos, así como la comercialización de Bioenergéticos;\nIV. Emitir los criterios y lineamientos para el otorgamiento de los permisos a que se refiere la fracción anterior;\nV.\nExpedir la regulación necesaria para promover el uso de las tecnologías más adecuadas para la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos;\nVI. Expedir los criterios para las adquisiciones de los Bioenergéticos por las entidades paraestatales, a efecto de cumplir con los objetivos de esta Ley, minimizando el impacto económico y presupuestal a las mismas;\nVII. Proponer a la Secretaría de Economía, en el ámbito de sus atribuciones, las políticas, instrumentos, criterios y demás acciones que considere necesarias para el mejor desarrollo de los Bioenergéticos;\nVIII. Establecer el Programa de Introducción de Bioenergéticos, considerando objetivos, estrategias, acciones y metas. Para la elaboración del Programa se tomaran en cuenta principalmente la producción nacional sobre la importación, la definición de plazos y regiones para la incorporación del etanol como componente de la gasolina, y la incorporación del biodiesel al consumo así como los requerimientos de infraestructura para su producción, transporte y comercialización.\nEste programa podrá incorporar otros Bioenergéticos que sean resultado del desarrollo científico y tecnológico.\nIX. Emitir los lineamientos, especificaciones y en su caso Normas Oficiales Mexicanas que establezcan la calidad y características de los Bioenergéticos para su mezcla con la gasolina y el diesel así como las correspondientes a las mezclas de etanol con gasolina, diesel con gasolina, diesel con biodiesel o bien el etanol y el biodiesel sin mezclas cuando así lo requiera el mercado y sean tecnológica y ambientalmente recomendables;\nX.\nExpedir la normatividad relativa al procedimiento de arbitraje opcional para la resolución de controversias previsto en el artículo 30 de esta Ley;\nXI. Evaluar el impacto, sobre el balance energético, de los programas derivados de esta Ley, incluyendo un análisis de costo beneficio y realizar las acciones necesarias a efecto que dicha información sea de carácter público, y\nXII. Imponer las sanciones por infracciones a la presente Ley y las demás disposiciones que deriven de la misma, en lo relativo a la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos."
+  },
+  {
+   "orden": 14,
+   "clave": "13",
+   "etiqueta": "Artículo 13",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO III DE LAS AUTORIDADES COMPETENTES"
+   ],
+   "texto": "Artículo 13.- Para los efectos de la presente Ley, la SEMARNAT, tendrá las siguientes facultades:\nI.\nPrevenir, controlar o evitar la contaminación de la atmósfera, aguas, suelos y sitios originada por las actividades de producción de Insumos y de Bioenergéticos, así como las descargas de contaminantes a los cuerpos de aguas nacionales que se generen por las mismas;\nII.\nEvaluar y en su caso autorizar en materia de impacto ambiental las instalaciones para la producción, el almacenamiento, el transporte, la distribución y la comercialización de Bioenergéticos, de conformidad con las disposiciones legales aplicables;\nIII. Aplicar las regulaciones en materia forestal, de vida silvestre y bioseguridad de organismos genéticamente modificados conforme a lo dispuesto en la Ley de Bioseguridad de Organismos Genéticamente Modificados para asegurar la preservación, restauración y aprovechamiento sustentable de los recursos naturales y de la biodiversidad en las actividades que regula la presente Ley;\nIV. Vigilar para que no se realice el cambio de uso de suelo de forestal a agrícola con el fin de establecer cultivos para la producción de Bioenergéticos;\nV.\nEvaluar los aspectos de sustentabilidad de los programas derivados de la presente Ley para el desarrollo de la producción de Insumos y de Bioenergéticos, así como el impacto de dichos programas y en consecuencia tomar las medidas correspondientes a los resultados obtenidos;\nVI. Regular y, en su caso, expedir Normas Oficiales Mexicanas relativas a los requisitos, características, medidas de seguridad y demás aspectos que considere pertinentes, para asegurar la protección al medio ambiente, en relación con las actividades previstas en esta ley, así como vigilar su debido cumplimiento, y\nVII. Vigilar e inspeccionar el cumplimiento de las Leyes y disposiciones en materia ambiental, así como ordenar medidas de seguridad y sancionar por infracciones a las mismas, que deriven de acciones relacionadas con la aplicación de la presente Ley."
+  },
+  {
+   "orden": 15,
+   "clave": "14",
+   "etiqueta": "Artículo 14",
+   "ruta": [
+    "TITULO II DE LAS AUTORIDADES Y LA COORDINACIÓN ENTRE LOS GOBIERNOS FEDERAL, ESTATALES Y MUNICIPALES",
+    "CAPÍTULO III DE LAS AUTORIDADES COMPETENTES"
+   ],
+   "texto": "Artículo 14.- Los programas, proyectos y demás acciones que, en cumplimiento a lo dispuesto en esta Ley y en razón de su competencia, corresponde ejecutar a las Dependencias y Entidades de la Administración Pública Federal, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+  },
+  {
+   "orden": 16,
+   "clave": "15",
+   "etiqueta": "Artículo 15",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPITULO I DE LOS INSTRUMENTOS"
+   ],
+   "texto": "Artículo 15.- El Ejecutivo Federal, a través de sus Dependencias y Entidades, en el ámbito de sus respectivas competencias, implementará los instrumentos y acciones necesarios para impulsar el desarrollo sustentable de la producción y comercialización de Insumos, así como de la producción, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos."
+  },
+  {
+   "orden": 17,
+   "clave": "16",
+   "etiqueta": "Artículo 16",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPITULO I DE LOS INSTRUMENTOS"
+   ],
+   "texto": "Artículo 16.- Los instrumentos y acciones a que se refiere el artículo anterior, los procedimientos y las reglas para implementar, acceder u obtener los mismos, serán definidos mediante los programas que para tal efecto emitan las Dependencias en el ámbito de sus respectivas competencias."
+  },
+  {
+   "orden": 18,
+   "clave": "17",
+   "etiqueta": "Artículo 17",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPITULO I DE LOS INSTRUMENTOS"
+   ],
+   "texto": "Artículo 17.- Las Secretarías integrantes de la Comisión de Bioenergéticos, en el ámbito de sus respectivas competencias, elaborarán e instrumentarán, en su caso, las acciones para el fomento de la producción sustentable de Insumos.\nEstas estarán dirigidas a los productores de Insumos y deberán impulsar la productividad, fomentar la generación de empleos, motivar la creación y consolidación de empresas rurales, cuya participación accionaria de los productores de insumos sea de un porcentaje de al menos 30 por ciento, fortalecer la competitividad del sector y garantizar la protección de los recursos naturales.\nAdemás, con el fin de cuantificar el nivel o tipo de incentivo que se podrán otorgar para hacer competitiva la producción de insumos agrícolas en la producción de Bioenergéticos, las Secretarías pueden considerar el comportamiento de los diversos precios - costo de los insumos y tipos de cambio, así como la tasa de rentabilidad de retorno de inversión anual promedio del cultivo correspondiente y se podrá seleccionar el más adecuado entre los instrumentos de apoyo tales como los programas de reconversión productiva, la cobertura o los estímulos que en su caso correspondan. Los apoyos presupuestales estarán canalizados a los proyectos donde estén asociados los productores de insumos.\nPara diversificar las fuentes de energía, el Gobierno Federal incentivará a la producción de Bioenergéticos a partir de insumos; atendiendo a lo establecido en el artículo 1 fracción I y artículo 11 fracción VIII de esta Ley. Asimismo el Ejecutivo Federal promoverá la coordinación de acciones con los gobiernos estatales, del Distrito Federal y municipales para los mismos efectos."
+  },
+  {
+   "orden": 19,
+   "clave": "18",
+   "etiqueta": "Artículo 18",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPITULO I DE LOS INSTRUMENTOS"
+   ],
+   "texto": "Artículo 18.- Para impulsar, desarrollar e incentivar la producción de los Bioenergéticos, las Secretarías y los Gobiernos de las entidades federativas y del Distrito Federal, en el ámbito de sus respectivas competencias promoverán la creación de infraestructura para la producción de Bioenergéticos.\nLos incentivos estarán dirigidos a personas que contribuyan al desarrollo de la industria de los Bioenergéticos y a la modernización de su infraestructura, a través de la fabricación, adquisición, instalación, operación o mantenimiento de maquinaria para la producción de Bioenergéticos. Asimismo, considerarán a aquellas personas que realicen investigaciones de tecnología, cuya aplicación disminuya la generación de emisiones contaminantes a la atmósfera, aguas, suelos, sitios, así como la innovación tecnológica en las plantas de producción de Bioenergéticos."
+  },
+  {
+   "orden": 20,
+   "clave": "19",
+   "etiqueta": "Artículo 19",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPÍTULO II DE LA INVESTIGACIÓN Y CAPACITACIÓN"
+   ],
+   "texto": "Artículo 19.- La SAGARPA y la SENER apoyarán la investigación científica y tecnológica para la producción y uso de los Bioenergéticos, así como la capacitación en estas materias y tendrán como propósitos esenciales:\nI.\nFomentar y desarrollar la investigación científica para la producción sustentable de insumos destinados a la producción de Bioenergéticos;\nII.\nFomentar y desarrollar la investigación de tecnologías de producción, distribución y uso de los Bioenergéticos;\nIII. Satisfacer las necesidades de información de las diversas autoridades competentes;\nIV. Establecer procedimientos de evaluación para determinar el estado de la viabilidad de los proyectos para la producción de Bioenergéticos, y\nV.\nBrindar elementos para determinar las condiciones en que deben realizarse la producción de Bioenergéticos, de manera que se lleven a cabo en equilibrio con el medio ambiente."
+  },
+  {
+   "orden": 21,
+   "clave": "20",
+   "etiqueta": "Artículo 20",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPÍTULO II DE LA INVESTIGACIÓN Y CAPACITACIÓN"
+   ],
+   "texto": "Artículo 20.- La Comisión de Bioenergéticos establecerá las bases para impulsar la investigación científica y tecnológica, así como la capacitación en materia de Bioenergéticos."
+  },
+  {
+   "orden": 22,
+   "clave": "21",
+   "etiqueta": "Artículo 21",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPÍTULO II DE LA INVESTIGACIÓN Y CAPACITACIÓN"
+   ],
+   "texto": "Artículo 21.- El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, previsto en la Ley de Desarrollo Rural Sustentable, será la instancia encargada de coordinar y orientar la investigación científica y tecnológica en materia de Insumos, así como el desarrollo, innovación y transferencia tecnológica que requiera el sector.\nEl Sistema contará, para los efectos de esta Ley, con las siguientes facultades:\nI.\nRealizar investigaciones científicas y tecnológicas, en materia de Insumos;\nII.\nEmitir opinión de carácter técnico y científico para la administración y conservación de los recursos naturales asociados a la producción de los Bioenergéticos;\nIII. Coordinar la formulación e integración del Programa Nacional de Investigación Científica y Tecnológica en Materia de Insumos para Bioenergéticos, con base en las propuestas de las instituciones educativas, académicas y de investigación, universidades, y organizaciones de productores;\nIV. Coordinar la integración y funcionamiento de una red nacional de grupos, institutos de investigación y universidades, en materia de Insumos, para la articulación de acciones, la optimización de recursos humanos, financieros y de infraestructura;\nV.\nDar asesoramiento científico y técnico a los agricultores, que así lo soliciten, para conservar, repoblar, fomentar, cultivar y desarrollar especies asociados a la producción de Insumos;\nVI. Apoyar, desarrollar y promover la transferencia de los resultados de la investigación y de la tecnología generada de forma accesible a los productores de Insumos;\nVII. Formular estudios y propuestas para el ordenamiento de la actividad en coordinación con centros de investigación, universidades, autoridades federales, de los Gobiernos de las Entidades federativas;\nVIII. Promover y coordinar la participación y vinculación de los centros de investigación, de las universidades e instituciones de educación superior con el sector productivo, para el desarrollo y ejecución de proyectos de investigación aplicada y de innovación tecnológica en materia de Insumos;\nIX. Formular y ejecutar programas de adiestramiento y capacitación;\nX.\nDifundir sus actividades y los resultados de sus investigaciones, sin perjuicio de los derechos de propiedad intelectual y de la información que por su naturaleza deba reservarse conforme a la Ley de la materia;\nXI. Difundir y publicar los resultados de las investigaciones que realicen de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública, y\nXII. Las demás que expresamente le atribuya esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven y las Leyes y Reglamentos correspondientes vinculados al ámbito de los Bioenergéticos."
+  },
+  {
+   "orden": 23,
+   "clave": "22",
+   "etiqueta": "Artículo 22",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPÍTULO II DE LA INVESTIGACIÓN Y CAPACITACIÓN"
+   ],
+   "texto": "Artículo 22.- El Sistema promoverá y coordinará la integración de la Red Nacional de Información e Investigación en materia de Insumos, con el objeto de vincular y fortalecer la investigación científica y el desarrollo tecnológico, así como el desarrollo, innovación y transferencia tecnológica para el manejo y administración de los recursos naturales asociados a la producción de Bioenergéticos y su desarrollo ordenado."
+  },
+  {
+   "orden": 24,
+   "clave": "23",
+   "etiqueta": "Artículo 23",
+   "ruta": [
+    "TITULO III DE LOS INSTRUMENTOS PARA EL DESARROLLO Y PROMOCIÓN DE LOS BIOENERGÉTICOS",
+    "CAPÍTULO II DE LA INVESTIGACIÓN Y CAPACITACIÓN"
+   ],
+   "texto": "Artículo 23.- El Ejecutivo Federal, a través de sus Dependencias y Entidades, en el ámbito de sus respectivas competencias, podrá celebrar convenios con los sectores público, social y privado para impulsar la investigación científica y tecnológica y la capacitación en materia de Bioenergéticos y de sus Insumos, e implementará los instrumentos y acciones necesarios para ello, de conformidad con lo establecido en la presente Ley, los programas y demás disposiciones que deriven de ésta."
+  },
+  {
+   "orden": 25,
+   "clave": "24",
+   "etiqueta": "Artículo 24",
+   "ruta": [
+    "TITULO IV DE LOS PROCEDIMIENTOS, INFRACCIONES Y SANCIONES",
+    "CAPÍTULO I DE LOS PERMISOS"
+   ],
+   "texto": "Artículo 24.- Las actividades y servicios relacionados con la producción, el almacenamiento, el transporte y la distribución por ductos, así como la comercialización de Bioenergéticos, se sujetarán a permiso previo de la SENER, salvo aquellos que expresamente se excluyan en los criterios y lineamientos a que se refiere la fracción IV del artículo 12 de esta Ley. La SENER informará a la Comisión de Bioenergéticos sobre los permisos que haya otorgado.\nLos lineamientos y criterios a que se refiere el párrafo anterior deberán comprender:\nI.\nLas actividades o servicios relacionados con la producción, el almacenamiento, el transporte y la distribución por ductos, así como la comercialización de Bioenergéticos;\nII.\nLos términos y condiciones para:\na. El otorgamiento, la transferencia y la revocación de los permisos;\nb. La producción de Bioenergéticos;\nc. El almacenamiento de Bioenergéticos;\nd. El transporte y la distribución por ductos de Bioenergéticos;\ne. La presentación de información suficiente y adecuada para fines de regulación, y\nf.\nEl procedimiento de consulta pública para la definición de criterios de regulación, en su caso;\nIII. Los procedimientos para la vigilancia del cumplimiento de las Normas Oficiales Mexicanas y de los términos y condiciones establecidos en los permisos;\nIV. Los términos y procedimientos para la verificación de instalaciones y equipos de los permisionarios, y\nV.\nLos demás instrumentos de regulación que establezcan las disposiciones aplicables, y los que la SENER considere necesarios.\nAsimismo, deberán garantizar la transparencia en los procedimientos administrativos relativos al otorgamiento de permisos para realizar actividades relacionados con las materias que regula la presente Ley, e incorporar mecanismos de control accesibles a los productores.\nLos permisos que la SENER expida deberán contener, de manera detallada, los términos y condiciones bajo los cuales serán emitidos y los procedimientos deberán establecerse con toda precisión en el Reglamento de la presente Ley."
+  },
+  {
+   "orden": 26,
+   "clave": "25",
+   "etiqueta": "Artículo 25",
+   "ruta": [
+    "TITULO IV DE LOS PROCEDIMIENTOS, INFRACCIONES Y SANCIONES",
+    "CAPÍTULO II DE LAS INFRACCIONES Y SANCIONES"
+   ],
+   "texto": "Artículo 25.- Se consideran infracciones a la presente Ley:\nI.\nLa realización de actividades o la prestación de servicios sin contar con el permiso correspondiente, cuando, en términos de esta Ley y de las demás disposiciones aplicables, se requiera del mismo;\nII.\nEl incumplimiento de los términos y condiciones establecidos en los permisos, y\nIII. El incumplimiento de normas oficiales mexicanas y demás disposiciones aplicables en materia de Bioenergéticos."
+  },
+  {
+   "orden": 27,
+   "clave": "26",
+   "etiqueta": "Artículo 26",
+   "ruta": [
+    "TITULO IV DE LOS PROCEDIMIENTOS, INFRACCIONES Y SANCIONES",
+    "CAPÍTULO II DE LAS INFRACCIONES Y SANCIONES"
+   ],
+   "texto": "Artículo 26.- Las infracciones a que se refiere el artículo anterior, darán lugar a las siguientes sanciones:\nI.\nMulta de 1,000 a 100,000 veces el importe del salario mínimo general diario vigente en el Distrito Federal, en la fecha en que se incurra en la falta, la cual será fijada a juicio de la autoridad competente, tomando en cuenta la importancia de la falta;\nII.\nRevocación de los permisos a que se refiere la fracción III del Artículo 12 de esta Ley, y\nIII. Clausura total o parcial, permanente o temporal de las instalaciones."
+  },
+  {
+   "orden": 28,
+   "clave": "27",
+   "etiqueta": "Artículo 27",
+   "ruta": [
+    "TITULO IV DE LOS PROCEDIMIENTOS, INFRACCIONES Y SANCIONES",
+    "CAPÍTULO II DE LAS INFRACCIONES Y SANCIONES"
+   ],
+   "texto": "Artículo 27.- Los Servidores Públicos que infrinjan lo establecido en la presente Ley, en los programas y demás disposiciones que deriven de la misma, serán sancionados en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos."
+  },
+  {
+   "orden": 29,
+   "clave": "28",
+   "etiqueta": "Artículo 28",
+   "ruta": [
+    "TITULO IV DE LOS PROCEDIMIENTOS, INFRACCIONES Y SANCIONES",
+    "CAPÍTULO II DE LAS INFRACCIONES Y SANCIONES"
+   ],
+   "texto": "Artículo 28.- En lo no expresamente previsto en esta Ley y en las demás disposiciones aplicables, la solicitud y otorgamiento de los permisos, y la imposición de sanciones a que se refiere este capítulo, se sujetarán a lo establecido en la Ley Federal del Procedimiento Administrativo."
+  },
+  {
+   "orden": 30,
+   "clave": "29",
+   "etiqueta": "Artículo 29",
+   "ruta": [
+    "TITULO IV DE LOS PROCEDIMIENTOS, INFRACCIONES Y SANCIONES",
+    "CAPÍTULO III DE LAS IMPUGNACIONES Y LA SOLUCIÓN DE CONTROVERSIAS"
+   ],
+   "texto": "Artículo 29.- Las controversias que se susciten respecto de las transacciones a lo largo de las cadenas productivas de Insumos, en materia de calidad, cantidad y oportunidad de los productos, servicios financieros, servicios técnicos, equipos, tecnología y bienes de producción, se podrán resolver a\ntravés del Servicio Nacional de Arbitraje previsto en el artículo 184 de la Ley de Desarrollo Rural Sustentable."
+  },
+  {
+   "orden": 31,
+   "clave": "30",
+   "etiqueta": "Artículo 30",
+   "ruta": [
+    "TITULO IV DE LOS PROCEDIMIENTOS, INFRACCIONES Y SANCIONES",
+    "CAPÍTULO III DE LAS IMPUGNACIONES Y LA SOLUCIÓN DE CONTROVERSIAS"
+   ],
+   "texto": "Articulo 30.- Las controversias que se susciten respecto de las transacciones y actividades relacionadas con la producción, el almacenamiento, el transporte, la distribución, la comercialización y el uso eficiente de Bioenergéticos, se podrán solucionar a través de un procedimiento de arbitraje opcional ante la Secretaría de Energía, de conformidad con la normatividad que para tal efecto emita."
+  },
+  {
+   "orden": 32,
+   "clave": "31",
+   "etiqueta": "Artículo 31",
+   "ruta": [
+    "TITULO IV DE LOS PROCEDIMIENTOS, INFRACCIONES Y SANCIONES",
+    "CAPÍTULO III DE LAS IMPUGNACIONES Y LA SOLUCIÓN DE CONTROVERSIAS"
+   ],
+   "texto": "Artículo 31.- Contra los actos de autoridad emitidos con motivo de la aplicación esta Ley, los programas y demás disposiciones que deriven de la misma, se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo."
+  },
+  {
+   "orden": 33,
+   "clave": "transitorio primero",
+   "etiqueta": "Transitorio primero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 34,
+   "clave": "transitorio segundo",
+   "etiqueta": "Transitorio segundo",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "SEGUNDO.- Los Programas a que se refieren las fracciones IV y VIII de los Artículos 11 y 12 respectivamente, deberán ser expedidos en un plazo no mayor a seis meses contados a partir de la entrada en vigor de esta Ley."
+  },
+  {
+   "orden": 35,
+   "clave": "transitorio tercero",
+   "etiqueta": "Transitorio tercero",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "TERCERO.- La Comisión de Bioenergéticos se instalará dentro del mes siguiente a la entrada en vigor de la presente Ley, y propondrá al Ejecutivo Federal su Reglamento Interno, en un plazo no mayor a tres meses, contados a partir de la fecha de su instalación."
+  },
+  {
+   "orden": 36,
+   "clave": "transitorio cuarto",
+   "etiqueta": "Transitorio cuarto",
+   "ruta": [
+    "Transitorios"
+   ],
+   "texto": "CUARTO.- El Ejecutivo Federal expedirá el Reglamento de la Presente Ley en un periodo no mayor a nueve meses a partir de la publicación de la presente Ley.\nMéxico, D.F., a 13 de diciembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas.\"\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica."
+  },
+  {
+   "orden": 37,
+   "clave": null,
+   "etiqueta": "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Em",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y, se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.\nPublicado en el Diario Oficial de la Federación el 18 de marzo de 2025\nARTÍCULO SEXTO. Se expide la Ley de Biocombustibles, para quedar como sigue:\n…….."
+  },
+  {
+   "orden": 38,
+   "clave": "transitorio primero (dof 2025-03-18)",
+   "etiqueta": "Transitorio primero del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 39,
+   "clave": "transitorio segundo (dof 2025-03-18)",
+   "etiqueta": "Transitorio segundo del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Segundo.- Se abroga la Ley de Promoción y Desarrollo de los Bioenergéticos, publicada en el Diario Oficial de la Federación el 1 de febrero de 2008 y se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley."
+  },
+  {
+   "orden": 40,
+   "clave": "transitorio tercero (dof 2025-03-18)",
+   "etiqueta": "Transitorio tercero del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Tercero.- En tanto se emita la nueva regulación o se modifique la regulación correspondiente, la normatividad y regulación emitidas por la SADER, la SENER y la SEMARNAT con anterioridad a la entrada en vigor de la presente Ley, continúan en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.\nLas referencias legales o reglamentarias a la Ley de Promoción y Desarrollo de los Bioenergéticos se entienden hechas, en lo aplicable, a la Ley de Biocombustibles."
+  },
+  {
+   "orden": 41,
+   "clave": "transitorio cuarto (dof 2025-03-18)",
+   "etiqueta": "Transitorio cuarto del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Cuarto.- En tanto se expiden los reglamentos correspondientes, la SADER, la SENER y la SEMARNAT tienen facultad para ejercer las atribuciones que les otorga la presente Ley a partir de su entrada en vigor.\nLas solicitudes de autorización o permisos que se hayan recibido previo a la entrada en vigor de esta Ley se tramitan conforme a las disposiciones jurídicas que para el efecto haya emitido la autoridad competente con anterioridad a la presente Ley."
+  },
+  {
+   "orden": 42,
+   "clave": "transitorio quinto (dof 2025-03-18)",
+   "etiqueta": "Transitorio quinto del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Quinto.- El Ejecutivo Federal debe expedir el Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor."
+  },
+  {
+   "orden": 43,
+   "clave": "transitorio sexto (dof 2025-03-18)",
+   "etiqueta": "Transitorio sexto del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Sexto.- La SADER y la SENER deben publicar en el Diario Oficial de la Federación los formatos de solicitud de permisos previstos en el artículo 30 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de entrada en vigor de la presente Ley."
+  },
+  {
+   "orden": 44,
+   "clave": "transitorio septimo (dof 2025-03-18)",
+   "etiqueta": "Transitorio séptimo del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Séptimo.- La SENER debe expedir los formatos para la Bitácora prevista en el artículo 31 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor."
+  },
+  {
+   "orden": 45,
+   "clave": "transitorio octavo (dof 2025-03-18)",
+   "etiqueta": "Transitorio octavo del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Octavo.- La SENER debe expedir el Programa para promover el uso directo de la Biomasa como Biocombustibles, la Producción de Biocombustibles y su uso sustentable, previsto en la fracción III del artículo 5 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor."
+  },
+  {
+   "orden": 46,
+   "clave": "transitorio noveno (dof 2025-03-18)",
+   "etiqueta": "Transitorio noveno del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Noveno.- La SEMARNAT debe expedir el Programa para promover el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción, previsto en la fracción III del artículo 6 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor."
+  },
+  {
+   "orden": 47,
+   "clave": "transitorio decimo (dof 2025-03-18)",
+   "etiqueta": "Transitorio décimo del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Décimo.- La SADER debe expedir el Programa para promover la producción sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción, previsto en la fracción II del artículo 7 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor."
+  },
+  {
+   "orden": 48,
+   "clave": "transitorio decimo primero (dof 2025-03-18)",
+   "etiqueta": "Transitorio décimo primero del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Décimo Primero.- La Secretaría de Economía debe expedir los formatos para la metodología prevista en el artículo 19 de la Ley de Biocombustibles, dentro de los trescientos sesenta días siguientes a la fecha de su entrada en vigor."
+  },
+  {
+   "orden": 49,
+   "clave": "transitorio decimo segundo (dof 2025-03-18)",
+   "etiqueta": "Transitorio décimo segundo del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Décimo Segundo.- Los permisos y autorizaciones otorgados por la SENER y la Comisión Reguladora de Energía para llevar a cabo las actividades de Producción, Almacenamiento, Distribución, Comercialización, Transporte y Expendio al Público de bioenergéticos o Biocombustibles con anterioridad a la entrada en vigor de esta Ley, mantienen su vigencia en los términos otorgados."
+  },
+  {
+   "orden": 50,
+   "clave": "transitorio decimo tercero (dof 2025-03-18)",
+   "etiqueta": "Transitorio décimo tercero del decreto DOF 18-03-2025",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Décimo Tercero.- Los pagos de derechos que en materia de bioenergéticos o Biocombustibles se establecen en favor de la Comisión Reguladora de Energía en la Ley Federal de Derechos, se entienden en favor de la SENER.\n……."
+  },
+  {
+   "orden": 51,
+   "clave": "transitorio primero (dof 2025-03-18) [2]",
+   "etiqueta": "Transitorio primero del decreto DOF 18-03-2025 [2]",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+   "orden": 52,
+   "clave": "transitorio segundo (dof 2025-03-18) [2]",
+   "etiqueta": "Transitorio segundo del decreto DOF 18-03-2025 [2]",
+   "ruta": [
+    "DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexi"
+   ],
+   "texto": "Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.\nCiudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas.\"\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica."
+  }
+ ]
+}

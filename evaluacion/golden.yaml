@@ -1,0 +1,210 @@
+# Set de evaluación de la búsqueda.
+#
+# Cada caso fija lo que una persona que sabe derecho energético esperaría encontrar. Lo esperado se
+# verificó leyendo el texto del artículo en la fuente oficial, no copiando lo que devolvía el
+# buscador. Un caso pasa si alguno de `esperado` aparece en los primeros `k` resultados (5 si no se
+# dice otra cosa), ninguno de `ausentes` aparece, y, con `primero: true`, si el primer resultado es
+# uno de los esperados.
+#
+# esperado: lista de {doc, clave?}. Sin clave, cuenta cualquier fragmento del documento.
+# filtros: tipo, emisor, fecha (régimen vigente en esa fecha), incluir_abrogados.
+
+casos:
+
+  # ---------------------------------------------------------------- Artículo exacto
+  - id: art-20-lse
+    consulta: "artículo 20 de la Ley del Sector Eléctrico"
+    esperado: [{doc: lse, clave: "20"}]
+    primero: true
+
+  - id: art-8-no-80
+    consulta: "artículo 8 LSE"
+    esperado: [{doc: lse, clave: "8"}]
+    ausentes_clave: [{doc: lse, clave: "80"}]
+    primero: true
+
+  - id: art-80-lse
+    consulta: "art. 80 de la LSE"
+    esperado: [{doc: lse, clave: "80"}]
+    primero: true
+
+  - id: art-9-lsh
+    consulta: "art 9 Ley del Sector Hidrocarburos"
+    esperado: [{doc: lsh, clave: "9"}]
+    primero: true
+
+  - id: art-2-lcne
+    consulta: "artículo 2 de la Ley de la Comisión Nacional de Energía"
+    esperado: [{doc: lcne, clave: "2"}]
+    primero: true
+
+  - id: art-17-lie-abrogada
+    consulta: "artículo 17 LIE"
+    esperado: [{doc: lie, clave: "17"}]
+    primero: true
+
+  - id: art-5-reglamento-lse
+    consulta: "artículo 5 del Reglamento de la Ley del Sector Eléctrico"
+    esperado: [{doc: reg-lse, clave: "5"}]
+    primero: true
+
+  - id: art-116-reglamento-lsh-sigla
+    consulta: "Reglamento de la LSH artículo 116"
+    esperado: [{doc: reg-lsh, clave: "116"}]
+    primero: true
+
+  - id: art-4o-lansi
+    consulta: "artículo 4o de la Ley de la ASEA"
+    esperado: [{doc: lansi, clave: "4"}]
+    primero: true
+
+  - id: art-39-lih
+    consulta: "LIH artículo 39"
+    esperado: [{doc: lih, clave: "39"}]
+    primero: true
+
+  - id: transitorio-segundo-lse
+    consulta: "transitorio segundo de la LSE"
+    esperado: [{doc: lse, clave: "transitorio segundo"}]
+    primero: true
+
+  - id: articulo-dacg-vigencias
+    consulta: "artículo 4 de la DACG de vigencias de permisos"
+    esperado: [{doc: dacg-cne-vigencias-permisos-hidrocarburos, clave: "4"}]
+    primero: true
+
+  # ---------------------------------------------------------------- Documento por nombre
+  - id: nombre-reglamento-lsh
+    consulta: "Reglamento de la Ley del Sector Hidrocarburos"
+    esperado: [{doc: reg-lsh}]
+    primero: true
+
+  - id: nombre-ley-biocombustibles
+    consulta: "Ley de Biocombustibles"
+    esperado: [{doc: lbio}]
+    primero: true
+
+  - id: nombre-dacg-autoconsumo
+    consulta: "DACG de autoconsumo"
+    esperado: [{doc: dacg-cne-autoconsumo}]
+    primero: true
+
+  - id: nombre-acuerdo-a113
+    consulta: "Acuerdo A/113/2024"
+    esperado: [{doc: dacg-cre-almacenamiento}]
+    primero: true
+
+  - id: nombre-ley-pemex-2014
+    consulta: "Ley de Petróleos Mexicanos"
+    esperado: [{doc: lpm}, {doc: lepepm}]
+
+  # ---------------------------------------------------------------- Temas
+  - id: tema-objeto-lse
+    consulta: "objeto de la Ley del Sector Eléctrico"
+    esperado: [{doc: lse, clave: "1"}]
+
+  - id: tema-autoconsumo-definicion
+    consulta: "qué se considera autoconsumo de energía eléctrica"
+    esperado: [{doc: lse, clave: "30"}, {doc: dacg-cne-autoconsumo}, {doc: reg-lse}]
+
+  - id: tema-figuras-generacion
+    consulta: "figuras de generación de energía eléctrica"
+    esperado: [{doc: lse, clave: "17"}, {doc: reg-lse}]
+
+  - id: tema-inversion-mixta
+    consulta: "inversión mixta proyectos de generación participación de la CFE"
+    esperado: [{doc: lse, clave: "40"}]
+    k: 10
+
+  - id: tema-naturaleza-cne
+    consulta: "naturaleza jurídica de la Comisión Nacional de Energía, órgano técnico sectorizado"
+    esperado: [{doc: lcne, clave: "2"}]
+
+  - id: tema-derecho-petrolero
+    consulta: "derecho petrolero para el bienestar"
+    esperado: [{doc: lih, clave: "39"}, {doc: lih}]
+
+  - id: tema-permiso-exploracion-geotermia
+    consulta: "permiso de exploración de áreas geotérmicas"
+    esperado: [{doc: lgeo, clave: "8"}, {doc: reg-lgeo}, {doc: lgeo}]
+
+  - id: tema-planeacion-vinculante
+    consulta: "planeación vinculante del sector energético a cargo de la Secretaría de Energía"
+    esperado: [{doc: lpte, clave: "2"}, {doc: lse, clave: "12"}, {doc: lpte}]
+
+  - id: tema-vigencias-gas-natural
+    consulta: "vigencias máximas de los permisos de gas natural"
+    esperado: [{doc: dacg-cne-vigencias-permisos-hidrocarburos}]
+
+  - id: tema-mecanismos-confiabilidad
+    consulta: "mecanismos de adquisición por confiabilidad del CENACE"
+    esperado: [{doc: dacg-cne-mecanismos-competitivos}]
+    primero: true
+
+  - id: tema-cogeneracion
+    consulta: "requisitos de la modalidad de cogeneración"
+    esperado: [{doc: dacg-cne-cogeneracion}]
+
+  - id: tema-tarifas-transmision
+    consulta: "metodología de tarifas reguladas de transmisión"
+    esperado: [{doc: dacg-cne-tarifas-transmision}]
+    primero: true
+
+  - id: tema-comercializacion
+    consulta: "requisitos para comercializar petrolíferos y gas LP"
+    esperado: [{doc: dacg-cne-comercializacion}]
+
+  - id: tema-sistemas-integrados
+    consulta: "gestor de un sistema integrado de transporte por ducto"
+    esperado: [{doc: lsh, clave: "96"}, {doc: lsh, clave: "94"}, {doc: reg-lsh}]
+
+  - id: tema-permisos-generacion-dacg
+    consulta: "requisitos para solicitar un permiso de generación"
+    esperado: [{doc: dacg-cne-permisos-generacion}, {doc: reg-lse}]
+
+  # ---------------------------------------------------------------- Vocabulario de 2014
+  - id: viejo-venta-directa
+    consulta: "venta directa a usuario final"
+    esperado: [{doc: lse}, {doc: reg-lse}]
+
+  - id: viejo-autoabasto
+    consulta: "autoabasto"
+    esperado: [{doc: lse}, {doc: reg-lse}, {doc: dacg-cne-autoconsumo}]
+
+  # ---------------------------------------------------------------- Vigencia y régimen temporal
+  - id: vigencia-default-sin-abrogadas
+    consulta: "permisos de generación de energía eléctrica"
+    esperado: [{doc: lse}, {doc: reg-lse}, {doc: dacg-cne-permisos-generacion}]
+    ausentes: [lie]
+    k: 10
+
+  - id: vigencia-regimen-2020
+    consulta: "permisos de generación de energía eléctrica"
+    filtros: {fecha: "2020-01-01"}
+    esperado: [{doc: lie}]
+    ausentes: [lse, reg-lse, dacg-cne-permisos-generacion]
+    primero: true
+
+  - id: vigencia-lse-no-existia-2020
+    consulta: "Ley del Sector Eléctrico"
+    filtros: {fecha: "2020-01-01"}
+    esperado: [{doc: lie}]
+    ausentes: [lse]
+
+  - id: vigencia-almacenamiento-2025
+    consulta: "integración de sistemas de almacenamiento de energía eléctrica"
+    filtros: {fecha: "2025-06-01"}
+    esperado: [{doc: dacg-cre-almacenamiento}]
+    ausentes: [dacg-cne-almacenamiento]
+    primero: true
+
+  - id: vigencia-almacenamiento-hoy
+    consulta: "integración de sistemas de almacenamiento de energía eléctrica"
+    esperado: [{doc: dacg-cne-almacenamiento}]
+    ausentes: [dacg-cre-almacenamiento]
+    primero: true
+
+  - id: vigencia-abrogada-nombrada
+    consulta: "Ley de la Industria Eléctrica"
+    esperado: [{doc: lie}]
+    primero: true

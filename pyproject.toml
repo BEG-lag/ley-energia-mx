@@ -1,0 +1,51 @@
+[project]
+name = "ley-energia-mx"
+version = "1.0.0"
+description = "Mexican energy regulation, searchable and citable by article, for use with Claude over MCP. No API keys."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+authors = [{ name = "Benjamín Esponda García (PIVOTEK)" }]
+keywords = ["mexico", "energy", "regulation", "legal-tech", "rag", "mcp", "claude"]
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "click>=8.1",
+    "fastapi>=0.115",
+    "fastembed>=0.5",
+    "httpx>=0.27",
+    "lxml>=5.2",
+    "mcp>=2,<3",
+    "numpy>=1.26",
+    "pymupdf>=1.24",
+    "pyyaml>=6.0",
+    "snowballstemmer>=2.2",
+    "uvicorn>=0.30",
+]
+
+[project.scripts]
+ley-energia = "ley_energia.cli:cli"
+
+[dependency-groups]
+dev = ["mypy>=1.10", "pytest>=8.2", "ruff>=0.6", "types-PyYAML"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ley_energia"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.mypy]
+python_version = "3.12"
+ignore_missing_imports = true
+files = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

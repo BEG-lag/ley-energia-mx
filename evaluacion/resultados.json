@@ -1,0 +1,493 @@
+{
+ "resumen": {
+  "casos": 40,
+  "recall_at_k": 1.0,
+  "mrr": 0.892,
+  "aprobados": 40,
+  "fallos": [],
+  "fallos_criticos": [],
+  "vectores": true
+ },
+ "casos": [
+  {
+   "id": "art-20-lse",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LSE, artículo 20",
+    "LSE, artículo 1",
+    "LSE, artículo 30"
+   ]
+  },
+  {
+   "id": "art-8-no-80",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LSE, artículo 8",
+    "LSE, artículo 173",
+    "LSE, transitorio primero"
+   ]
+  },
+  {
+   "id": "art-80-lse",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LSE, artículo 80",
+    "LSE, transitorio primero",
+    "LSE, artículo 20"
+   ]
+  },
+  {
+   "id": "art-9-lsh",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LSH, artículo 9",
+    "LSH, transitorio segundo",
+    "LSH, artículo 8"
+   ]
+  },
+  {
+   "id": "art-2-lcne",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LCNE, artículo 2",
+    "LCNE, transitorio décimo segundo",
+    "LCNE, transitorio tercero"
+   ]
+  },
+  {
+   "id": "art-17-lie-abrogada",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LIE, artículo 17",
+    "LIE, transitorio segundo del decreto DOF 06-11-2020",
+    "LIE, artículo 164"
+   ]
+  },
+  {
+   "id": "art-5-reglamento-lse",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "RLSE, artículo 5",
+    "RLSE, artículo 189",
+    "RLSE, artículo 178"
+   ]
+  },
+  {
+   "id": "art-116-reglamento-lsh-sigla",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "RLSH, artículo 116",
+    "RLSH, artículo 193",
+    "RLSH, artículo 199"
+   ]
+  },
+  {
+   "id": "art-4o-lansi",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LANSI, artículo 4",
+    "LANSI, artículo 24",
+    "LANSI, transitorio primero"
+   ]
+  },
+  {
+   "id": "art-39-lih",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LIH, artículo 39",
+    "LIH, artículo 40",
+    "LIH, artículo 43"
+   ]
+  },
+  {
+   "id": "transitorio-segundo-lse",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LSE, transitorio segundo",
+    "LSE, transitorio primero",
+    "LSE, transitorio primero del decreto de expedición"
+   ]
+  },
+  {
+   "id": "articulo-dacg-vigencias",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "DACG de vigencias de permisos, artículo 4",
+    "DACG de vigencias de permisos, artículo 7",
+    "DACG de vigencias de permisos, artículo 3"
+   ]
+  },
+  {
+   "id": "nombre-reglamento-lsh",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "RLSH, transitorio segundo",
+    "RLSH, artículo 249",
+    "RLSH, artículo 336"
+   ]
+  },
+  {
+   "id": "nombre-ley-biocombustibles",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LBio, artículo 13",
+    "LBio, artículo 37",
+    "LBio, artículo 12"
+   ]
+  },
+  {
+   "id": "nombre-dacg-autoconsumo",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "DACG de autoconsumo, disposición 2.7",
+    "DACG de autoconsumo, disposición 7.1",
+    "DACG de autoconsumo, disposición 4.4"
+   ]
+  },
+  {
+   "id": "nombre-acuerdo-a113",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "A/113/2024, disposición 4.9",
+    "A/113/2024, disposición 4.4",
+    "A/113/2024, disposición 6.3"
+   ]
+  },
+  {
+   "id": "nombre-ley-pemex-2014",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "LPM, transitorio décimo quinto del decreto DOF 18-03-2025",
+    "LPM, artículo 7",
+    "LPM, artículo 2"
+   ]
+  },
+  {
+   "id": "tema-objeto-lse",
+   "rango": 5,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "LSE, artículo 6",
+    "LSE, artículo 7",
+    "LSE, artículo 130"
+   ]
+  },
+  {
+   "id": "tema-autoconsumo-definicion",
+   "rango": 2,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "LSE, artículo 31",
+    "LSE, artículo 30",
+    "RLSE, artículo 90"
+   ]
+  },
+  {
+   "id": "tema-figuras-generacion",
+   "rango": 5,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "DACG de almacenamiento, disposición 5.4",
+    "DACG de almacenamiento, disposición 5.5",
+    "DACG de almacenamiento, disposición 3.8"
+   ]
+  },
+  {
+   "id": "tema-inversion-mixta",
+   "rango": 3,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "RLSE, artículo 87",
+    "RLSE, artículo 85",
+    "LSE, artículo 40"
+   ]
+  },
+  {
+   "id": "tema-naturaleza-cne",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "LCNE, artículo 2",
+    "LPTE, artículo 12",
+    "RLPTE, artículo 30"
+   ]
+  },
+  {
+   "id": "tema-derecho-petrolero",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "LIH, artículo 39",
+    "LSH, artículo 160",
+    "LSH, artículo 117"
+   ]
+  },
+  {
+   "id": "tema-permiso-exploracion-geotermia",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "LGeo, artículo 17",
+    "LGeo, artículo 10",
+    "LGeo, artículo 11"
+   ]
+  },
+  {
+   "id": "tema-planeacion-vinculante",
+   "rango": 4,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "RLPTE, artículo 2",
+    "RLPTE, artículo 4",
+    "RLPTE, artículo 3"
+   ]
+  },
+  {
+   "id": "tema-vigencias-gas-natural",
+   "rango": 5,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "DACG de comercialización, artículo 14",
+    "DACG de comercialización, artículo 21",
+    "RLSH, artículo 121"
+   ]
+  },
+  {
+   "id": "tema-mecanismos-confiabilidad",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "DACG de mecanismos competitivos, disposición 2.1 (parte 1 de 2)",
+    "DACG de mecanismos competitivos, disposición 3.2",
+    "DACG de mecanismos competitivos, disposición 6.1"
+   ]
+  },
+  {
+   "id": "tema-cogeneracion",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "DACG de cogeneración, disposición 2.4",
+    "DACG de cogeneración, disposición 2.11",
+    "DACG de cogeneración, disposición 1.2"
+   ]
+  },
+  {
+   "id": "tema-tarifas-transmision",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "DACG de tarifas de transmisión, transitorio octavo",
+    "DACG de tarifas de transmisión, disposición 1.1",
+    "DACG de tarifas de transmisión, transitorio sexto"
+   ]
+  },
+  {
+   "id": "tema-comercializacion",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "DACG de comercialización, artículo 13",
+    "DACG de comercialización, artículo 7",
+    "DACG de comercialización, artículo 14"
+   ]
+  },
+  {
+   "id": "tema-sistemas-integrados",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "LSH, artículo 96",
+    "LSH, artículo 94",
+    "RLSH, artículo 168"
+   ]
+  },
+  {
+   "id": "tema-permisos-generacion-dacg",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "DACG de permisos de generación, disposición 2.2",
+    "DACG de autoconsumo, disposición 2.3",
+    "DACG de permisos de generación, Preámbulo (parte 3 de 5)"
+   ]
+  },
+  {
+   "id": "viejo-venta-directa",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "RLSE, artículo 157",
+    "LSE, artículo 73",
+    "RLSE, artículo 161"
+   ]
+  },
+  {
+   "id": "viejo-autoabasto",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": false,
+   "top": [
+    "DACG de autoconsumo, disposición 6.3",
+    "RLSE, artículo 51",
+    "DACG de autoconsumo, Preámbulo (parte 4 de 5)"
+   ]
+  },
+  {
+   "id": "vigencia-default-sin-abrogadas",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "DACG de permisos de generación, disposición 1.3",
+    "LSE, artículo 19",
+    "RLSE, artículo 90"
+   ]
+  },
+  {
+   "id": "vigencia-regimen-2020",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LIE, artículo 17",
+    "LIE, transitorio décimo primero",
+    "LIE, transitorio cuarto del decreto DOF 09-03-2021"
+   ]
+  },
+  {
+   "id": "vigencia-lse-no-existia-2020",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LIE, DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Em",
+    "LIE, artículo 2",
+    "LCFE, DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Em"
+   ]
+  },
+  {
+   "id": "vigencia-almacenamiento-2025",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "A/113/2024, disposición 1.1",
+    "A/113/2024, disposición 2.2",
+    "A/113/2024, disposición 4.7"
+   ]
+  },
+  {
+   "id": "vigencia-almacenamiento-hoy",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "DACG de almacenamiento, Capítulo VIII. Supuestos bajo los cuales se pueden integrar Sistemas de Almacenamiento de Energía Eléctrica de manera ag",
+    "DACG de almacenamiento, disposición 2.9",
+    "DACG de almacenamiento, disposición 2.1"
+   ]
+  },
+  {
+   "id": "vigencia-abrogada-nombrada",
+   "rango": 1,
+   "acierto": true,
+   "errores": [],
+   "critico": true,
+   "top": [
+    "LIE, artículo 2",
+    "LIE, artículo 158",
+    "LIE, artículo 92"
+   ]
+  }
+ ]
+}

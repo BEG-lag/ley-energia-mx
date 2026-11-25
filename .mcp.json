@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ley-energia": {
+      "command": "uv",
+      "args": ["run", "ley-energia", "mcp"]
+    }
+  }
+}

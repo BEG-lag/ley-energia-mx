@@ -1,0 +1,61 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  calidad:
+    name: Ruff, mypy y pruebas
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+      - run: uv sync --frozen
+      - run: uv run --frozen ruff check .
+      - run: uv run --frozen ruff format --check .
+      - run: uv run --frozen mypy
+      # Sin red: las pruebas usan el corpus versionado en corpus/textos.
+      - run: uv run --frozen pytest
+
+  evaluacion:
+    name: Evaluación de la búsqueda
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+      - uses: actions/cache@v6
+        with:
+          path: ~/.cache/ley-energia-mx/modelos
+          key: modelo-embeddings-v1
+      - run: uv sync --frozen
+      - run: uv run --frozen ley-energia indexar
+      # Híbrida: los casos de artículo exacto, primer lugar y vigencia deben pasar siempre;
+      # los de tema toleran pequeñas diferencias numéricas del modelo entre plataformas.
+      - run: uv run --frozen ley-energia evaluar -v --umbral-recall 0.95 --umbral-mrr 0.85
+      # Sitio estático: el mismo set contra web/js/motor.js, que es determinista.
+      - run: uv run --frozen ley-energia exportar-web
+      - run: >-
+          uv run --frozen python -c
+          "import json, yaml; print(json.dumps(yaml.safe_load(open('evaluacion/golden.yaml'))['casos']))"
+          > "$RUNNER_TEMP/casos.json"
+      - run: node evaluacion/web.cjs "$RUNNER_TEMP/casos.json" --detalle
