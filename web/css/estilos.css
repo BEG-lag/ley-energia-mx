@@ -93,7 +93,7 @@ h1 em, h2 em { font-family: var(--serif); font-style: italic; font-weight: 500; 
 .hero-sub { font-family: var(--sans); color: #c9ccd2; font-size: clamp(15px, 1.6vw, 18px); line-height: 1.55; max-width: 62ch; margin: 0 0 24px; }
 
 /* Buscador */
-.buscador { background: var(--ink-2); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; display: grid; gap: 12px; max-width: 900px; }
+.buscador { background: var(--ink-2); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 12px; max-width: 900px; }
 .campo { display: flex; gap: 8px; }
 .campo input { flex: 1; min-width: 0; font: inherit; font-size: 16px; color: var(--paper); background: var(--ink); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
 .campo input::placeholder { color: #8b92a1; }
@@ -190,9 +190,10 @@ code { font-family: var(--mono); }
 .cifras dd { margin: 2px 0 0; font-size: 22px; font-weight: 700; color: var(--lime); }
 
 /* Lector */
-.lector { position: fixed; inset: 0; z-index: 50; display: grid; grid-template-rows: auto 1fr; background: rgba(10, 12, 16, 0.97); }
+.lector { position: fixed; inset: 0; z-index: 50; display: grid; grid-template-rows: auto 1fr; grid-template-columns: minmax(0, 1fr); background: rgba(10, 12, 16, 0.97); }
 .lector-cab { border-bottom: 1px solid var(--ink-3); padding: 12px var(--gutter); display: flex; gap: 12px; align-items: flex-start; }
-.lector-cab h2 { font-size: clamp(18px, 2.4vw, 24px); }
+.lector-cab > div { min-width: 0; }
+.lector-cab h2 { font-size: clamp(18px, 2.4vw, 24px); overflow-wrap: anywhere; }
 .lector-cab .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; margin-top: 6px; font-size: 11px; color: var(--muted); }
 .cerrar { margin-left: auto; font: inherit; font-weight: 700; color: var(--ink); background: var(--lime); border: 0; border-radius: 999px; padding: 8px 14px; cursor: pointer; min-height: 40px; }
 .lector-cuerpo { overflow: hidden; display: grid; grid-template-columns: 1fr; min-height: 0; }
